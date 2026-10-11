@@ -1,0 +1,54 @@
+---
+title: "20 CFR Part 319 — PROCEDURE FOR DETERMINING LIABILITY FOR CONTRIBUTIONS OR REPAYMENTS OF BENEFITS"
+identifier: "20 CFR Part 319"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-09-30  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-20/part-319"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "01-Oct-2026 22:01"
+---
+
+*Title 20—Employees' Benefits › CHAPTER II—RAILROAD RETIREMENT BOARD › SUBCHAPTER C—REGULATIONS UNDER THE RAILROAD UNEMPLOYMENT INSURANCE ACT*
+
+# PART 319—PROCEDURE FOR DETERMINING LIABILITY FOR CONTRIBUTIONS OR REPAYMENTS OF BENEFITS
+
+**Authority:** Sec. 12, 52 Stat. 1107, as amended; 45 U.S.C. 362.
+
+## § 319.1 Statutory provisions.
+
+> \* \* \* In any case in which benefits are awarded to a claimant in whole or in part upon the basis of pay earned in the service of a person or company found by the Board to be an employer as defined in this Act but which denies that it is such an employer, such benefits awarded on such basis shall be paid to such claimant subject to a right of recovery of such benefits. The Board shall thereupon designate one of its officers or employees to receive evidence and to report to the Board on whether such benefits should be repaid. The Board may also designate one of its officers or employees to receive evidence and report to the Board whether or not any person or company is entitled to a refund of contributions or should be required to pay contributions under this Act, regardless of whether or not any claims for benefits will have been filed upon the basis of service in the employ of such person or company, and shall follow such procedure if contributions are assessed and payment is refused or payment is made and a refund claimed upon the basis that such person or company is or will not have been liable for such contributions. In any such case the Board or the person so designated shall, by publication or otherwise, notify all parties properly interested of their right to participate in the proceeding and, if a hearing is to be held, of the time and place of the hearing. At the request of any party properly interested the Board shall provide for a hearing, and may provide for a hearing on its own motion. The Board shall prescribe regulations governing the proceedings provided for in this paragraph and for decisions upon such proceedings.
+
+> Final decision of the Board in the cases provided for in the preceding two paragraphs shall be communicated to the claimant and to the other interested parties within fifteen days after it is made. Any properly interested party notified, as hereinabove provided, of his right to participate in the proceedings may obtain a review of any such decision by which he claims to be aggrieved or the determination of any issue therein in the manner provided in subsection (f) of this section with respect to the review of the Board's decisions upon claims for benefits and subject to all provisions of law applicable to the review of such decisions. Subject only to such review, the decision of the Board upon all issues determined in such decision shall be final and conclusive for all purposes and shall conclusively establish all rights and obligations, arising under this Act, of every party notified as hereinabove provided of his right to participate in the proceedings.
+
+> Any issue determinable pursuant to this subsection and subsection (f) of this section shall not be determined in any manner other than pursuant to this subsection and subsection (f). (Section 5(c), Railroad Unemployment Insurance Act.)
+
+> In any proceeding other than a court proceeding, the rules of evidence prevailing in courts of law or equity shall not be controlling, but a full and complete record shall be kept of all proceedings and testimony, and the Board's final determination, together with its findings of fact and conclusions of law in connection therewith, shall be communicated to the parties within fifteen days after the date of such final determinations.
+
+(Section 5(e), Railroad Unemployment Insurance Act.)
+
+> Any claimant, or any railway labor organization organized in accordance with the provisions of the Railway Labor Act, of which claimant is a member, or any other party aggrieved by a final decision under subsection (c) of this section, may, only after all administrative remedies within the Board will have been availed of and exhausted, obtain a review of any final decision of the Board by filing a petition for review within ninety days after the mailing of notice of such decision to the claimant or other party, or within such further time as the Board may allow, in the United States court of appeals for the circuit in which the claimant or other party resides or will have had his principal place of business or principal executive office, or in the United States Court of Appeals for the Seventh Circuit or in the Court of Appeals for the District of Columbia. \* \* \* (Section 5(f), Railroad Unemployment Insurance Act.)
+
+[Board Order 58-142, 23 FR 9089, Nov. 22, 1958]
+
+## § 319.2 Procedure for determining entitlement to benefits awarded where employer status is denied, and for determining liability for contributions.
+
+(a) The Board may designate one of its officers or employees as examiner to receive evidence and report to the Board (1) whether or not a claimant should repay benefits awarded in whole or in part upon the basis of pay earned in the service of a person or company found by the Board to be an employer as defined in the Railroad Unemployment Insurance Act, but which denies that it is such an employer, or (2) whether or not any person or company is entitled to a refund of contributions or should be required to pay contributions under the Act. Such procedure shall be followed if contributions are assessed and payment is refused or payment is made and a refund claimed upon the basis that such person or company is or will not have been liable for such contributions. The examiner shall have power to hold hearings, require and compel the attendance of witnesses, administer oaths, take testimony, and make all necessary investigations. At the request of any party properly interested, the Board shall provide for a hearing before such examiner, and may provide for a hearing on its own motion. The examiner shall, by publication or otherwise, notify all parties properly interested of their right to participate in the proceeding and if a hearing is to be held, of the time and place of the hearing.
+
+(b) All evidence and argument presented by any party, and all evidence developed by the examiner, shall be preserved and shall constitute a part of the record. All oral evidence presented at any hearing, and all oral argument, shall be reduced to writing. The record at any time shall be available for examination by any properly interested party or his representative.
+
+(c) Upon the completion of any proceeding, the examiner shall upon the basis of the entire record, render a report to the Board as soon as practicable, and within five days after the making thereof shall send a copy of the report to each party appearing in the proceeding by mailing such copy to him at the address stated in his appearance. Such report shall contain a statement of (1) the issue or issues raised, (2) the evidence submitted, (3) findings of fact, (4) conclusions of law, and (5) a recommended determination.
+
+(d) Any party to the proceeding may, within twenty days after the mailing to him of a copy of the examiner's report, file with the Board, and serve upon other parties by mailing to their addresses as stated in their appearances, such exceptions in writing as he desires to make to the examiner's findings of fact and conclusions of law. Each exception shall specifically designate the particular finding of fact or conclusion of law to which exception is taken, and shall set forth in detail the grounds of the exception. General exceptions and exceptions not specifically directed to particular findings of fact or conclusions of law will not be considered. Each party shall have ten days after the receipt of exceptions taken by other parties in which to file with the Board replies to the exceptions. The Board may, upon the application of any party and for cause shown, extend the time for filing and serving of exceptions or filing of replies thereto. The examiner's report shall be advisory but shall be presumed to be correct. Findings of fact to which no exceptions are taken will, subject only to the power of the Board to reject or modify, stand confirmed.
+
+(e) The Board will render its decision upon the record and upon the basis of the examiner's report and such exceptions and replies thereto as are made. Further argument will not be permitted except upon a showing by any party that he has arguments to present which for valid reasons he was unable to present at an earlier stage, and in cases in which the Board requests further elaboration of arguments. In such cases, the further argument shall be submitted orally or in writing, as the Board may indicate in each case, and shall be subject to such restrictions as to form, subject matter, length, and time as the Board may indicate. The decision of the Board will be communicated to all parties to the proceeding within fifteen days after it has been made by mailing a copy of the decision to each such party at the address furnished by him.
+
+(f) The decision of the Board, with respect to all issues determined therein, shall be final and conclusive for all purposes, and shall conclusively establish all rights and obligations, arising under any act administered by the Board, of every person notified of his right to participate in the proceeding.
+
+(g) Any properly interested party notified of his right to participate in the proceeding may, as provided in section 5(c) of the Railroad Unemployment Insurance Act, and in accordance with the provisions of section 5(f) of the Act, obtain judicial review of a final decision of the Board, under this section, by which he claims to be aggrieved, by filing a petition for review in the proper court within ninety days after the mailing to him of notice of such decision, or within such further time as the Board may allow. Such petition for review must be filed in the U.S. Court of Appeals for the circuit in which the party resides or will have had his principal place of business or principal executive office, or in the U.S. Court of Appeals for the Seventh Circuit or in the Court of Appeals for the District of Columbia.
+
+(h) Insofar as applicable and not inconsistent with the preceding provisions of this section, the provisions of §§ 250.7 to 250.16 of this chapter shall be followed in any proceeding under this section.
+
+[Board Order 58-142, 23 FR 9089, Nov. 22, 1958]

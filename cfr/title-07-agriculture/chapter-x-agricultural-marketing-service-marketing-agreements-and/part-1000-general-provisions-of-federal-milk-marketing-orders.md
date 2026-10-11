@@ -1,0 +1,3825 @@
+---
+title: "7 CFR Part 1000 — GENERAL PROVISIONS OF FEDERAL MILK MARKETING ORDERS"
+identifier: "7 CFR Part 1000"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-08  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-7/part-1000"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "09-Oct-2026 20:47"
+---
+
+*Title 7—Agriculture › Subtitle B—Regulations of the Department of Agriculture (Continued) › CHAPTER X—AGRICULTURAL MARKETING SERVICE (MARKETING AGREEMENTS AND ORDERS; MILK), DEPARTMENT OF AGRICULTURE*
+
+# PART 1000—GENERAL PROVISIONS OF FEDERAL MILK MARKETING ORDERS
+
+**Authority:** 7 U.S.C. 601-674, and 7253.
+
+**Source:** 64 FR 47899, Sept. 1, 1999, unless otherwise noted.
+
+## Subpart A—Scope and Purpose
+
+### § 1000.1 Scope and purpose of this part 1000.
+
+This part sets forth certain terms, definitions, and provisions which shall be common to and apply to Federal milk marketing order in 7 CFR, chapter X, except as specifically defined otherwise, or modified, or otherwise provided, in an individual order in 7 CFR, chapter X.
+
+## Subpart B—Definitions
+
+### § 1000.2 General definitions.
+
+(a) *Act* means Public Act No. 10, 73d Congress, as amended and as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601 *et seq.*).
+
+(b) *Order* or *Federal milk order* means the applicable part of 7 CFR, chapter X, issued pursuant to Section 8c of the Act as a Federal milk marketing order (as amended).
+
+(c) *Department* means the U.S. Department of Agriculture.
+
+(d) *Secretary* means the Secretary of Agriculture of the United States or any officer or employee of the Department to whom authority has heretofore been delegated, or to whom authority may hereafter be delegated, to act in his stead.
+
+(e) *Person* means any individual, partnership, corporation, association, or other business unit.
+
+### § 1000.3 Route disposition.
+
+*Route disposition* means a delivery to a retail or wholesale outlet (except a plant), either directly or through any distribution facility (including disposition from a plant store, vendor, or vending machine) of a fluid milk product in consumer-type packages or dispenser units classified as Class I milk.
+
+### § 1000.4 Plant.
+
+(a) Except as provided in paragraph (b) of this section, *plant* means the land, buildings, facilities, and equipment constituting a single operating unit or establishment at which milk or milk products are received, processed, or packaged, including a facility described in paragraph (b)(2) of this section if the facility receives the milk of more than one dairy farmer.
+
+(b) Plant shall not include:
+
+(1) A separate building without stationary storage tanks that is used only as a reload point for transferring bulk milk from one tank truck to another or a separate building used only as a distribution point for storing packaged fluid milk products in transit for route disposition; or
+
+(2) An on-farm facility operated as part of a single dairy farm entity for the separation of cream and skim or the removal of water from milk.
+
+### § 1000.5 Distributing plant.
+
+*Distributing plant* means a plant that is approved by a duly constituted regulatory agency for the handling of Grade A milk at which fluid milk products are processed or packaged and from which there is route disposition or transfers of packaged fluid milk products to other plants.
+
+### § 1000.6 Supply plant.
+
+*Supply plant* means a plant approved by a duly constituted regulatory agency for the handling of Grade A milk that receives milk directly from dairy farmers and transfers or diverts fluid milk products to other plants or manufactures dairy products on its premises.
+
+### § 1000.8 Nonpool plant.
+
+*Nonpool plant* means any milk receiving, manufacturing, or processing plant other than a pool plant. The following categories of nonpool plants are further defined as follows:
+
+(a) *A plant fully regulated under another Federal order* means a plant that is fully subject to the pricing and pooling provisions of another Federal order.
+
+(b) *Producer-handler plant* means a plant operated by a producer-handler as defined under any Federal order.
+
+(c) *Partially regulated distributing plant* means a nonpool plant that is not a plant fully regulated under another Federal order, a producer-handler plant, or an exempt plant, from which there is route disposition in the marketing area during the month.
+
+(d) *Unregulated supply plant* means a supply plant that does not qualify as a pool supply plant and is not a plant fully regulated under another Federal order, a producer-handler plant, or an exempt plant.
+
+(e) *An exempt plant* means a plant described in this paragraph that is exempt from the pricing and pooling provisions of any order provided that the operator of the plant files reports as prescribed by the market administrator of any marketing area in which the plant distributes packaged fluid milk products to enable determination of the handler's exempt status:
+
+(1) A plant that is operated by a governmental agency that has no route disposition in commercial channels;
+
+(2) A plant that is operated by a duly accredited college or university disposing of fluid milk products only through the operation of its own facilities with no route disposition in commercial channels;
+
+(3) A plant from which the total route disposition is for individuals or institutions for charitable purposes without remuneration; or
+
+(4) A plant that has route disposition and packaged sales of fluid milk products to other plants of 150,000 pounds or less during the month.
+
+### § 1000.9 Handler.
+
+*Handler* means:
+
+(a) Any person who operates a pool plant or a nonpool plant.
+
+(b) Any person who receives packaged fluid milk products from a plant for resale and distribution to retail or wholesale outlets, any person who as a broker negotiates a purchase or sale of fluid milk products or fluid cream products from or to any pool or nonpool plant, and any person who by purchase or direction causes milk of producers to be picked up at the farm and/or moved to a plant. Persons who qualify as handlers only under this paragraph under any Federal milk order are not subject to the payment provisions of §§ \_\_\_\_.70, \_\_\_\_.71, \_\_\_\_.72, \_\_\_\_.73, \_\_\_\_.76, and \_\_\_\_.85 of that order.
+
+(c) Any cooperative association with respect to milk that it receives for its account from the farm of a producer and delivers to pool plants or diverts to nonpool plants pursuant to § \_\_\_\_.13 of the order. The operator of a pool plant receiving milk from a cooperative association may be the handler for such milk if both parties notify the market administrator of this agreement prior to the time that the milk is delivered to the pool plant and the plant operator purchases the milk on the basis of farm bulk tank weights and samples.
+
+### § 1000.14 Other source milk.
+
+*Other source milk* means all skim milk and butterfat contained in or represented by:
+
+(a) Receipts of fluid milk products and bulk fluid cream products from any source other than producers, handlers described in § 1000.9(c) and § 1135.11, or pool plants;
+
+(b) Products (other than fluid milk products, fluid cream products, and products produced at the plant during the same month) from any source which are reprocessed, converted into, or combined with another product in the plant during the month; and
+
+(c) Receipts of any milk product (other than a fluid milk product or a fluid cream product) for which the handler fails to establish a disposition.
+
+### § 1000.15 Fluid milk product.
+
+(a) Except as provided in paragraph (b) of this section, *fluid milk product* shall mean any milk products in fluid or frozen form that are intended to be used as beverages containing less than 9 percent butterfat and 6.5 percent or more nonfat solids or 2.25 percent or more true milk protein. Sources of such nonfat solids/protein include but are not limited to: Casein, whey protein concentrate, milk protein concentrate, dry whey, caseinates, lactose, and any similar dairy derived ingredient. Such products include, but are not limited to: Milk, fat-free milk, lowfat milk, light milk, reduced fat milk, milk drinks, eggnog and cultured buttermilk, including any such beverage products that are flavored, cultured, modified with added or reduced nonfat solids, sterilized, concentrated, or reconstituted. As used in this part, the term concentrated milk means milk that contains not less than 25.5 percent, and not more than 50 percent, total milk solids.
+
+(b) The term fluid milk product shall not include:
+
+(1) Any product that contains less than 6.5 percent nonfat milk solids and contains less than 2.25 percent true milk protein; whey; plain or sweetened evaporated milk/skim milk; sweetened condensed milk/skim milk; yogurt containing beverages with 20 or more percent yogurt by weight and kefir; products especially prepared for infant feeding or dietary use (meal replacement) that are packaged in hermetically sealed containers; and products that meet the compositional standards specified in paragraph (a) of this section but contain no fluid milk products included in paragraph (a) of this section.
+
+(2) The quantity of skim milk equivalent in any modified product specified in paragraph (a) of this section that is greater than an equal volume of an unmodified product of the same nature and butterfat content.
+
+[64 FR 47899, Sept. 1, 1999, as amended at 75 FR 51931, Aug. 24, 2010]
+
+### § 1000.16 Fluid cream product.
+
+*Fluid cream product* means cream (other than plastic cream or frozen cream), including sterilized cream, or a mixture of cream and milk or skim milk containing 9 percent or more butterfat, with or without the addition of other ingredients.
+
+### § 1000.17 [Reserved]
+
+### § 1000.18 Cooperative association.
+
+*Cooperative association* means any cooperative marketing association of producers which the Secretary determines is qualified under the provisions of the Capper-Volstead Act, has full authority in the sale of milk of its members, and is engaged in marketing milk or milk products for its members. A federation of 2 or more cooperatives incorporated under the laws of any state will be considered a cooperative association under any Federal milk order if all member cooperatives meet the requirements of this section.
+
+### § 1000.19 Commercial food processing establishment.
+
+*Commercial food processing establishment* means any facility, other than a milk plant, to which fluid milk products and fluid cream products are disposed of, or producer milk is diverted, that uses such receipts as ingredients in food products and has no other disposition of fluid milk products other than those received in consumer-type packages (1 gallon or less). Producer milk diverted to commercial food processing establishments shall be subject to the same provisions relating to diversions to plants, including, but not limited to, §§ \_\_\_\_.13 and \_\_\_\_.52 of each Federal milk order.
+
+## Subpart C—Rules of Practice and Procedure Governing Market Administrators
+
+### § 1000.25 Market administrator.
+
+(a) *Designation.* The agency for the administration of the order shall be a market administrator selected by the Secretary and subject to removal at the Secretary's discretion. The market administrator shall be entitled to compensation determined by the Secretary.
+
+(b) *Powers.* The market administrator shall have the following powers with respect to each order under his/her administration:
+
+(1) Administer the order in accordance with its terms and provisions;
+
+(2) Maintain and invest funds outside of the United States Department of the Treasury for the purpose of administering the order;
+
+(3) Make rules and regulations to effectuate the terms and provisions of the order;
+
+(4) Receive, investigate, and report complaints of violations to the Secretary; and
+
+(5) Recommend amendments to the Secretary.
+
+(c) *Duties.* The market administrator shall perform all the duties necessary to administer the terms and provisions of each order under his/her administration, including, but not limited to, the following:
+
+(1) Employ and fix the compensation of persons necessary to enable him/her to exercise the powers and perform the duties of the office;
+
+(2) Pay out of funds provided by the administrative assessment, except expenses associated with functions for which the order provides a separate charge, all expenses necessarily incurred in the maintenance and functioning of the office and in the performance of the duties of the office, including the market administrator's compensation;
+
+(3) Keep records which will clearly reflect the transactions provided for in the order and upon request by the Secretary, surrender the records to a successor or such other person as the Secretary may designate;
+
+(4) Furnish information and reports requested by the Secretary and submit office records for examination by the Secretary;
+
+(5) Announce publicly at his/her discretion, unless otherwise directed by the Secretary, by such means as he/she deems appropriate, the name of any handler who, after the date upon which the handler is required to perform such act, has not:
+
+(i) Made reports required by the order;
+
+(ii) Made payments required by the order; or
+
+(iii) Made available records and facilities as required pursuant to § 1000.27;
+
+(6) Prescribe reports required of each handler under the order. Verify such reports and the payments required by the order by examining records (including such papers as copies of income tax reports, fiscal and product accounts, correspondence, contracts, documents or memoranda of the handler, and the records of any other persons that are relevant to the handler's obligation under the order), by examining such handler's milk handling facilities, and by such other investigation as the market administrator deems necessary for the purpose of ascertaining the correctness of any report or any obligation under the order. Reclassify skim milk and butterfat received by any handler if such examination and investigation discloses that the original classification was incorrect;
+
+(7) Furnish each regulated handler a written statement of such handler's accounts with the market administrator promptly each month. Furnish a corrected statement to such handler if verification discloses that the original statement was incorrect; and
+
+(8) Prepare and disseminate publicly for the benefit of producers, handlers, and consumers such statistics and other information concerning operation of the order and facts relevant to the provisions thereof (or proposed provisions) as do not reveal confidential information.
+
+## Subpart D—Rules Governing Order Provisions
+
+### § 1000.26 Continuity and separability of provisions.
+
+(a) *Effective time.* The provisions of the order or any amendment to the order shall become effective at such time as the Secretary may declare and shall continue in force until suspended or terminated.
+
+(b) *Suspension or termination.* The Secretary shall suspend or terminate any or all of the provisions of the order whenever he/she finds that such provision(s) obstructs or does not tend to effectuate the declared policy of the Act. The order shall terminate whenever the provisions of the Act authorizing it cease to be in effect.
+
+(c) *Continuing obligations.* If upon the suspension or termination of any or all of the provisions of the order there are any obligations arising under the order, the final accrual or ascertainment of which requires acts by any handler, by the market administrator or by any other person, the power and duty to perform such further acts shall continue notwithstanding such suspension or termination.
+
+(d) *Liquidation.* (1) Upon the suspension or termination of any or all provisions of the order the market administrator, or such other liquidating agent designated by the Secretary, shall, if so directed by the Secretary, liquidate the business of the market administrator's office, dispose of all property in his/her possession or control, including accounts receivable, and execute and deliver all assignments or other instruments necessary or appropriate to effectuate any such disposition; and
+
+(2) If a liquidating agent is so designated, all assets and records of the market administrator shall be transferred promptly to such liquidating agent. If, upon such liquidation, the funds on hand exceed the amounts required to pay outstanding obligations of the office of the market administrator and to pay necessary expenses of liquidation and distribution, such excess shall be distributed to contributing handlers and producers in an equitable manner.
+
+(e) *Separability of provisions.* If any provision of the order or its application to any person or circumstances is held invalid, the application of such provision and of the remaining provisions of the order to other persons or circumstances shall not be affected thereby.
+
+## Subpart E—Rules of Practice and Procedure Governing Handlers
+
+### § 1000.27 Handler responsibility for records and facilities.
+
+Each handler shall maintain and retain records of its operations and make such records and its facilities available to the market administrator. If adequate records of a handler, or of any other persons, that are relevant to the obligation of such handler are not maintained and made available, any skim milk and butterfat required to be reported by such handler for which adequate records are not available shall be considered as used in the highest-priced class.
+
+(a) *Records to be maintained.* (1) Each handler shall maintain records of its operations (including, but not limited to, records of purchases, sales, processing, packaging, and disposition) as are necessary to verify whether such handler has any obligation under the order and if so, the amount of such obligation. Such records shall be such as to establish for each plant or other receiving point for each month:
+
+(i) The quantities of skim milk and butterfat contained in, or represented by, products received in any form, including inventories on hand at the beginning of the month, according to form, time, and source of each receipt;
+
+(ii) The utilization of all skim milk and butterfat showing the respective quantities of such skim milk and butterfat in each form disposed of or on hand at the end of the month; and
+
+(iii) Payments to producers, dairy farmers, and cooperative associations, including the amount and nature of any deductions and the disbursement of money so deducted.
+
+(2) Each handler shall keep such other specific records as the market administrator deems necessary to verify or establish such handler's obligation under the order.
+
+(b) *Availability of records and facilities.* Each handler shall make available all records pertaining to such handler's operations and all facilities the market administrator finds are necessary to verify the information required to be reported by the order and/or to ascertain such handler's reporting, monetary, or other obligation under the order. Each handler shall permit the market administrator to weigh, sample, and test milk and milk products and observe plant operations and equipment and make available to the market administrator such facilities as are necessary to carry out his/her duties.
+
+(c) *Retention of records.* All records required under the order to be made available to the market administrator shall be retained by the handler for a period of 3 years to begin at the end of the month to which such records pertain. If, within such 3-year period, the market administrator notifies the handler in writing that the retention of such records, or of specified records, is necessary in connection with a proceeding under section 8c(15)(A) of the Act or a court action specified in such notice, the handler shall retain such records, or specified records, until further written notification from the market administrator. The market administrator shall give further written notification to the handler promptly upon the termination of the litigation or when the records are no longer necessary in connection therewith.
+
+### § 1000.28 Termination of obligations.
+
+(a) Except as provided in paragraphs (b) and (c) of this section, the obligation of any handler to pay money required to be paid under the terms of the order shall terminate 2 years after the last day of the month during which the market administrator receives the handler's report of receipts and utilization on which such obligation is based, unless within such 2-year period, the market administrator notifies the handler in writing that such money is due and payable. Service of such written notice shall be complete upon mailing to the handler's last known address and it shall contain, but need not be limited to, the following information:
+
+(1) The amount of the obligation;
+
+(2) The month(s) on which such obligation is based; and
+
+(3) If the obligation is payable to one or more producers or to a cooperative association, the name of such producer(s) or such cooperative association, or if the obligation is payable to the market administrator, the account for which it is to be paid.
+
+(b) If a handler fails or refuses, with respect to any obligation under the order, to make available to the market administrator all records required by the order to be made available, the market administrator may notify the handler in writing, within the 2-year period provided for in paragraph (a) of this section, of such failure or refusal. If the market administrator so notifies a handler, the said 2-year period with respect to such obligation shall not begin to run until the first day of the month following the month during which all such records pertaining to such obligation are made available to the market administrator.
+
+(c) Notwithstanding the provisions of paragraphs (a) and (b) of this section, a handler's obligation under the order to pay money shall not be terminated with respect to any transaction involving fraud or willful concealment of a fact, material to the obligation, on the part of the handler against whom the obligation is sought to be imposed.
+
+(d) Unless the handler files a petition pursuant to section 8c(15)(A) of the Act and the applicable rules and regulations (7 CFR 900.50 through 900.71) within the applicable 2-year period indicated below, the obligation of the market administrator:
+
+(1) To pay a handler any money which such handler claims is due under the terms of the order shall terminate 2 years after the end of the month during which the skim milk and butterfat involved in the claim were received; or
+
+(2) To refund any payment made by a handler (including a deduction or offset by the market administrator) shall terminate 2 years after the end of the month during which payment was made by the handler.
+
+## Subpart F—Classification of Milk
+
+### § 1000.40 Classes of utilization.
+
+Except as provided in § 1000.42, all skim milk and butterfat required to be reported pursuant to § ——.30 of each Federal milk order shall be classified as follows:
+
+(a) *Class I milk* shall be all skim milk and butterfat:
+
+(1) Disposed of in the form of fluid milk products, except as otherwise provided in this section;
+
+(2) In packaged fluid milk products in inventory at the end of the month; and
+
+(3) In shrinkage assigned pursuant to § 1000.43(b).
+
+(b) *Class II milk* shall be all skim milk and butterfat:
+
+(1) In fluid milk products in containers larger than 1 gallon and fluid cream products disposed of or diverted to a commercial food processing establishment if the market administrator is permitted to audit the records of the commercial food processing establishment for the purpose of verification. Otherwise, such uses shall be Class I;
+
+(2) Used to produce:
+
+(i) Cottage cheese, lowfat cottage cheese, dry curd cottage cheese, ricotta cheese, pot cheese, Creole cheese, and any similar soft, high-moisture cheese resembling cottage cheese in form or use;
+
+(ii) Milkshake and ice milk mixes (or bases), frozen desserts, and frozen dessert mixes distributed in half-gallon containers or larger and intended to be used in soft or semi-solid form;
+
+(iii) Aerated cream, frozen cream, sour cream, sour half-and-half, sour cream mixtures containing non-milk items; yogurt, including yogurt containing beverages with 20 percent or more yogurt by weight and kefir, and any other semi-solid product resembling a Class II product;
+
+(iv) Custards, puddings, pancake mixes, coatings, batter, and similar products;
+
+(v) Buttermilk biscuit mixes and other buttermilk for baking that contain food starch in excess of 2% of the total solids, provided that the product is labeled to indicate the food starch content;
+
+(vi) Products especially prepared for infant feeding or dietary use (meal replacements) that are packaged in hermetically sealed containers and products that meet the compositional standards of § 1000.15(a) but contain no fluid milk products included in § 1000.15(a).
+
+(vii) Candy, soup, bakery products and other prepared foods which are processed for general distribution to the public, and intermediate products, including sweetened condensed milk, to be used in processing such prepared food products;
+
+(viii) A fluid cream product or any product containing artificial fat or fat substitutes that resembles a fluid cream product, except as otherwise provided in paragraph (c) of this section; and
+
+(ix) Any product not otherwise specified in this section; and
+
+(3) In shrinkage assigned pursuant to § 1000.43(b).
+
+(c) *Class III milk* shall be all skim milk and butterfat:
+
+(1) Used to produce:
+
+(i) Cream cheese and other spreadable cheeses, and hard cheese of types that may be shredded, grated, or crumbled;
+
+(ii) Plastic cream, anhydrous milkfat, and butteroil; and
+
+(2) In shrinkage assigned pursuant to § 1000.43(b).
+
+(d) *Class IV milk* shall be all skim milk and butterfat:
+
+(1) Used to produce:
+
+(i) Butter; and
+
+(ii) Evaporated or sweetened condensed milk in a consumer-type package; and
+
+(iii) Any milk product in dried form;
+
+(2) In inventory at the end of the month of fluid milk products and fluid cream products in bulk form;
+
+(3) In the skim milk equivalent of nonfat milk solids used to modify a fluid milk product that has not been accounted for in Class I; and
+
+(4) In shrinkage assigned pursuant to § 1000.43(b).
+
+(e) *Other uses.* Other uses include skim milk and butterfat used in any product described in this section that is dumped, used for animal feed, destroyed, or lost by a handler in a vehicular accident, flood, fire, or similar occurrence beyond the handler's control. Such uses of skim milk and butterfat shall be assigned to the lowest priced class for the month to the extent that the quantities destroyed or lost can be verified from records satisfactory to the market administrator.
+
+[64 FR 47899, Sept. 1, 1999, as amended at 65 FR 82833, Dec. 28, 2000; 68 FR 7064, Feb. 12, 2003; 69 FR 21952, Apr. 23, 2004; 75 FR 51931, Aug. 24, 2010]
+
+### § 1000.41 [Reserved]
+
+### § 1000.42 Classification of transfers and diversions.
+
+(a) *Transfers and diversions to pool plants.* Skim milk or butterfat transferred or diverted in the form of a fluid milk product or transferred in the form of a bulk fluid cream product from a pool plant or a handler described in § 1135.11 of this chapter to another pool plant shall be classified as Class I milk unless the handlers both request the same classification in another class. In either case, the classification shall be subject to the following conditions:
+
+(1) The skim milk and butterfat classified in each class shall be limited to the amount of skim milk and butterfat, respectively, remaining in such class at the receiving plant after the computations pursuant to § 1000.44(a)(9) and the corresponding step of § 1000.44(b);
+
+(2) If the transferring plant received during the month other source milk to be allocated pursuant to § 1000.44(a)(3) or the corresponding step of § 1000.44(b), the skim milk or butterfat so transferred shall be classified so as to allocate the least possible Class I utilization to such other source milk; and
+
+(3) If the transferring handler received during the month other source milk to be allocated pursuant to § 1000.44(a)(8) or (9) or the corresponding steps of § 1000.44(b), the skim milk or butterfat so transferred, up to the total of the skim milk and butterfat, respectively, in such receipts of other source milk, shall not be classified as Class I milk to a greater extent than would be the case if the other source milk had been received at the receiving plant.
+
+(b) *Transfers and diversions to a plant regulated under another Federal order.* Skim milk or butterfat transferred or diverted in the form of a fluid milk product or transferred in the form of a bulk fluid cream product from a pool plant to a plant regulated under another Federal order shall be classified in the following manner. Such classification shall apply only to the skim milk or butterfat that is in excess of any receipts at the pool plant from a plant regulated under another Federal order of skim milk and butterfat, respectively, in fluid milk products and bulk fluid cream products, respectively, that are in the same category as described in paragraph (b)(1) or (2) of this section:
+
+(1) As Class I milk, if transferred as packaged fluid milk products;
+
+(2) If transferred or diverted in bulk form, classification shall be in the classes to which allocated under the other order:
+
+(i) If the operators of both plants so request in their reports of receipts and utilization filed with their respective market administrators, transfers in bulk form shall be classified as other than Class I to the extent that such utilization is available for such classification pursuant to the allocation provisions of the other order;
+
+(ii) If diverted, the diverting handler must request a classification other than Class I. If the plant receiving the diverted milk does not have sufficient utilization available for the requested classification and some of the diverted milk is consequently assigned to Class I use, the diverting handler shall be given the option of designating the entire load of diverted milk as producer milk at the plant physically receiving the milk. Alternatively, if the diverting handler so chooses, it may designate which dairy farmers whose milk was diverted during the month will be designated as producers under the order physically receiving the milk. If the diverting handler declines to accept either of these options, the market administrator will prorate the portion of diverted milk in excess of Class II, III, and IV use among all the dairy farmers whose milk was received from the diverting handler on the last day of the month, then the second-to-last day, and continuing in that fashion until the excess diverted milk has been assigned as producer milk under the receiving order; and
+
+(iii) If information concerning the classes to which such transfers or diversions were allocated under the other order is not available to the market administrator for the purpose of establishing classification under this paragraph, classification shall be Class I, subject to adjustment when such information is available.
+
+(c) *Transfers and diversions to producer-handlers and to exempt plants.* Skim milk or butterfat that is transferred or diverted from a pool plant to a producer-handler under any Federal order or to an exempt plant shall be classified:
+
+(1) As Class I milk if transferred or diverted to a producer-handler;
+
+(2) As Class I milk if transferred to an exempt plant in the form of a packaged fluid milk product; and
+
+(3) In accordance with the utilization assigned to it by the market administrator if transferred or diverted in the form of a bulk fluid milk product or transferred in the form of a bulk fluid cream product to an exempt plant. For this purpose, the receiving handler's utilization of skim milk and butterfat in each class, in series beginning with Class IV, shall be assigned to the extent possible to its receipts of skim milk and butterfat, in bulk fluid cream products, and bulk fluid milk products, respectively, pro rata to each source.
+
+(d) *Transfers and diversions to other nonpool plants.* Skim milk or butterfat transferred or diverted in the following forms from a pool plant to a nonpool plant that is not a plant regulated under another order, an exempt plant, or a producer-handler plant shall be classified:
+
+(1) As Class I milk, if transferred in the form of a packaged fluid milk product; and
+
+(2) As Class I milk, if transferred or diverted in the form of a bulk fluid milk product or transferred in the form of a bulk fluid cream product, unless the following conditions apply:
+
+(i) If the conditions described in paragraphs (d)(2)(i)(A) and (B) of this section are met, transfers or diversions in bulk form shall be classified on the basis of the assignment of the nonpool plant's utilization, excluding the milk equivalent of both nonfat milk solids and concentrated milk used in the plant during the month, to its receipts as set forth in paragraphs (d)(2)(ii) through (viii) of this section:
+
+(A) The transferring handler or diverting handler claims such classification in such handler's report of receipts and utilization filed pursuant to § \_\_.30 of each Federal milk order for the month within which such transaction occurred; and
+
+(B) The nonpool plant operator maintains books and records showing the utilization of all skim milk and butterfat received at such plant which are made available for verification purposes if requested by the market administrator;
+
+(ii) Route disposition in the marketing area of each Federal milk order from the nonpool plant and transfers of packaged fluid milk products from such nonpool plant to plants fully regulated thereunder shall be assigned to the extent possible in the following sequence:
+
+(A) Pro rata to receipts of packaged fluid milk products at such nonpool plant from pool plants;
+
+(B) Pro rata to any remaining unassigned receipts of packaged fluid milk products at such nonpool plant from plants regulated under other Federal orders;
+
+(C) Pro rata to receipts of bulk fluid milk products at such nonpool plant from pool plants; and
+
+(D) Pro rata to any remaining unassigned receipts of bulk fluid milk products at such nonpool plant from plants regulated under other Federal orders;
+
+(iii) Any remaining Class I disposition of packaged fluid milk products from the nonpool plant shall be assigned to the extent possible pro rata to any remaining unassigned receipts of packaged fluid milk products at such nonpool plant from pool plants and plants regulated under other Federal orders;
+
+(iv) Transfers of bulk fluid milk products from the nonpool plant to a plant regulated under any Federal order, to the extent that such transfers to the regulated plant exceed receipts of fluid milk products from such plant and are allocated to Class I at the receiving plant, shall be assigned to the extent possible in the following sequence:
+
+(A) Pro rata to receipts of fluid milk products at such nonpool plant from pool plants; and
+
+(B) Pro rata to any remaining unassigned receipts of fluid milk products at such nonpool plant from plants regulated under other Federal orders;
+
+(v) Any remaining unassigned Class I disposition from the nonpool plant shall be assigned to the extent possible in the following sequence:
+
+(A) To such nonpool plant's receipts from dairy farmers who the market administrator determines constitute regular sources of Grade A milk for such nonpool plant; and
+
+(B) To such nonpool plant's receipts of Grade A milk from plants not fully regulated under any Federal order which the market administrator determines constitute regular sources of Grade A milk for such nonpool plant;
+
+(vi) Any remaining unassigned receipts of bulk fluid milk products at the nonpool plant from pool plants and plants regulated under other Federal orders shall be assigned, pro rata among such plants, to the extent possible first to any remaining Class I utilization and then to all other utilization, in sequence beginning with Class IV at such nonpool plant;
+
+(vii) Receipts of bulk fluid cream products at the nonpool plant from pool plants and plants regulated under other Federal orders shall be assigned, pro rata among such plants, to the extent possible to any remaining utilization, in sequence beginning with Class IV at such nonpool plant; and
+
+(viii) In determining the nonpool plant's utilization for purposes of this paragraph, any fluid milk products and bulk fluid cream products transferred from such nonpool plant to a plant not fully regulated under any Federal order shall be classified on the basis of the second plant's utilization using the same assignment priorities at the second plant that are set forth in this paragraph.
+
+### § 1000.43 General classification rules.
+
+In determining the classification of producer milk pursuant to § 1000.44, the following rules shall apply:
+
+(a) Each month the market administrator shall correct for mathematical and other obvious errors all reports filed pursuant to § \_\_.30 of each Federal milk order and shall compute separately for each pool plant, for each handler described in § 1000.9(c), the pounds of skim milk and butterfat, respectively, in each class in accordance with §§ 1000.40 and 1000.42, and paragraph (b) of this section.
+
+(b) *Shrinkage and Overage.* For purposes of classifying all milk reported by a handler pursuant to § \_\_.30 of each Federal milk order the market administrator shall determine the shrinkage or overage of skim milk and butterfat for each pool plant and each handler described in § 1000.9(c) by subtracting total utilization from total receipts. Any positive difference shall be shrinkage, and any negative difference shall be overage.
+
+(1) Shrinkage incurred by pool plants qualified pursuant to § \_\_.7 of any Federal milk order shall be assigned to the lowest-priced class to the extent that such shrinkage does not exceed:
+
+(i) Two percent of the total quantity of milk physically received at the plant directly from producers' farms on the basis of farm weights and tests;
+
+(ii) Plus 1.5 percent of the quantity of bulk milk physically received on a basis other than farm weights and tests, excluding concentrated milk received by agreement for other than Class I use;
+
+(iii) Plus .5 percent of the quantity of milk diverted by the plant operator to another plant on a basis other than farm weights and tests; and
+
+(iv) Minus 1.5 percent of the quantity of bulk milk transferred to other plants, excluding concentrated milk transferred by agreement for other than Class I use.
+
+(2) A handler described in § 1000.9(c) that delivers milk to plants on a basis other than farm weights and tests shall receive a lowest-priced-class shrinkage allowance of .5 percent of the total quantity of such milk picked up at producers' farms.
+
+(3) Shrinkage in excess of the amounts provided in paragraphs (b)(1) and (2) of this section shall be assigned to existing utilization in series starting with Class I. The shrinkage assigned pursuant to this paragraph shall be added to the handler's reported utilization and the result shall be known as the *gross utilization in each class.*
+
+(c) If any of the water but none of the nonfat solids contained in the milk from which a product is made is removed before the product is utilized or disposed of by the handler, the pounds of skim milk in such product that are to be considered under this part as used or disposed of by the handler shall be an amount equivalent to the nonfat milk solids contained in such product plus all of the water originally associated with such solids. If any of the nonfat solids contained in the milk from which a product is made are removed before the product is utilized or disposed of by the handler, the pounds of skim milk in such product that are to be considered under this part as used or disposed of by the handler shall be an amount equivalent to the nonfat milk solids contained in such product plus all of the water and nonfat solids originally associated with such solids determined on a protein equivalent basis.
+
+(d) Skim milk and butterfat contained in receipts of bulk concentrated fluid milk and nonfluid milk products that are reconstituted for fluid use shall be assigned to Class I use, up to the reconstituted portion of labeled reconstituted fluid milk products, on a pro rata basis (except for any Class I use of specific concentrated receipts that is established by the handler) prior to any assignments under § 1000.44. Any remaining skim milk and butterfat in concentrated receipts shall be assigned to uses under § 1000.44 on a pro rata basis, unless a specific use of such receipts is established by the handler.
+
+(e) Any skim milk used in ultra-pasteurized or aseptically processed and packaged fluid milk products shall be allocated in combination with Class I milk and the quantity of producer milk eligible to be priced shall be limited to available Class I producer milk classified pursuant to § 1000.44(a).
+
+[64 FR 47899, Sept. 1, 1999, as amended at 75 FR 51931, Aug. 24, 2010; 90 FR 6603, Jan. 17, 2025]
+
+### § 1000.44 Classification of producer milk.
+
+For each month the market administrator shall determine for each handler described in § 1000.9(a) for each pool plant of the handler separately and for each handler described in § 1000.9(c) and § 1135.11 of this chapter the classification of producer milk by allocating the handler's receipts of skim milk and butterfat to the handler's gross utilization of such receipts pursuant to § 1000.43(b)(3) as follows:
+
+(a) Skim milk shall be allocated in the following manner:
+
+(1) Subtract from the pounds of skim milk in Class I the pounds of skim milk in:
+
+(i) Receipts of packaged fluid milk products from an unregulated supply plant to the extent that an equivalent amount of skim milk disposed of to such plant by handlers fully regulated under any Federal order is classified and priced as Class I milk and is not used as an offset for any other payment obligation under any order;
+
+(ii) Packaged fluid milk products in inventory at the beginning of the month. This paragraph shall apply only if the pool plant was subject to the provisions of this paragraph or comparable provisions of another Federal order in the immediately preceding month;
+
+(iii) Fluid milk products received in packaged form from plants regulated under other Federal orders; and
+
+(iv) To the extent that the receipts described in paragraphs (a)(1)(i) through (iii) of this section exceed the gross Class I utilization of skim milk, the excess receipts shall be subtracted pursuant to paragraph (a)(3)(vi) of this section.
+
+(2) Subtract from the pounds of skim milk in Class II the pounds of skim milk in the receipts of skim milk in bulk concentrated fluid milk products and in other source milk (except other source milk received in the form of an unconcentrated fluid milk product or a fluid cream product) that is used to produce, or added to, any product in Class II (excluding the quantity of such skim milk that was classified as Class IV milk pursuant to § 1000.40(d)(3)). To the extent that the receipts described in this paragraph exceed the gross Class II utilization of skim milk, the excess receipts shall be subtracted pursuant to paragraph (a)(3)(vi) of this section.
+
+(3) Subtract from the pounds of skim milk remaining in each class, in series beginning with Class IV, the pounds of skim milk in:
+
+(i) Receipts of bulk concentrated fluid milk products and other source milk (except other source milk received in the form of an unconcentrated fluid milk product);
+
+(ii) Receipts of fluid milk products and bulk fluid cream products for which appropriate health approval is not established and from unidentified sources;
+
+(iii) Receipts of fluid milk products and bulk fluid cream products from an exempt plant;
+
+(iv) Fluid milk products and bulk fluid cream products received from a producer-handler as defined under the order in this part, or any other Federal order;
+
+(v) Receipts of fluid milk products from dairy farmers for other markets; and
+
+(vi) The excess receipts specified in paragraphs (a)(1)(iv) and (a)(2) of this section.
+
+(4) Subtract from the pounds of skim milk remaining in all classes other than Class I, in sequence beginning with Class IV, the receipts of fluid milk products from an unregulated supply plant that were not previously subtracted in this section for which the handler requests classification other than Class I, but not in excess of the pounds of skim milk remaining in these other classes combined.
+
+(5) Subtract from the pounds of skim milk remaining in all classes other than Class I, in sequence beginning with Class IV, receipts of fluid milk products from an unregulated supply plant that were not previously subtracted in this section, and which are in excess of the pounds of skim milk determined pursuant to paragraphs (a)(5)(i) and (ii) of this section;
+
+(i) Multiply by 1.25 the pounds of skim milk remaining in Class I at this allocation step; and
+
+(ii) Subtract from the result in paragraph (a)(5)(i) the pounds of skim milk in receipts of producer milk and fluid milk products from other pool plants.
+
+(6) Subtract from the pounds of skim milk remaining in all classes other than Class I, in sequence beginning with Class IV, the pounds of skim milk in receipts of bulk fluid milk products from a handler regulated under another Federal order that are in excess of bulk fluid milk products transferred or diverted to such handler, if other than Class I classification is requested, but not in excess of the pounds of skim milk remaining in these classes combined.
+
+(7) Subtract from the pounds of skim milk remaining in each class, in series beginning with Class IV, the pounds of skim milk in fluid milk products and bulk fluid cream products in inventory at the beginning of the month that were not previously subtracted in this section.
+
+(8) Subtract from the pounds of skim milk remaining in each class at the plant receipts of skim milk in fluid milk products from an unregulated supply plant that were not previously subtracted in this section and that were not offset by transfers or diversions of fluid milk products to the unregulated supply plant from which fluid milk products to be allocated at this step were received. Such subtraction shall be pro rata to the pounds of skim milk in Class I and in Classes II, III, and IV combined, with the quantity prorated to Classes II, III, and IV combined being subtracted in sequence beginning with Class IV.
+
+(9) Subtract from the pounds of skim milk remaining in each class the pounds of skim milk in receipts of bulk fluid milk products from a handler regulated under another Federal order that are in excess of bulk fluid milk products transferred or diverted to such handler that were not subtracted in paragraph (a)(6) of this section. Such subtraction shall be pro rata to the pounds of skim milk in Class I and in Classes II, III, and IV combined, with the quantity prorated to Classes II, III, and IV combined being subtracted in sequence beginning with Class IV, with respect to whichever of the following quantities represents the lower proportion of Class I milk:
+
+(i) The estimated utilization of skim milk of all handlers in each class as announced for the month pursuant to § 1000.45(a); or
+
+(ii) The total pounds of skim milk remaining in each class at this allocation step.
+
+(10) Subtract from the pounds of skim milk remaining in each class the pounds of skim milk in receipts of fluid milk products and bulk fluid cream products from another pool plant and from a handler described in § 1135.11 of this chapter according to the classification of such products pursuant to § 1000.42(a).
+
+(11) If the total pounds of skim milk remaining in all classes exceed the pounds of skim milk in producer milk, subtract such excess from the pounds of skim milk remaining in each class in series beginning with Class IV.
+
+(b) Butterfat shall be allocated in accordance with the procedure outlined for skim milk in paragraph (a) of this section.
+
+(c) The quantity of producer milk in each class shall be the combined pounds of skim milk and butterfat remaining in each class after the computations pursuant to paragraphs (a) and (b) of this section.
+
+### § 1000.45 Market administrator's reports and announcements concerning classification.
+
+(a) Whenever required for the purpose of allocating receipts from plants regulated under other Federal orders pursuant to § 1000.44(a)(9) and the corresponding step of § 1000.44(b), the market administrator shall estimate and publicly announce the utilization (to the nearest whole percentage) in Class I during the month of skim milk and butterfat, respectively, in producer milk of all handlers. The estimate shall be based upon the most current available data and shall be final for such purpose.
+
+(b) The market administrator shall report to the market administrators of other Federal orders as soon as possible after the handlers' reports of receipts and utilization are received, the class to which receipts from plants regulated under other Federal orders are allocated pursuant to §§ 1000.43(d) and 1000.44 (including any reclassification of inventories of bulk concentrated fluid milk products), and thereafter any change in allocation required to correct errors disclosed on the verification of such report.
+
+(c) The market administrator shall furnish each handler operating a pool plant and each handler described in § 1135.11 of this chapter who has shipped fluid milk products or bulk fluid cream products to a plant fully regulated under another Federal order the class to which the shipments were allocated by the market administrator of the other Federal order on the basis of the report by the receiving handler and, as necessary, any changes in the allocation arising from the verification of such report.
+
+(d) The market administrator shall report to each cooperative association which so requests, the percentage of producer milk delivered by members of the association that was used in each class by each handler receiving the milk. For the purpose of this report, the milk so received shall be prorated to each class in accordance with the total utilization of producer milk by the handler.
+
+## Subpart G—Class Prices
+
+### § 1000.50 Class prices, component prices, and advanced pricing factors.
+
+Class prices per hundredweight of milk containing 3.5 percent butterfat, component prices, and advanced pricing factors shall be as follows. The prices and pricing factors described in paragraphs (a) through (c), (e), (f), and (q) of this section shall be based on a weighted average of the most recent 2 weekly prices announced by the Agriculture Marketing Service (AMS) before the 24th day of the month. These prices shall be announced on or before the 23rd day of the month and shall apply to milk received during the following month. The prices described in paragraphs (g) through (p) of this section shall be based on a weighted average for the preceding month of weekly prices announced by AMS on or before the 5th day of the month and shall apply to milk received during the preceding month. The price described in paragraph (d) of this section shall be derived from the Class II skim milk price announced on or before the 23rd day of the month preceding the month to which it applies, and the butterfat price announced on or before the 5th day of the month following the month to which it applies.
+
+(a) *Class I price.* The Class I price per hundredweight, rounded to the nearest cent, shall be 0.965 times the Class I skim milk price plus 3.5 times the Class I butterfat price.
+
+(b) *Class I skim milk price.* The Class I skim milk price per hundredweight shall be the adjusted Class I differential specified in § 1000.52, plus the higher of the advanced pricing factors computed in paragraph (q)(1) or (2) of this section rounded to the nearest cent.
+
+(c) *Class I butterfat price.* The Class I butterfat price per pound shall be the adjusted Class I differential specified in § 1000.52 divided by 100, plus the advanced butterfat price computed in paragraph (q)(3) of this section.
+
+(d) *Class II price.* The Class II price per hundredweight, rounded to the nearest cent, shall be .965 times the Class II skim milk price plus 3.5 times the Class II butterfat price.
+
+(e) *Class II skim milk price.* The Class II skim milk price per hundredweight shall be the advanced Class IV skim milk price computed in paragraph (q)(2) of this section plus 70 cents.
+
+(f) Class II nonfat solids price. The Class II nonfat solids price per pound, rounded to the nearest one-hundredth cent, shall be the Class II skim milk price divided by 9.3.
+
+(g) *Class II butterfat price.* The Class II butterfat price per pound shall be the butterfat price plus $0.007.
+
+(h) *Class III price.* The Class III price per hundredweight, rounded to the nearest cent, shall be 0.965 times the Class III skim milk price plus 3.5 times the butterfat price.
+
+(i) Class III skim milk price. The Class III skim milk price per hundredweight, rounded to the nearest cent, shall be the protein price per pound times 3.30 plus the other solids price per pound times 6.00.
+
+(j) *Class IV price.* The Class IV price per hundredweight, rounded to the nearest cent, shall be 0.965 times the Class IV skim milk price plus 3.5 times the butterfat price.
+
+(k) Class IV skim milk price. The Class IV skim milk price per hundredweight, rounded to the nearest cent, shall be the nonfat solids price per pound times 9.30.
+
+(l) *Butterfat price.* The butterfat price per pound, rounded to the nearest one-hundredth cent, shall be the U.S. average AMS AA Butter survey price reported by the Department for the month, less 22.72 cents, with the result multiplied by 1.211.
+
+(m) *Nonfat solids price.* The nonfat solids price per pound, rounded to the nearest one-hundredth cent, shall be the U.S. average AMS nonfat dry milk survey price reported by the Department for the month, less 23.93 cents and multiplying the result by 0.99.
+
+(n) *Protein price.* The protein price per pound, rounded to the nearest one-hundredth cent, shall be computed as follows:
+
+(1) The U.S. average AMS survey price for 40-lb. block cheese reported by the Department for the month;
+
+(2) Subtract 25.19 cents from the price computed pursuant to paragraph (n)(1) of this section and multiply the result by 1.383;
+
+(3) Add to the amount computed pursuant to paragraph (n)(2) of this section an amount computed as follows:
+
+(i) Subtract 25.19 cents from the price computed pursuant to paragraph (n)(1) of this section and multiply the result by 1.589; and
+
+(ii) Subtract 0.91 times the butterfat price computed pursuant to paragraph (l) of this section from the amount computed pursuant to paragraph (n)(3)(i) of this section; and
+
+(iii) Multiply the amount computed pursuant to paragraph (n)(3)(ii) of this section by 1.17.
+
+(o) *Other solids price.* The other solids price per pound, rounded to the nearest one-hundredth cent, shall be the U.S. average AMS dry whey survey price reported by the Department for the month minus 26.68 cents, with the result multiplied by 1.03.
+
+(p) *Somatic cell adjustment.* The somatic cell adjustment per hundredweight of milk shall be determined as follows:
+
+(1) Multiply 0.0005 by the weighted average price computed pursuant to paragraph (n)(1) of this section and round to the 5th decimal place;
+
+(2) Subtract the somatic cell count of the milk (reported in thousands) from 350; and
+
+(3) Multiply the amount computed in paragraph (p)(1) of this section by the amount computed in paragraph (p)(2) of this section and round to the nearest full cent.
+
+(q) *Advanced pricing factors.* For the purpose of computing the Class I skim milk price, the Class II skim milk price, the Class II nonfat solids price, and the Class I butterfat price for the following month, the following pricing factors shall be computed using the weighted average of the 2 most recent AMS U.S. average weekly survey prices announced before the 24th day of the month:
+
+(1) An advanced Class III skim milk price per hundredweight, rounded to the nearest cent, shall be computed as follows:
+
+(i) Following the procedure set forth in paragraphs (n) and (o) of this section, but using the weighted average of the 2 most recent AMS U.S. average weekly survey prices announced before the 24th day of the month, compute a protein price and an other solids price;
+
+(ii) Multiply the protein price computed in paragraph (q)(1)(i) of this section by 3.30;
+
+(iii) Multiply the other solids price per pound computed in paragraph (q)(1)(i) of this section by 6.0; and
+
+(iv) Add the amounts computed in paragraphs (q)(1)(ii) and (iii) of this section.
+
+(2) An advanced Class IV skim milk price per hundredweight, rounded to the nearest cent, shall be computed as follows:
+
+(i) Following the procedure set forth in paragraph (m) of this section, but using the weighted average of the 2 most recent AMS U.S. average weekly survey prices announced before the 24th day of the month, compute a nonfat solids price; and
+
+(ii) Multiply the nonfat solids price computed in paragraph (q)(2)(i) of this section by 9.30.
+
+(3) An advanced butterfat price per pound rounded to the nearest one-hundredth cent, shall be calculated by computing a weighted average of the 2 most recent U.S. average AMS AA Butter survey prices announced before the 24th day of the month, subtracting 22.72 cents from this average, and multiplying the result by 1.211.
+
+(r) *Class I Extended Shelf Life (ESL) adjustment.* The Class I ESL adjustment, whether positive or negative, rounded to the nearest cent, shall be computed as follows:
+
+(1) Compute the simple average of the advanced pricing factors computed in paragraphs (q)(1) and (2) of this section;
+
+(2) Add the following:
+
+(i) Determine the higher of the advanced pricing factors computed in paragraphs (q)(1) and (2) of this section, for each of the preceding 13 to 36 months;
+
+(ii) Calculate the average of the advanced pricing factors computed in paragraphs (q)(1) and (2) of this section, for each of the preceding 13 to 36 months;
+
+(iii) For each of the preceding 13 to 36 months, subtract the amount computed in paragraph (r)(2)(ii) of this section from the amount computed in paragraph (r)(2)(i) of this section; and
+
+(iv) Compute the average of the differences computed in paragraph (r)(2)(iii) of this section.
+
+(3) Subtract the higher of the advanced pricing factors computed in paragraphs (q)(1) and (2) of this section.
+
+[64 FR 47899, Sept. 1, 1999, as amended at 65 FR 82833, Dec. 28, 2000; 68 FR 7064, Feb. 12, 2003; 71 FR 78334, Dec. 29, 2006; 73 FR 14155, Mar. 17, 2008; 73 FR 44619, July 31, 2008; 84 FR 8591, Mar. 11, 2019; 84 FR 12483, Apr. 2, 2019; 90 FR 6603-6604, Jan. 17, 2025]
+
+### § 1000.51 [Reserved]
+
+### § 1000.52 Adjusted Class I differentials.
+
+The Class I differential adjusted for location to be used in § 1000.50(b) and (c) shall be as follows:
+
+| County/parish/city | State | FIPS code | Class I differential adjusted for location |
+|---|---|---|---|
+| AUTAUGA | AL | 01001 | 5.80 |
+| BALDWIN | AL | 01003 | 5.80 |
+| BARBOUR | AL | 01005 | 5.80 |
+| BIBB | AL | 01007 | 5.60 |
+| BLOUNT | AL | 01009 | 5.40 |
+| BULLOCK | AL | 01011 | 5.80 |
+| BUTLER | AL | 01013 | 5.80 |
+| CALHOUN | AL | 01015 | 5.60 |
+| CHAMBERS | AL | 01017 | 5.60 |
+| CHEROKEE | AL | 01019 | 5.40 |
+| CHILTON | AL | 01021 | 5.60 |
+| CHOCTAW | AL | 01023 | 5.80 |
+| CLARKE | AL | 01025 | 5.80 |
+| CLAY | AL | 01027 | 5.60 |
+| CLEBURNE | AL | 01029 | 5.60 |
+| COFFEE | AL | 01031 | 5.80 |
+| COLBERT | AL | 01033 | 4.90 |
+| CONECUH | AL | 01035 | 5.80 |
+| COOSA | AL | 01037 | 5.60 |
+| COVINGTON | AL | 01039 | 5.80 |
+| CRENSHAW | AL | 01041 | 5.80 |
+| CULLMAN | AL | 01043 | 5.40 |
+| DALE | AL | 01045 | 5.80 |
+| DALLAS | AL | 01047 | 5.80 |
+| DE KALB | AL | 01049 | 5.40 |
+| ELMORE | AL | 01051 | 5.80 |
+| ESCAMBIA | AL | 01053 | 5.80 |
+| ETOWAH | AL | 01055 | 5.40 |
+| FAYETTE | AL | 01057 | 5.40 |
+| FRANKLIN | AL | 01059 | 5.20 |
+| GENEVA | AL | 01061 | 5.80 |
+| GREENE | AL | 01063 | 5.60 |
+| HALE | AL | 01065 | 5.60 |
+| HENRY | AL | 01067 | 5.80 |
+| HOUSTON | AL | 01069 | 5.80 |
+| JACKSON | AL | 01071 | 5.20 |
+| JEFFERSON | AL | 01073 | 5.60 |
+| LAMAR | AL | 01075 | 5.40 |
+| LAUDERDALE | AL | 01077 | 4.90 |
+| LAWRENCE | AL | 01079 | 5.20 |
+| LEE | AL | 01081 | 5.80 |
+| LIMESTONE | AL | 01083 | 5.20 |
+| LOWNDES | AL | 01085 | 5.80 |
+| MACON | AL | 01087 | 5.80 |
+| MADISON | AL | 01089 | 5.20 |
+| MARENGO | AL | 01091 | 5.80 |
+| MARION | AL | 01093 | 5.20 |
+| MARSHALL | AL | 01095 | 5.40 |
+| MOBILE | AL | 01097 | 5.80 |
+| MONROE | AL | 01099 | 5.80 |
+| MONTGOMERY | AL | 01101 | 5.80 |
+| MORGAN | AL | 01103 | 5.40 |
+| PERRY | AL | 01105 | 5.60 |
+| PICKENS | AL | 01107 | 5.40 |
+| PIKE | AL | 01109 | 5.80 |
+| RANDOLPH | AL | 01111 | 5.60 |
+| RUSSELL | AL | 01113 | 5.80 |
+| ST. CLAIR | AL | 01115 | 5.60 |
+| SHELBY | AL | 01117 | 5.60 |
+| SUMTER | AL | 01119 | 5.60 |
+| TALLADEGA | AL | 01121 | 5.60 |
+| TALLAPOOSA | AL | 01123 | 5.60 |
+| TUSCALOOSA | AL | 01125 | 5.60 |
+| WALKER | AL | 01127 | 5.40 |
+| WASHINGTON | AL | 01129 | 5.80 |
+| WILCOX | AL | 01131 | 5.80 |
+| WINSTON | AL | 01133 | 5.40 |
+| APACHE | AZ | 04001 | 2.30 |
+| COCHISE | AZ | 04003 | 2.40 |
+| COCONINO | AZ | 04005 | 2.40 |
+| GILA | AZ | 04007 | 2.40 |
+| GRAHAM | AZ | 04009 | 2.40 |
+| GREENLEE | AZ | 04011 | 2.40 |
+| LA PAZ | AZ | 04012 | 2.50 |
+| MARICOPA | AZ | 04013 | 2.60 |
+| MOHAVE | AZ | 04015 | 2.50 |
+| NAVAJO | AZ | 04017 | 2.30 |
+| PIMA | AZ | 04019 | 2.40 |
+| PINAL | AZ | 04021 | 2.60 |
+| SANTA CRUZ | AZ | 04023 | 2.40 |
+| YAVAPAI | AZ | 04025 | 2.40 |
+| YUMA | AZ | 04027 | 2.50 |
+| ARKANSAS | AR | 05001 | 4.60 |
+| ASHLEY | AR | 05003 | 4.90 |
+| BAXTER | AR | 05005 | 3.60 |
+| BENTON | AR | 05007 | 3.20 |
+| BOONE | AR | 05009 | 3.30 |
+| BRADLEY | AR | 05011 | 4.60 |
+| CALHOUN | AR | 05013 | 4.60 |
+| CARROLL | AR | 05015 | 3.30 |
+| CHICOT | AR | 05017 | 4.90 |
+| CLARK | AR | 05019 | 4.00 |
+| CLAY | AR | 05021 | 4.30 |
+| CLEBURNE | AR | 05023 | 4.00 |
+| CLEVELAND | AR | 05025 | 4.60 |
+| COLUMBIA | AR | 05027 | 4.30 |
+| CONWAY | AR | 05029 | 4.00 |
+| CRAIGHEAD | AR | 05031 | 4.30 |
+| CRAWFORD | AR | 05033 | 3.30 |
+| CRITTENDEN | AR | 05035 | 4.60 |
+| CROSS | AR | 05037 | 4.30 |
+| DALLAS | AR | 05039 | 4.30 |
+| DESHA | AR | 05041 | 4.90 |
+| DREW | AR | 05043 | 4.60 |
+| FAULKNER | AR | 05045 | 4.00 |
+| FRANKLIN | AR | 05047 | 3.60 |
+| FULTON | AR | 05049 | 4.00 |
+| GARLAND | AR | 05051 | 4.00 |
+| GRANT | AR | 05053 | 4.30 |
+| GREENE | AR | 05055 | 4.30 |
+| HEMPSTEAD | AR | 05057 | 4.00 |
+| HOT SPRING | AR | 05059 | 4.30 |
+| HOWARD | AR | 05061 | 4.00 |
+| INDEPENDENCE | AR | 05063 | 4.00 |
+| IZARD | AR | 05065 | 4.00 |
+| JACKSON | AR | 05067 | 4.30 |
+| JEFFERSON | AR | 05069 | 4.60 |
+| JOHNSON | AR | 05071 | 3.60 |
+| LAFAYETTE | AR | 05073 | 4.30 |
+| LAWRENCE | AR | 05075 | 4.30 |
+| LEE | AR | 05077 | 4.60 |
+| LINCOLN | AR | 05079 | 4.60 |
+| LITTLE RIVER | AR | 05081 | 3.60 |
+| LOGAN | AR | 05083 | 3.60 |
+| LONOKE | AR | 05085 | 4.30 |
+| MADISON | AR | 05087 | 3.30 |
+| MARION | AR | 05089 | 3.60 |
+| MILLER | AR | 05091 | 4.00 |
+| MISSISSIPPI | AR | 05093 | 4.30 |
+| MONROE | AR | 05095 | 4.60 |
+| MONTGOMERY | AR | 05097 | 4.00 |
+| NEVADA | AR | 05099 | 4.30 |
+| NEWTON | AR | 05101 | 3.60 |
+| OUACHITA | AR | 05103 | 4.30 |
+| PERRY | AR | 05105 | 4.00 |
+| PHILLIPS | AR | 05107 | 4.60 |
+| PIKE | AR | 05109 | 4.00 |
+| POINSETT | AR | 05111 | 4.30 |
+| POLK | AR | 05113 | 3.60 |
+| POPE | AR | 05115 | 3.60 |
+| PRAIRIE | AR | 05117 | 4.30 |
+| PULASKI | AR | 05119 | 4.30 |
+| RANDOLPH | AR | 05121 | 4.00 |
+| ST. FRANCIS | AR | 05123 | 4.60 |
+| SALINE | AR | 05125 | 4.30 |
+| SCOTT | AR | 05127 | 3.60 |
+| SEARCY | AR | 05129 | 3.60 |
+| SEBASTIAN | AR | 05131 | 3.60 |
+| SEVIER | AR | 05133 | 3.60 |
+| SHARP | AR | 05135 | 4.00 |
+| STONE | AR | 05137 | 4.00 |
+| UNION | AR | 05139 | 4.60 |
+| VAN BUREN | AR | 05141 | 4.00 |
+| WASHINGTON | AR | 05143 | 3.30 |
+| WHITE | AR | 05145 | 4.30 |
+| WOODRUFF | AR | 05147 | 4.30 |
+| YELL | AR | 05149 | 3.60 |
+| ALAMEDA | CA | 06001 | 2.40 |
+| ALPINE | CA | 06003 | 1.80 |
+| AMADOR | CA | 06005 | 1.80 |
+| BUTTE | CA | 06007 | 2.00 |
+| CALAVERAS | CA | 06009 | 1.80 |
+| COLUSA | CA | 06011 | 2.20 |
+| CONTRA COSTA | CA | 06013 | 2.40 |
+| DEL NORTE | CA | 06015 | 2.20 |
+| EL DORADO | CA | 06017 | 1.80 |
+| FRESNO | CA | 06019 | 2.20 |
+| GLENN | CA | 06021 | 2.20 |
+| HUMBOLDT | CA | 06023 | 2.20 |
+| IMPERIAL | CA | 06025 | 2.50 |
+| INYO | CA | 06027 | 2.20 |
+| KERN | CA | 06029 | 2.50 |
+| KINGS | CA | 06031 | 2.20 |
+| LAKE | CA | 06033 | 2.20 |
+| LASSEN | CA | 06035 | 2.00 |
+| LOS ANGELES | CA | 06037 | 2.80 |
+| MADERA | CA | 06039 | 2.20 |
+| MARIN | CA | 06041 | 2.40 |
+| MARIPOSA | CA | 06043 | 1.80 |
+| MENDOCINO | CA | 06045 | 2.20 |
+| MERCED | CA | 06047 | 2.20 |
+| MODOC | CA | 06049 | 2.00 |
+| MONO | CA | 06051 | 2.00 |
+| MONTEREY | CA | 06053 | 2.50 |
+| NAPA | CA | 06055 | 2.40 |
+| NEVADA | CA | 06057 | 2.00 |
+| ORANGE | CA | 06059 | 2.80 |
+| PLACER | CA | 06061 | 2.00 |
+| PLUMAS | CA | 06063 | 2.00 |
+| RIVERSIDE | CA | 06065 | 2.80 |
+| SACRAMENTO | CA | 06067 | 2.20 |
+| SAN BENITO | CA | 06069 | 2.50 |
+| SAN BERNARDINO | CA | 06071 | 2.60 |
+| SAN DIEGO | CA | 06073 | 2.80 |
+| SAN FRANCISCO | CA | 06075 | 2.50 |
+| SAN JOAQUIN | CA | 06077 | 2.20 |
+| SAN LUIS OBISPO | CA | 06079 | 2.50 |
+| SAN MATEO | CA | 06081 | 2.50 |
+| SANTA BARBARA | CA | 06083 | 2.50 |
+| SANTA CLARA | CA | 06085 | 2.50 |
+| SANTA CRUZ | CA | 06087 | 2.50 |
+| SHASTA | CA | 06089 | 2.00 |
+| SIERRA | CA | 06091 | 2.00 |
+| SISKIYOU | CA | 06093 | 2.00 |
+| SOLANO | CA | 06095 | 2.40 |
+| SONOMA | CA | 06097 | 2.40 |
+| STANISLAUS | CA | 06099 | 2.20 |
+| SUTTER | CA | 06101 | 2.20 |
+| TEHAMA | CA | 06103 | 2.20 |
+| TRINITY | CA | 06105 | 2.00 |
+| TULARE | CA | 06107 | 2.20 |
+| TUOLUMNE | CA | 06109 | 1.80 |
+| VENTURA | CA | 06111 | 2.60 |
+| YOLO | CA | 06113 | 2.20 |
+| YUBA | CA | 06115 | 2.00 |
+| ADAMS | CO | 08001 | 2.70 |
+| ALAMOSA | CO | 08003 | 2.50 |
+| ARAPAHOE | CO | 08005 | 2.70 |
+| ARCHULETA | CO | 08007 | 2.30 |
+| BACA | CO | 08009 | 2.50 |
+| BENT | CO | 08011 | 2.50 |
+| BOULDER | CO | 08013 | 2.50 |
+| BROOMFIELD | CO | 08014 | 2.50 |
+| CHAFFEE | CO | 08015 | 2.50 |
+| CHEYENNE | CO | 08017 | 2.50 |
+| CLEAR CREEK | CO | 08019 | 2.50 |
+| CONEJOS | CO | 08021 | 2.50 |
+| COSTILLA | CO | 08023 | 2.50 |
+| CROWLEY | CO | 08025 | 2.70 |
+| CUSTER | CO | 08027 | 2.70 |
+| DELTA | CO | 08029 | 2.30 |
+| DENVER | CO | 08031 | 2.70 |
+| DOLORES | CO | 08033 | 2.30 |
+| DOUGLAS | CO | 08035 | 2.70 |
+| EAGLE | CO | 08037 | 2.50 |
+| ELBERT | CO | 08039 | 2.70 |
+| EL PASO | CO | 08041 | 2.70 |
+| FREMONT | CO | 08043 | 2.70 |
+| GARFIELD | CO | 08045 | 2.30 |
+| GILPIN | CO | 08047 | 2.50 |
+| GRAND | CO | 08049 | 2.50 |
+| GUNNISON | CO | 08051 | 2.50 |
+| HINSDALE | CO | 08053 | 2.30 |
+| HUERFANO | CO | 08055 | 2.70 |
+| JACKSON | CO | 08057 | 2.50 |
+| JEFFERSON | CO | 08059 | 2.70 |
+| KIOWA | CO | 08061 | 2.50 |
+| KIT CARSON | CO | 08063 | 2.50 |
+| LAKE | CO | 08065 | 2.50 |
+| LA PLATA | CO | 08067 | 2.30 |
+| LARIMER | CO | 08069 | 2.50 |
+| LAS ANIMAS | CO | 08071 | 2.50 |
+| LINCOLN | CO | 08073 | 2.70 |
+| LOGAN | CO | 08075 | 2.50 |
+| MESA | CO | 08077 | 2.30 |
+| MINERAL | CO | 08079 | 2.50 |
+| MOFFAT | CO | 08081 | 2.30 |
+| MONTEZUMA | CO | 08083 | 2.30 |
+| MONTROSE | CO | 08085 | 2.30 |
+| MORGAN | CO | 08087 | 2.50 |
+| OTERO | CO | 08089 | 2.70 |
+| OURAY | CO | 08091 | 2.30 |
+| PARK | CO | 08093 | 2.70 |
+| PHILLIPS | CO | 08095 | 2.50 |
+| PITKIN | CO | 08097 | 2.50 |
+| PROWERS | CO | 08099 | 2.50 |
+| PUEBLO | CO | 08101 | 2.70 |
+| RIO BLANCO | CO | 08103 | 2.30 |
+| RIO GRANDE | CO | 08105 | 2.50 |
+| ROUTT | CO | 08107 | 2.50 |
+| SAGUACHE | CO | 08109 | 2.50 |
+| SAN JUAN | CO | 08111 | 2.30 |
+| SAN MIGUEL | CO | 08113 | 2.30 |
+| SEDGWICK | CO | 08115 | 2.50 |
+| SUMMIT | CO | 08117 | 2.50 |
+| TELLER | CO | 08119 | 2.70 |
+| WASHINGTON | CO | 08121 | 2.50 |
+| WELD | CO | 08123 | 2.50 |
+| YUMA | CO | 08125 | 2.50 |
+| FAIRFIELD | CT | 09001 | 5.00 |
+| HARTFORD | CT | 09003 | 4.80 |
+| LITCHFIELD | CT | 09005 | 4.80 |
+| MIDDLESEX | CT | 09007 | 4.80 |
+| NEW HAVEN | CT | 09009 | 4.80 |
+| NEW LONDON | CT | 09011 | 4.80 |
+| TOLLAND | CT | 09013 | 4.80 |
+| WINDHAM | CT | 09015 | 4.80 |
+| KENT | DE | 10001 | 4.60 |
+| NEW CASTLE | DE | 10003 | 4.40 |
+| SUSSEX | DE | 10005 | 4.80 |
+| DISTRICT OF COLUMBIA | DC | 11001 | 4.70 |
+| ALACHUA | FL | 12001 | 6.40 |
+| BAKER | FL | 12003 | 6.40 |
+| BAY | FL | 12005 | 6.00 |
+| BRADFORD | FL | 12007 | 6.40 |
+| BREVARD | FL | 12009 | 6.80 |
+| BROWARD | FL | 12011 | 7.40 |
+| CALHOUN | FL | 12013 | 6.00 |
+| CHARLOTTE | FL | 12015 | 7.00 |
+| CITRUS | FL | 12017 | 6.80 |
+| CLAY | FL | 12019 | 6.40 |
+| COLLIER | FL | 12021 | 7.40 |
+| COLUMBIA | FL | 12023 | 6.40 |
+| DE SOTO | FL | 12027 | 7.00 |
+| DIXIE | FL | 12029 | 6.40 |
+| DUVAL | FL | 12031 | 6.40 |
+| ESCAMBIA | FL | 12033 | 5.80 |
+| FLAGLER | FL | 12035 | 6.80 |
+| FRANKLIN | FL | 12037 | 6.00 |
+| GADSDEN | FL | 12039 | 6.00 |
+| GILCHRIST | FL | 12041 | 6.40 |
+| GLADES | FL | 12043 | 7.00 |
+| GULF | FL | 12045 | 6.00 |
+| HAMILTON | FL | 12047 | 6.40 |
+| HARDEE | FL | 12049 | 7.00 |
+| HENDRY | FL | 12051 | 7.40 |
+| HERNANDO | FL | 12053 | 6.80 |
+| HIGHLANDS | FL | 12055 | 7.00 |
+| HILLSBOROUGH | FL | 12057 | 6.80 |
+| HOLMES | FL | 12059 | 6.00 |
+| INDIAN RIVER | FL | 12061 | 7.00 |
+| JACKSON | FL | 12063 | 6.00 |
+| JEFFERSON | FL | 12065 | 6.00 |
+| LAFAYETTE | FL | 12067 | 6.40 |
+| LAKE | FL | 12069 | 6.80 |
+| LEE | FL | 12071 | 7.00 |
+| LEON | FL | 12073 | 6.00 |
+| LEVY | FL | 12075 | 6.40 |
+| LIBERTY | FL | 12077 | 6.00 |
+| MADISON | FL | 12079 | 6.00 |
+| MANATEE | FL | 12081 | 7.00 |
+| MARION | FL | 12083 | 6.80 |
+| MARTIN | FL | 12085 | 7.00 |
+| MIAMI-DADE | FL | 12086 | 7.40 |
+| MONROE | FL | 12087 | 7.40 |
+| NASSAU | FL | 12089 | 6.40 |
+| OKALOOSA | FL | 12091 | 5.80 |
+| OKEECHOBEE | FL | 12093 | 7.00 |
+| ORANGE | FL | 12095 | 6.80 |
+| OSCEOLA | FL | 12097 | 6.80 |
+| PALM BEACH | FL | 12099 | 7.40 |
+| PASCO | FL | 12101 | 6.80 |
+| PINELLAS | FL | 12103 | 6.80 |
+| POLK | FL | 12105 | 6.80 |
+| PUTNAM | FL | 12107 | 6.40 |
+| ST. JOHNS | FL | 12109 | 6.40 |
+| ST. LUCIE | FL | 12111 | 7.00 |
+| SANTA ROSA | FL | 12113 | 5.80 |
+| SARASOTA | FL | 12115 | 7.00 |
+| SEMINOLE | FL | 12117 | 6.80 |
+| SUMTER | FL | 12119 | 6.80 |
+| SUWANNEE | FL | 12121 | 6.40 |
+| TAYLOR | FL | 12123 | 6.40 |
+| UNION | FL | 12125 | 6.40 |
+| VOLUSIA | FL | 12127 | 6.80 |
+| WAKULLA | FL | 12129 | 6.00 |
+| WALTON | FL | 12131 | 6.00 |
+| WASHINGTON | FL | 12133 | 6.00 |
+| APPLING | GA | 13001 | 6.00 |
+| ATKINSON | GA | 13003 | 6.00 |
+| BACON | GA | 13005 | 6.00 |
+| BAKER | GA | 13007 | 5.80 |
+| BALDWIN | GA | 13009 | 5.80 |
+| BANKS | GA | 13011 | 5.60 |
+| BARROW | GA | 13013 | 5.80 |
+| BARTOW | GA | 13015 | 5.60 |
+| BEN HILL | GA | 13017 | 6.00 |
+| BERRIEN | GA | 13019 | 6.00 |
+| BIBB | GA | 13021 | 5.80 |
+| BLECKLEY | GA | 13023 | 5.80 |
+| BRANTLEY | GA | 13025 | 6.00 |
+| BROOKS | GA | 13027 | 6.00 |
+| BRYAN | GA | 13029 | 6.00 |
+| BULLOCH | GA | 13031 | 6.00 |
+| BURKE | GA | 13033 | 6.00 |
+| BUTTS | GA | 13035 | 5.80 |
+| CALHOUN | GA | 13037 | 5.80 |
+| CAMDEN | GA | 13039 | 6.00 |
+| CANDLER | GA | 13043 | 6.00 |
+| CARROLL | GA | 13045 | 5.60 |
+| CATOOSA | GA | 13047 | 5.40 |
+| CHARLTON | GA | 13049 | 6.00 |
+| CHATHAM | GA | 13051 | 6.00 |
+| CHATTAHOOCHEE | GA | 13053 | 5.80 |
+| CHATTOOGA | GA | 13055 | 5.40 |
+| CHEROKEE | GA | 13057 | 5.60 |
+| CLARKE | GA | 13059 | 5.80 |
+| CLAY | GA | 13061 | 5.80 |
+| CLAYTON | GA | 13063 | 5.80 |
+| CLINCH | GA | 13065 | 6.00 |
+| COBB | GA | 13067 | 5.60 |
+| COFFEE | GA | 13069 | 6.00 |
+| COLQUITT | GA | 13071 | 6.00 |
+| COLUMBIA | GA | 13073 | 5.80 |
+| COOK | GA | 13075 | 6.00 |
+| COWETA | GA | 13077 | 5.80 |
+| CRAWFORD | GA | 13079 | 5.80 |
+| CRISP | GA | 13081 | 5.80 |
+| DADE | GA | 13083 | 5.40 |
+| DAWSON | GA | 13085 | 5.60 |
+| DECATUR | GA | 13087 | 6.00 |
+| DE KALB | GA | 13089 | 5.80 |
+| DODGE | GA | 13091 | 5.80 |
+| DOOLY | GA | 13093 | 5.80 |
+| DOUGHERTY | GA | 13095 | 5.80 |
+| DOUGLAS | GA | 13097 | 5.60 |
+| EARLY | GA | 13099 | 5.80 |
+| ECHOLS | GA | 13101 | 6.00 |
+| EFFINGHAM | GA | 13103 | 6.00 |
+| ELBERT | GA | 13105 | 5.80 |
+| EMANUEL | GA | 13107 | 6.00 |
+| EVANS | GA | 13109 | 6.00 |
+| FANNIN | GA | 13111 | 5.60 |
+| FAYETTE | GA | 13113 | 5.80 |
+| FLOYD | GA | 13115 | 5.60 |
+| FORSYTH | GA | 13117 | 5.60 |
+| FRANKLIN | GA | 13119 | 5.60 |
+| FULTON | GA | 13121 | 5.80 |
+| GILMER | GA | 13123 | 5.60 |
+| GLASCOCK | GA | 13125 | 5.80 |
+| GLYNN | GA | 13127 | 6.00 |
+| GORDON | GA | 13129 | 5.60 |
+| GRADY | GA | 13131 | 6.00 |
+| GREENE | GA | 13133 | 5.80 |
+| GWINNETT | GA | 13135 | 5.80 |
+| HABERSHAM | GA | 13137 | 5.60 |
+| HALL | GA | 13139 | 5.60 |
+| HANCOCK | GA | 13141 | 5.80 |
+| HARALSON | GA | 13143 | 5.60 |
+| HARRIS | GA | 13145 | 5.80 |
+| HART | GA | 13147 | 5.60 |
+| HEARD | GA | 13149 | 5.60 |
+| HENRY | GA | 13151 | 5.80 |
+| HOUSTON | GA | 13153 | 5.80 |
+| IRWIN | GA | 13155 | 6.00 |
+| JACKSON | GA | 13157 | 5.80 |
+| JASPER | GA | 13159 | 5.80 |
+| JEFF DAVIS | GA | 13161 | 6.00 |
+| JEFFERSON | GA | 13163 | 5.80 |
+| JENKINS | GA | 13165 | 6.00 |
+| JOHNSON | GA | 13167 | 5.80 |
+| JONES | GA | 13169 | 5.80 |
+| LAMAR | GA | 13171 | 5.80 |
+| LANIER | GA | 13173 | 6.00 |
+| LAURENS | GA | 13175 | 5.80 |
+| LEE | GA | 13177 | 5.80 |
+| LIBERTY | GA | 13179 | 6.00 |
+| LINCOLN | GA | 13181 | 5.80 |
+| LONG | GA | 13183 | 6.00 |
+| LOWNDES | GA | 13185 | 6.00 |
+| LUMPKIN | GA | 13187 | 5.60 |
+| MCDUFFIE | GA | 13189 | 5.80 |
+| MCINTOSH | GA | 13191 | 6.00 |
+| MACON | GA | 13193 | 5.80 |
+| MADISON | GA | 13195 | 5.80 |
+| MARION | GA | 13197 | 5.80 |
+| MERIWETHER | GA | 13199 | 5.80 |
+| MILLER | GA | 13201 | 5.80 |
+| MITCHELL | GA | 13205 | 5.80 |
+| MONROE | GA | 13207 | 5.80 |
+| MONTGOMERY | GA | 13209 | 6.00 |
+| MORGAN | GA | 13211 | 5.80 |
+| MURRAY | GA | 13213 | 5.40 |
+| MUSCOGEE | GA | 13215 | 5.80 |
+| NEWTON | GA | 13217 | 5.80 |
+| OCONEE | GA | 13219 | 5.80 |
+| OGLETHORPE | GA | 13221 | 5.80 |
+| PAULDING | GA | 13223 | 5.60 |
+| PEACH | GA | 13225 | 5.80 |
+| PICKENS | GA | 13227 | 5.60 |
+| PIERCE | GA | 13229 | 6.00 |
+| PIKE | GA | 13231 | 5.80 |
+| POLK | GA | 13233 | 5.60 |
+| PULASKI | GA | 13235 | 5.80 |
+| PUTNAM | GA | 13237 | 5.80 |
+| QUITMAN | GA | 13239 | 5.80 |
+| RABUN | GA | 13241 | 5.60 |
+| RANDOLPH | GA | 13243 | 5.80 |
+| RICHMOND | GA | 13245 | 6.00 |
+| ROCKDALE | GA | 13247 | 5.80 |
+| SCHLEY | GA | 13249 | 5.80 |
+| SCREVEN | GA | 13251 | 6.00 |
+| SEMINOLE | GA | 13253 | 6.00 |
+| SPALDING | GA | 13255 | 5.80 |
+| STEPHENS | GA | 13257 | 5.60 |
+| STEWART | GA | 13259 | 5.80 |
+| SUMTER | GA | 13261 | 5.80 |
+| TALBOT | GA | 13263 | 5.80 |
+| TALIAFERRO | GA | 13265 | 5.80 |
+| TATTNALL | GA | 13267 | 6.00 |
+| TAYLOR | GA | 13269 | 5.80 |
+| TELFAIR | GA | 13271 | 6.00 |
+| TERRELL | GA | 13273 | 5.80 |
+| THOMAS | GA | 13275 | 6.00 |
+| TIFT | GA | 13277 | 5.80 |
+| TOOMBS | GA | 13279 | 6.00 |
+| TOWNS | GA | 13281 | 5.60 |
+| TREUTLEN | GA | 13283 | 6.00 |
+| TROUP | GA | 13285 | 5.60 |
+| TURNER | GA | 13287 | 5.80 |
+| TWIGGS | GA | 13289 | 5.80 |
+| UNION | GA | 13291 | 5.60 |
+| UPSON | GA | 13293 | 5.80 |
+| WALKER | GA | 13295 | 5.40 |
+| WALTON | GA | 13297 | 5.80 |
+| WARE | GA | 13299 | 6.00 |
+| WARREN | GA | 13301 | 5.80 |
+| WASHINGTON | GA | 13303 | 5.80 |
+| WAYNE | GA | 13305 | 6.00 |
+| WEBSTER | GA | 13307 | 5.80 |
+| WHEELER | GA | 13309 | 6.00 |
+| WHITE | GA | 13311 | 5.60 |
+| WHITFIELD | GA | 13313 | 5.40 |
+| WILCOX | GA | 13315 | 5.80 |
+| WILKES | GA | 13317 | 5.80 |
+| WILKINSON | GA | 13319 | 5.80 |
+| WORTH | GA | 13321 | 5.80 |
+| ADA | ID | 16001 | 1.70 |
+| ADAMS | ID | 16003 | 2.00 |
+| BANNOCK | ID | 16005 | 2.00 |
+| BEAR LAKE | ID | 16007 | 2.20 |
+| BENEWAH | ID | 16009 | 2.40 |
+| BINGHAM | ID | 16011 | 2.00 |
+| BLAINE | ID | 16013 | 1.80 |
+| BOISE | ID | 16015 | 1.70 |
+| BONNER | ID | 16017 | 2.40 |
+| BONNEVILLE | ID | 16019 | 2.00 |
+| BOUNDARY | ID | 16021 | 2.40 |
+| BUTTE | ID | 16023 | 2.00 |
+| CAMAS | ID | 16025 | 1.80 |
+| CANYON | ID | 16027 | 1.70 |
+| CARIBOU | ID | 16029 | 2.00 |
+| CASSIA | ID | 16031 | 1.70 |
+| CLARK | ID | 16033 | 2.00 |
+| CLEARWATER | ID | 16035 | 2.00 |
+| CUSTER | ID | 16037 | 1.80 |
+| ELMORE | ID | 16039 | 1.70 |
+| FRANKLIN | ID | 16041 | 2.00 |
+| FREMONT | ID | 16043 | 2.00 |
+| GEM | ID | 16045 | 1.70 |
+| GOODING | ID | 16047 | 1.70 |
+| IDAHO | ID | 16049 | 2.00 |
+| JEFFERSON | ID | 16051 | 2.00 |
+| JEROME | ID | 16053 | 1.70 |
+| KOOTENAI | ID | 16055 | 2.40 |
+| LATAH | ID | 16057 | 2.20 |
+| LEMHI | ID | 16059 | 1.80 |
+| LEWIS | ID | 16061 | 2.00 |
+| LINCOLN | ID | 16063 | 1.70 |
+| MADISON | ID | 16065 | 2.00 |
+| MINIDOKA | ID | 16067 | 1.70 |
+| NEZ PERCE | ID | 16069 | 2.00 |
+| ONEIDA | ID | 16071 | 2.00 |
+| OWYHEE | ID | 16073 | 1.80 |
+| PAYETTE | ID | 16075 | 1.70 |
+| POWER | ID | 16077 | 2.00 |
+| SHOSHONE | ID | 16079 | 2.20 |
+| TETON | ID | 16081 | 2.00 |
+| TWIN FALLS | ID | 16083 | 1.70 |
+| VALLEY | ID | 16085 | 1.80 |
+| WASHINGTON | ID | 16087 | 1.70 |
+| ADAMS | IL | 17001 | 3.20 |
+| ALEXANDER | IL | 17003 | 4.00 |
+| BOND | IL | 17005 | 3.60 |
+| BOONE | IL | 17007 | 3.10 |
+| BROWN | IL | 17009 | 3.40 |
+| BUREAU | IL | 17011 | 3.40 |
+| CALHOUN | IL | 17013 | 3.60 |
+| CARROLL | IL | 17015 | 3.20 |
+| CASS | IL | 17017 | 3.40 |
+| CHAMPAIGN | IL | 17019 | 3.60 |
+| CHRISTIAN | IL | 17021 | 3.60 |
+| CLARK | IL | 17023 | 3.60 |
+| CLAY | IL | 17025 | 3.60 |
+| CLINTON | IL | 17027 | 3.60 |
+| COLES | IL | 17029 | 3.60 |
+| COOK | IL | 17031 | 3.20 |
+| CRAWFORD | IL | 17033 | 3.60 |
+| CUMBERLAND | IL | 17035 | 3.60 |
+| DE KALB | IL | 17037 | 3.20 |
+| DE WITT | IL | 17039 | 3.40 |
+| DOUGLAS | IL | 17041 | 3.60 |
+| DU PAGE | IL | 17043 | 3.20 |
+| EDGAR | IL | 17045 | 3.60 |
+| EDWARDS | IL | 17047 | 3.60 |
+| EFFINGHAM | IL | 17049 | 3.60 |
+| FAYETTE | IL | 17051 | 3.60 |
+| FORD | IL | 17053 | 3.60 |
+| FRANKLIN | IL | 17055 | 3.60 |
+| FULTON | IL | 17057 | 3.40 |
+| GALLATIN | IL | 17059 | 4.00 |
+| GREENE | IL | 17061 | 3.60 |
+| GRUNDY | IL | 17063 | 3.40 |
+| HAMILTON | IL | 17065 | 3.60 |
+| HANCOCK | IL | 17067 | 3.20 |
+| HARDIN | IL | 17069 | 4.00 |
+| HENDERSON | IL | 17071 | 3.20 |
+| HENRY | IL | 17073 | 3.20 |
+| IROQUOIS | IL | 17075 | 3.60 |
+| JACKSON | IL | 17077 | 3.60 |
+| JASPER | IL | 17079 | 3.60 |
+| JEFFERSON | IL | 17081 | 3.60 |
+| JERSEY | IL | 17083 | 3.60 |
+| JO DAVIESS | IL | 17085 | 3.10 |
+| JOHNSON | IL | 17087 | 4.00 |
+| KANE | IL | 17089 | 3.20 |
+| KANKAKEE | IL | 17091 | 3.40 |
+| KENDALL | IL | 17093 | 3.20 |
+| KNOX | IL | 17095 | 3.40 |
+| LAKE | IL | 17097 | 3.10 |
+| LA SALLE | IL | 17099 | 3.40 |
+| LAWRENCE | IL | 17101 | 3.60 |
+| LEE | IL | 17103 | 3.20 |
+| LIVINGSTON | IL | 17105 | 3.40 |
+| LOGAN | IL | 17107 | 3.40 |
+| MCDONOUGH | IL | 17109 | 3.40 |
+| MCHENRY | IL | 17111 | 3.10 |
+| MCLEAN | IL | 17113 | 3.40 |
+| MACON | IL | 17115 | 3.40 |
+| MACOUPIN | IL | 17117 | 3.60 |
+| MADISON | IL | 17119 | 3.60 |
+| MARION | IL | 17121 | 3.60 |
+| MARSHALL | IL | 17123 | 3.40 |
+| MASON | IL | 17125 | 3.40 |
+| MASSAC | IL | 17127 | 4.00 |
+| MENARD | IL | 17129 | 3.40 |
+| MERCER | IL | 17131 | 3.20 |
+| MONROE | IL | 17133 | 3.60 |
+| MONTGOMERY | IL | 17135 | 3.60 |
+| MORGAN | IL | 17137 | 3.40 |
+| MOULTRIE | IL | 17139 | 3.60 |
+| OGLE | IL | 17141 | 3.20 |
+| PEORIA | IL | 17143 | 3.40 |
+| PERRY | IL | 17145 | 3.60 |
+| PIATT | IL | 17147 | 3.40 |
+| PIKE | IL | 17149 | 3.40 |
+| POPE | IL | 17151 | 4.00 |
+| PULASKI | IL | 17153 | 4.00 |
+| PUTNAM | IL | 17155 | 3.40 |
+| RANDOLPH | IL | 17157 | 3.60 |
+| RICHLAND | IL | 17159 | 3.60 |
+| ROCK ISLAND | IL | 17161 | 3.20 |
+| ST. CLAIR | IL | 17163 | 3.60 |
+| SALINE | IL | 17165 | 4.00 |
+| SANGAMON | IL | 17167 | 3.40 |
+| SCHUYLER | IL | 17169 | 3.40 |
+| SCOTT | IL | 17171 | 3.40 |
+| SHELBY | IL | 17173 | 3.60 |
+| STARK | IL | 17175 | 3.40 |
+| STEPHENSON | IL | 17177 | 3.10 |
+| TAZEWELL | IL | 17179 | 3.40 |
+| UNION | IL | 17181 | 4.00 |
+| VERMILION | IL | 17183 | 3.60 |
+| WABASH | IL | 17185 | 3.60 |
+| WARREN | IL | 17187 | 3.20 |
+| WASHINGTON | IL | 17189 | 3.60 |
+| WAYNE | IL | 17191 | 3.60 |
+| WHITE | IL | 17193 | 3.60 |
+| WHITESIDE | IL | 17195 | 3.20 |
+| WILL | IL | 17197 | 3.20 |
+| WILLIAMSON | IL | 17199 | 4.00 |
+| WINNEBAGO | IL | 17201 | 3.10 |
+| WOODFORD | IL | 17203 | 3.40 |
+| ADAMS | IN | 18001 | 3.30 |
+| ALLEN | IN | 18003 | 3.30 |
+| BARTHOLOMEW | IN | 18005 | 3.70 |
+| BENTON | IN | 18007 | 3.60 |
+| BLACKFORD | IN | 18009 | 3.30 |
+| BOONE | IN | 18011 | 3.60 |
+| BROWN | IN | 18013 | 3.70 |
+| CARROLL | IN | 18015 | 3.60 |
+| CASS | IN | 18017 | 3.30 |
+| CLARK | IN | 18019 | 4.00 |
+| CLAY | IN | 18021 | 3.60 |
+| CLINTON | IN | 18023 | 3.60 |
+| CRAWFORD | IN | 18025 | 4.00 |
+| DAVIESS | IN | 18027 | 3.70 |
+| DEARBORN | IN | 18029 | 3.70 |
+| DECATUR | IN | 18031 | 3.70 |
+| DEKALB | IN | 18033 | 3.30 |
+| DELAWARE | IN | 18035 | 3.60 |
+| DUBOIS | IN | 18037 | 3.70 |
+| ELKHART | IN | 18039 | 3.30 |
+| FAYETTE | IN | 18041 | 3.60 |
+| FLOYD | IN | 18043 | 4.00 |
+| FOUNTAIN | IN | 18045 | 3.60 |
+| FRANKLIN | IN | 18047 | 3.70 |
+| FULTON | IN | 18049 | 3.30 |
+| GIBSON | IN | 18051 | 3.70 |
+| GRANT | IN | 18053 | 3.30 |
+| GREENE | IN | 18055 | 3.70 |
+| HAMILTON | IN | 18057 | 3.60 |
+| HANCOCK | IN | 18059 | 3.60 |
+| HARRISON | IN | 18061 | 4.00 |
+| HENDRICKS | IN | 18063 | 3.60 |
+| HENRY | IN | 18065 | 3.60 |
+| HOWARD | IN | 18067 | 3.60 |
+| HUNTINGTON | IN | 18069 | 3.30 |
+| JACKSON | IN | 18071 | 3.70 |
+| JASPER | IN | 18073 | 3.60 |
+| JAY | IN | 18075 | 3.30 |
+| JEFFERSON | IN | 18077 | 4.00 |
+| JENNINGS | IN | 18079 | 3.70 |
+| JOHNSON | IN | 18081 | 3.60 |
+| KNOX | IN | 18083 | 3.70 |
+| KOSCIUSKO | IN | 18085 | 3.30 |
+| LAGRANGE | IN | 18087 | 3.30 |
+| LAKE | IN | 18089 | 3.30 |
+| LA PORTE | IN | 18091 | 3.30 |
+| LAWRENCE | IN | 18093 | 3.70 |
+| MADISON | IN | 18095 | 3.60 |
+| MARION | IN | 18097 | 3.60 |
+| MARSHALL | IN | 18099 | 3.30 |
+| MARTIN | IN | 18101 | 3.70 |
+| MIAMI | IN | 18103 | 3.30 |
+| MONROE | IN | 18105 | 3.70 |
+| MONTGOMERY | IN | 18107 | 3.60 |
+| MORGAN | IN | 18109 | 3.60 |
+| NEWTON | IN | 18111 | 3.60 |
+| NOBLE | IN | 18113 | 3.30 |
+| OHIO | IN | 18115 | 3.70 |
+| ORANGE | IN | 18117 | 3.70 |
+| OWEN | IN | 18119 | 3.60 |
+| PARKE | IN | 18121 | 3.60 |
+| PERRY | IN | 18123 | 4.00 |
+| PIKE | IN | 18125 | 3.70 |
+| PORTER | IN | 18127 | 3.30 |
+| POSEY | IN | 18129 | 3.70 |
+| PULASKI | IN | 18131 | 3.30 |
+| PUTNAM | IN | 18133 | 3.60 |
+| RANDOLPH | IN | 18135 | 3.60 |
+| RIPLEY | IN | 18137 | 3.70 |
+| RUSH | IN | 18139 | 3.60 |
+| ST. JOSEPH | IN | 18141 | 3.30 |
+| SCOTT | IN | 18143 | 4.00 |
+| SHELBY | IN | 18145 | 3.60 |
+| SPENCER | IN | 18147 | 4.00 |
+| STARKE | IN | 18149 | 3.30 |
+| STEUBEN | IN | 18151 | 3.30 |
+| SULLIVAN | IN | 18153 | 3.70 |
+| SWITZERLAND | IN | 18155 | 4.00 |
+| TIPPECANOE | IN | 18157 | 3.60 |
+| TIPTON | IN | 18159 | 3.60 |
+| UNION | IN | 18161 | 3.60 |
+| VANDERBURGH | IN | 18163 | 3.70 |
+| VERMILLION | IN | 18165 | 3.60 |
+| VIGO | IN | 18167 | 3.60 |
+| WABASH | IN | 18169 | 3.30 |
+| WARREN | IN | 18171 | 3.60 |
+| WARRICK | IN | 18173 | 3.70 |
+| WASHINGTON | IN | 18175 | 4.00 |
+| WAYNE | IN | 18177 | 3.60 |
+| WELLS | IN | 18179 | 3.30 |
+| WHITE | IN | 18181 | 3.60 |
+| WHITLEY | IN | 18183 | 3.30 |
+| ADAIR | IA | 19001 | 2.70 |
+| ADAMS | IA | 19003 | 2.90 |
+| ALLAMAKEE | IA | 19005 | 2.90 |
+| APPANOOSE | IA | 19007 | 2.90 |
+| AUDUBON | IA | 19009 | 2.70 |
+| BENTON | IA | 19011 | 2.90 |
+| BLACK HAWK | IA | 19013 | 2.90 |
+| BOONE | IA | 19015 | 2.70 |
+| BREMER | IA | 19017 | 2.90 |
+| BUCHANAN | IA | 19019 | 2.90 |
+| BUENA VISTA | IA | 19021 | 2.60 |
+| BUTLER | IA | 19023 | 2.90 |
+| CALHOUN | IA | 19025 | 2.70 |
+| CARROLL | IA | 19027 | 2.70 |
+| CASS | IA | 19029 | 2.70 |
+| CEDAR | IA | 19031 | 3.10 |
+| CERRO GORDO | IA | 19033 | 2.90 |
+| CHEROKEE | IA | 19035 | 2.60 |
+| CHICKASAW | IA | 19037 | 2.90 |
+| CLARKE | IA | 19039 | 2.90 |
+| CLAY | IA | 19041 | 2.60 |
+| CLAYTON | IA | 19043 | 2.90 |
+| CLINTON | IA | 19045 | 3.10 |
+| CRAWFORD | IA | 19047 | 2.60 |
+| DALLAS | IA | 19049 | 2.70 |
+| DAVIS | IA | 19051 | 2.90 |
+| DECATUR | IA | 19053 | 2.90 |
+| DELAWARE | IA | 19055 | 2.90 |
+| DES MOINES | IA | 19057 | 3.10 |
+| DICKINSON | IA | 19059 | 2.70 |
+| DUBUQUE | IA | 19061 | 3.10 |
+| EMMET | IA | 19063 | 2.70 |
+| FAYETTE | IA | 19065 | 2.90 |
+| FLOYD | IA | 19067 | 2.90 |
+| FRANKLIN | IA | 19069 | 2.70 |
+| FREMONT | IA | 19071 | 2.70 |
+| GREENE | IA | 19073 | 2.70 |
+| GRUNDY | IA | 19075 | 2.90 |
+| GUTHRIE | IA | 19077 | 2.70 |
+| HAMILTON | IA | 19079 | 2.70 |
+| HANCOCK | IA | 19081 | 2.70 |
+| HARDIN | IA | 19083 | 2.70 |
+| HARRISON | IA | 19085 | 2.60 |
+| HENRY | IA | 19087 | 2.90 |
+| HOWARD | IA | 19089 | 2.80 |
+| HUMBOLDT | IA | 19091 | 2.70 |
+| IDA | IA | 19093 | 2.60 |
+| IOWA | IA | 19095 | 2.90 |
+| JACKSON | IA | 19097 | 3.10 |
+| JASPER | IA | 19099 | 2.90 |
+| JEFFERSON | IA | 19101 | 2.90 |
+| JOHNSON | IA | 19103 | 2.90 |
+| JONES | IA | 19105 | 3.10 |
+| KEOKUK | IA | 19107 | 2.90 |
+| KOSSUTH | IA | 19109 | 2.70 |
+| LEE | IA | 19111 | 3.10 |
+| LINN | IA | 19113 | 2.90 |
+| LOUISA | IA | 19115 | 3.10 |
+| LUCAS | IA | 19117 | 2.90 |
+| LYON | IA | 19119 | 2.60 |
+| MADISON | IA | 19121 | 2.70 |
+| MAHASKA | IA | 19123 | 2.90 |
+| MARION | IA | 19125 | 2.90 |
+| MARSHALL | IA | 19127 | 2.90 |
+| MILLS | IA | 19129 | 2.70 |
+| MITCHELL | IA | 19131 | 2.80 |
+| MONONA | IA | 19133 | 2.60 |
+| MONROE | IA | 19135 | 2.90 |
+| MONTGOMERY | IA | 19137 | 2.70 |
+| MUSCATINE | IA | 19139 | 3.10 |
+| O'BRIEN | IA | 19141 | 2.60 |
+| OSCEOLA | IA | 19143 | 2.70 |
+| PAGE | IA | 19145 | 2.90 |
+| PALO ALTO | IA | 19147 | 2.70 |
+| PLYMOUTH | IA | 19149 | 2.60 |
+| POCAHONTAS | IA | 19151 | 2.70 |
+| POLK | IA | 19153 | 2.70 |
+| POTTAWATTAMIE | IA | 19155 | 2.70 |
+| POWESHIEK | IA | 19157 | 2.90 |
+| RINGGOLD | IA | 19159 | 2.90 |
+| SAC | IA | 19161 | 2.60 |
+| SCOTT | IA | 19163 | 3.10 |
+| SHELBY | IA | 19165 | 2.60 |
+| SIOUX | IA | 19167 | 2.60 |
+| STORY | IA | 19169 | 2.70 |
+| TAMA | IA | 19171 | 2.90 |
+| TAYLOR | IA | 19173 | 2.90 |
+| UNION | IA | 19175 | 2.90 |
+| VAN BUREN | IA | 19177 | 2.90 |
+| WAPELLO | IA | 19179 | 2.90 |
+| WARREN | IA | 19181 | 2.70 |
+| WASHINGTON | IA | 19183 | 2.90 |
+| WAYNE | IA | 19185 | 2.90 |
+| WEBSTER | IA | 19187 | 2.70 |
+| WINNEBAGO | IA | 19189 | 2.70 |
+| WINNESHIEK | IA | 19191 | 2.80 |
+| WOODBURY | IA | 19193 | 2.60 |
+| WORTH | IA | 19195 | 2.80 |
+| WRIGHT | IA | 19197 | 2.70 |
+| ALLEN | KS | 20001 | 2.90 |
+| ANDERSON | KS | 20003 | 2.90 |
+| ATCHISON | KS | 20005 | 2.90 |
+| BARBER | KS | 20007 | 2.60 |
+| BARTON | KS | 20009 | 2.60 |
+| BOURBON | KS | 20011 | 3.20 |
+| BROWN | KS | 20013 | 2.90 |
+| BUTLER | KS | 20015 | 2.90 |
+| CHASE | KS | 20017 | 2.70 |
+| CHAUTAUQUA | KS | 20019 | 2.90 |
+| CHEROKEE | KS | 20021 | 3.20 |
+| CHEYENNE | KS | 20023 | 2.50 |
+| CLARK | KS | 20025 | 2.60 |
+| CLAY | KS | 20027 | 2.70 |
+| CLOUD | KS | 20029 | 2.70 |
+| COFFEY | KS | 20031 | 2.90 |
+| COMANCHE | KS | 20033 | 2.60 |
+| COWLEY | KS | 20035 | 2.90 |
+| CRAWFORD | KS | 20037 | 3.20 |
+| DECATUR | KS | 20039 | 2.50 |
+| DICKINSON | KS | 20041 | 2.70 |
+| DONIPHAN | KS | 20043 | 2.90 |
+| DOUGLAS | KS | 20045 | 2.90 |
+| EDWARDS | KS | 20047 | 2.60 |
+| ELK | KS | 20049 | 2.90 |
+| ELLIS | KS | 20051 | 2.50 |
+| ELLSWORTH | KS | 20053 | 2.60 |
+| FINNEY | KS | 20055 | 2.50 |
+| FORD | KS | 20057 | 2.50 |
+| FRANKLIN | KS | 20059 | 2.90 |
+| GEARY | KS | 20061 | 2.70 |
+| GOVE | KS | 20063 | 2.50 |
+| GRAHAM | KS | 20065 | 2.50 |
+| GRANT | KS | 20067 | 2.50 |
+| GRAY | KS | 20069 | 2.50 |
+| GREELEY | KS | 20071 | 2.50 |
+| GREENWOOD | KS | 20073 | 2.90 |
+| HAMILTON | KS | 20075 | 2.50 |
+| HARPER | KS | 20077 | 2.90 |
+| HARVEY | KS | 20079 | 2.90 |
+| HASKELL | KS | 20081 | 2.50 |
+| HODGEMAN | KS | 20083 | 2.50 |
+| JACKSON | KS | 20085 | 2.90 |
+| JEFFERSON | KS | 20087 | 2.90 |
+| JEWELL | KS | 20089 | 2.60 |
+| JOHNSON | KS | 20091 | 3.20 |
+| KEARNY | KS | 20093 | 2.50 |
+| KINGMAN | KS | 20095 | 2.90 |
+| KIOWA | KS | 20097 | 2.60 |
+| LABETTE | KS | 20099 | 3.20 |
+| LANE | KS | 20101 | 2.50 |
+| LEAVENWORTH | KS | 20103 | 2.90 |
+| LINCOLN | KS | 20105 | 2.60 |
+| LINN | KS | 20107 | 3.20 |
+| LOGAN | KS | 20109 | 2.50 |
+| LYON | KS | 20111 | 2.90 |
+| MCPHERSON | KS | 20113 | 2.70 |
+| MARION | KS | 20115 | 2.70 |
+| MARSHALL | KS | 20117 | 2.70 |
+| MEADE | KS | 20119 | 2.50 |
+| MIAMI | KS | 20121 | 3.20 |
+| MITCHELL | KS | 20123 | 2.60 |
+| MONTGOMERY | KS | 20125 | 3.20 |
+| MORRIS | KS | 20127 | 2.70 |
+| MORTON | KS | 20129 | 2.50 |
+| NEMAHA | KS | 20131 | 2.70 |
+| NEOSHO | KS | 20133 | 2.90 |
+| NESS | KS | 20135 | 2.50 |
+| NORTON | KS | 20137 | 2.50 |
+| OSAGE | KS | 20139 | 2.90 |
+| OSBORNE | KS | 20141 | 2.50 |
+| OTTAWA | KS | 20143 | 2.70 |
+| PAWNEE | KS | 20145 | 2.50 |
+| PHILLIPS | KS | 20147 | 2.50 |
+| POTTAWATOMIE | KS | 20149 | 2.70 |
+| PRATT | KS | 20151 | 2.60 |
+| RAWLINS | KS | 20153 | 2.50 |
+| RENO | KS | 20155 | 2.90 |
+| REPUBLIC | KS | 20157 | 2.60 |
+| RICE | KS | 20159 | 2.60 |
+| RILEY | KS | 20161 | 2.70 |
+| ROOKS | KS | 20163 | 2.50 |
+| RUSH | KS | 20165 | 2.50 |
+| RUSSELL | KS | 20167 | 2.50 |
+| SALINE | KS | 20169 | 2.70 |
+| SCOTT | KS | 20171 | 2.50 |
+| SEDGWICK | KS | 20173 | 2.90 |
+| SEWARD | KS | 20175 | 2.50 |
+| SHAWNEE | KS | 20177 | 2.90 |
+| SHERIDAN | KS | 20179 | 2.50 |
+| SHERMAN | KS | 20181 | 2.50 |
+| SMITH | KS | 20183 | 2.50 |
+| STAFFORD | KS | 20185 | 2.60 |
+| STANTON | KS | 20187 | 2.50 |
+| STEVENS | KS | 20189 | 2.50 |
+| SUMNER | KS | 20191 | 2.90 |
+| THOMAS | KS | 20193 | 2.50 |
+| TREGO | KS | 20195 | 2.50 |
+| WABAUNSEE | KS | 20197 | 2.90 |
+| WALLACE | KS | 20199 | 2.50 |
+| WASHINGTON | KS | 20201 | 2.70 |
+| WICHITA | KS | 20203 | 2.50 |
+| WILSON | KS | 20205 | 2.90 |
+| WOODSON | KS | 20207 | 2.90 |
+| WYANDOTTE | KS | 20209 | 3.20 |
+| ADAIR | KY | 21001 | 4.20 |
+| ALLEN | KY | 21003 | 4.20 |
+| ANDERSON | KY | 21005 | 4.20 |
+| BALLARD | KY | 21007 | 4.00 |
+| BARREN | KY | 21009 | 4.20 |
+| BATH | KY | 21011 | 4.20 |
+| BELL | KY | 21013 | 4.80 |
+| BOONE | KY | 21015 | 4.00 |
+| BOURBON | KY | 21017 | 4.20 |
+| BOYD | KY | 21019 | 4.20 |
+| BOYLE | KY | 21021 | 4.20 |
+| BRACKEN | KY | 21023 | 4.00 |
+| BREATHITT | KY | 21025 | 4.50 |
+| BRECKINRIDGE | KY | 21027 | 4.00 |
+| BULLITT | KY | 21029 | 4.00 |
+| BUTLER | KY | 21031 | 4.20 |
+| CALDWELL | KY | 21033 | 4.00 |
+| CALLOWAY | KY | 21035 | 4.20 |
+| CAMPBELL | KY | 21037 | 4.00 |
+| CARLISLE | KY | 21039 | 4.00 |
+| CARROLL | KY | 21041 | 4.00 |
+| CARTER | KY | 21043 | 4.20 |
+| CASEY | KY | 21045 | 4.20 |
+| CHRISTIAN | KY | 21047 | 4.20 |
+| CLARK | KY | 21049 | 4.20 |
+| CLAY | KY | 21051 | 4.50 |
+| CLINTON | KY | 21053 | 4.50 |
+| CRITTENDEN | KY | 21055 | 4.00 |
+| CUMBERLAND | KY | 21057 | 4.50 |
+| DAVIESS | KY | 21059 | 4.00 |
+| EDMONSON | KY | 21061 | 4.20 |
+| ELLIOTT | KY | 21063 | 4.20 |
+| ESTILL | KY | 21065 | 4.20 |
+| FAYETTE | KY | 21067 | 4.20 |
+| FLEMING | KY | 21069 | 4.20 |
+| FLOYD | KY | 21071 | 4.50 |
+| FRANKLIN | KY | 21073 | 4.00 |
+| FULTON | KY | 21075 | 4.00 |
+| GALLATIN | KY | 21077 | 4.00 |
+| GARRARD | KY | 21079 | 4.20 |
+| GRANT | KY | 21081 | 4.00 |
+| GRAVES | KY | 21083 | 4.20 |
+| GRAYSON | KY | 21085 | 4.00 |
+| GREEN | KY | 21087 | 4.20 |
+| GREENUP | KY | 21089 | 4.20 |
+| HANCOCK | KY | 21091 | 4.00 |
+| HARDIN | KY | 21093 | 4.20 |
+| HARLAN | KY | 21095 | 4.80 |
+| HARRISON | KY | 21097 | 4.20 |
+| HART | KY | 21099 | 4.20 |
+| HENDERSON | KY | 21101 | 4.00 |
+| HENRY | KY | 21103 | 4.00 |
+| HICKMAN | KY | 21105 | 4.00 |
+| HOPKINS | KY | 21107 | 4.00 |
+| JACKSON | KY | 21109 | 4.20 |
+| JEFFERSON | KY | 21111 | 4.00 |
+| JESSAMINE | KY | 21113 | 4.20 |
+| JOHNSON | KY | 21115 | 4.50 |
+| KENTON | KY | 21117 | 4.00 |
+| KNOTT | KY | 21119 | 4.50 |
+| KNOX | KY | 21121 | 4.50 |
+| LARUE | KY | 21123 | 4.20 |
+| LAUREL | KY | 21125 | 4.50 |
+| LAWRENCE | KY | 21127 | 4.20 |
+| LEE | KY | 21129 | 4.20 |
+| LESLIE | KY | 21131 | 4.50 |
+| LETCHER | KY | 21133 | 4.80 |
+| LEWIS | KY | 21135 | 4.20 |
+| LINCOLN | KY | 21137 | 4.20 |
+| LIVINGSTON | KY | 21139 | 4.00 |
+| LOGAN | KY | 21141 | 4.20 |
+| LYON | KY | 21143 | 4.00 |
+| MCCRACKEN | KY | 21145 | 4.00 |
+| MCCREARY | KY | 21147 | 4.50 |
+| MCLEAN | KY | 21149 | 4.00 |
+| MADISON | KY | 21151 | 4.20 |
+| MAGOFFIN | KY | 21153 | 4.50 |
+| MARION | KY | 21155 | 4.20 |
+| MARSHALL | KY | 21157 | 4.00 |
+| MARTIN | KY | 21159 | 4.50 |
+| MASON | KY | 21161 | 4.20 |
+| MEADE | KY | 21163 | 4.00 |
+| MENIFEE | KY | 21165 | 4.20 |
+| MERCER | KY | 21167 | 4.20 |
+| METCALFE | KY | 21169 | 4.20 |
+| MONROE | KY | 21171 | 4.50 |
+| MONTGOMERY | KY | 21173 | 4.20 |
+| MORGAN | KY | 21175 | 4.20 |
+| MUHLENBERG | KY | 21177 | 4.00 |
+| NELSON | KY | 21179 | 4.20 |
+| NICHOLAS | KY | 21181 | 4.20 |
+| OHIO | KY | 21183 | 4.00 |
+| OLDHAM | KY | 21185 | 4.00 |
+| OWEN | KY | 21187 | 4.00 |
+| OWSLEY | KY | 21189 | 4.50 |
+| PENDLETON | KY | 21191 | 4.00 |
+| PERRY | KY | 21193 | 4.50 |
+| PIKE | KY | 21195 | 4.50 |
+| POWELL | KY | 21197 | 4.20 |
+| PULASKI | KY | 21199 | 4.50 |
+| ROBERTSON | KY | 21201 | 4.20 |
+| ROCKCASTLE | KY | 21203 | 4.20 |
+| ROWAN | KY | 21205 | 4.20 |
+| RUSSELL | KY | 21207 | 4.50 |
+| SCOTT | KY | 21209 | 4.00 |
+| SHELBY | KY | 21211 | 4.00 |
+| SIMPSON | KY | 21213 | 4.20 |
+| SPENCER | KY | 21215 | 4.00 |
+| TAYLOR | KY | 21217 | 4.20 |
+| TODD | KY | 21219 | 4.20 |
+| TRIGG | KY | 21221 | 4.20 |
+| TRIMBLE | KY | 21223 | 4.00 |
+| UNION | KY | 21225 | 4.00 |
+| WARREN | KY | 21227 | 4.20 |
+| WASHINGTON | KY | 21229 | 4.20 |
+| WAYNE | KY | 21231 | 4.50 |
+| WEBSTER | KY | 21233 | 4.00 |
+| WHITLEY | KY | 21235 | 4.50 |
+| WOLFE | KY | 21237 | 4.20 |
+| WOODFORD | KY | 21239 | 4.20 |
+| ACADIA | LA | 22001 | 5.20 |
+| ALLEN | LA | 22003 | 4.90 |
+| ASCENSION | LA | 22005 | 5.20 |
+| ASSUMPTION | LA | 22007 | 5.20 |
+| AVOYELLES | LA | 22009 | 5.20 |
+| BEAUREGARD | LA | 22011 | 4.90 |
+| BIENVILLE | LA | 22013 | 4.60 |
+| BOSSIER | LA | 22015 | 4.30 |
+| CADDO | LA | 22017 | 4.30 |
+| CALCASIEU | LA | 22019 | 4.90 |
+| CALDWELL | LA | 22021 | 4.90 |
+| CAMERON | LA | 22023 | 4.90 |
+| CATAHOULA | LA | 22025 | 5.20 |
+| CLAIBORNE | LA | 22027 | 4.30 |
+| CONCORDIA | LA | 22029 | 5.20 |
+| DE SOTO | LA | 22031 | 4.30 |
+| EAST BATON ROUGE | LA | 22033 | 5.20 |
+| EAST CARROLL | LA | 22035 | 5.20 |
+| EAST FELICIANA | LA | 22037 | 5.20 |
+| EVANGELINE | LA | 22039 | 4.90 |
+| FRANKLIN | LA | 22041 | 4.90 |
+| GRANT | LA | 22043 | 4.90 |
+| IBERIA | LA | 22045 | 5.20 |
+| IBERVILLE | LA | 22047 | 5.20 |
+| JACKSON | LA | 22049 | 4.60 |
+| JEFFERSON | LA | 22051 | 5.60 |
+| JEFFERSON DAVIS | LA | 22053 | 4.90 |
+| LAFAYETTE | LA | 22055 | 5.20 |
+| LAFOURCHE | LA | 22057 | 5.60 |
+| LA SALLE | LA | 22059 | 4.90 |
+| LINCOLN | LA | 22061 | 4.60 |
+| LIVINGSTON | LA | 22063 | 5.40 |
+| MADISON | LA | 22065 | 5.20 |
+| MOREHOUSE | LA | 22067 | 4.90 |
+| NATCHITOCHES | LA | 22069 | 4.60 |
+| ORLEANS | LA | 22071 | 5.60 |
+| OUACHITA | LA | 22073 | 4.90 |
+| PLAQUEMINES | LA | 22075 | 5.60 |
+| POINTE COUPEE | LA | 22077 | 5.20 |
+| RAPIDES | LA | 22079 | 4.90 |
+| RED RIVER | LA | 22081 | 4.60 |
+| RICHLAND | LA | 22083 | 4.90 |
+| SABINE | LA | 22085 | 4.60 |
+| ST. BERNARD | LA | 22087 | 5.60 |
+| ST. CHARLES | LA | 22089 | 5.60 |
+| ST. HELENA | LA | 22091 | 5.40 |
+| ST. JAMES | LA | 22093 | 5.20 |
+| ST. JOHN THE BAPTIST | LA | 22095 | 5.60 |
+| ST. LANDRY | LA | 22097 | 5.20 |
+| ST. MARTIN | LA | 22099 | 5.20 |
+| ST. MARY | LA | 22101 | 5.20 |
+| ST. TAMMANY | LA | 22103 | 5.60 |
+| TANGIPAHOA | LA | 22105 | 5.40 |
+| TENSAS | LA | 22107 | 5.20 |
+| TERREBONNE | LA | 22109 | 5.60 |
+| UNION | LA | 22111 | 4.60 |
+| VERMILION | LA | 22113 | 5.20 |
+| VERNON | LA | 22115 | 4.60 |
+| WASHINGTON | LA | 22117 | 5.60 |
+| WEBSTER | LA | 22119 | 4.30 |
+| WEST BATON ROUGE | LA | 22121 | 5.20 |
+| WEST CARROLL | LA | 22123 | 4.90 |
+| WEST FELICIANA | LA | 22125 | 5.20 |
+| WINN | LA | 22127 | 4.60 |
+| ANDROSCOGGIN | ME | 23001 | 4.20 |
+| AROOSTOOK | ME | 23003 | 3.90 |
+| CUMBERLAND | ME | 23005 | 4.50 |
+| FRANKLIN | ME | 23007 | 4.20 |
+| HANCOCK | ME | 23009 | 3.90 |
+| KENNEBEC | ME | 23011 | 4.20 |
+| KNOX | ME | 23013 | 4.20 |
+| LINCOLN | ME | 23015 | 4.20 |
+| OXFORD | ME | 23017 | 4.20 |
+| PENOBSCOT | ME | 23019 | 3.90 |
+| PISCATAQUIS | ME | 23021 | 3.90 |
+| SAGADAHOC | ME | 23023 | 4.20 |
+| SOMERSET | ME | 23025 | 3.90 |
+| WALDO | ME | 23027 | 3.90 |
+| WASHINGTON | ME | 23029 | 3.90 |
+| YORK | ME | 23031 | 4.50 |
+| ALLEGANY | MD | 24001 | 4.10 |
+| ANNE ARUNDEL | MD | 24003 | 4.60 |
+| BALTIMORE | MD | 24005 | 4.40 |
+| CALVERT | MD | 24009 | 4.80 |
+| CAROLINE | MD | 24011 | 4.60 |
+| CARROLL | MD | 24013 | 4.40 |
+| CECIL | MD | 24015 | 4.40 |
+| CHARLES | MD | 24017 | 4.80 |
+| DORCHESTER | MD | 24019 | 4.80 |
+| FREDERICK | MD | 24021 | 4.40 |
+| GARRETT | MD | 24023 | 4.10 |
+| HARFORD | MD | 24025 | 4.40 |
+| HOWARD | MD | 24027 | 4.60 |
+| KENT | MD | 24029 | 4.60 |
+| MONTGOMERY | MD | 24031 | 4.60 |
+| PRINCE GEORGE'S | MD | 24033 | 4.60 |
+| QUEEN ANNE'S | MD | 24035 | 4.60 |
+| ST. MARY'S | MD | 24037 | 4.80 |
+| SOMERSET | MD | 24039 | 4.80 |
+| TALBOT | MD | 24041 | 4.60 |
+| WASHINGTON | MD | 24043 | 4.20 |
+| WICOMICO | MD | 24045 | 4.80 |
+| WORCESTER | MD | 24047 | 4.80 |
+| BALTIMORE CITY | MD | 24510 | 4.60 |
+| BARNSTABLE | MA | 25001 | 5.10 |
+| BERKSHIRE | MA | 25003 | 4.50 |
+| BRISTOL | MA | 25005 | 5.10 |
+| DUKES | MA | 25007 | 5.10 |
+| ESSEX | MA | 25009 | 5.10 |
+| FRANKLIN | MA | 25011 | 4.70 |
+| HAMPDEN | MA | 25013 | 4.70 |
+| HAMPSHIRE | MA | 25015 | 4.70 |
+| MIDDLESEX | MA | 25017 | 5.10 |
+| NANTUCKET | MA | 25019 | 5.10 |
+| NORFOLK | MA | 25021 | 5.10 |
+| PLYMOUTH | MA | 25023 | 5.10 |
+| SUFFOLK | MA | 25025 | 5.10 |
+| WORCESTER | MA | 25027 | 4.90 |
+| ALCONA | MI | 26001 | 3.30 |
+| ALGER | MI | 26003 | 3.00 |
+| ALLEGAN | MI | 26005 | 3.30 |
+| ALPENA | MI | 26007 | 3.30 |
+| ANTRIM | MI | 26009 | 3.30 |
+| ARENAC | MI | 26011 | 3.30 |
+| BARAGA | MI | 26013 | 3.00 |
+| BARRY | MI | 26015 | 3.30 |
+| BAY | MI | 26017 | 3.30 |
+| BENZIE | MI | 26019 | 3.30 |
+| BERRIEN | MI | 26021 | 3.30 |
+| BRANCH | MI | 26023 | 3.30 |
+| CALHOUN | MI | 26025 | 3.30 |
+| CASS | MI | 26027 | 3.30 |
+| CHARLEVOIX | MI | 26029 | 3.30 |
+| CHEBOYGAN | MI | 26031 | 3.30 |
+| CHIPPEWA | MI | 26033 | 3.00 |
+| CLARE | MI | 26035 | 3.30 |
+| CLINTON | MI | 26037 | 3.30 |
+| CRAWFORD | MI | 26039 | 3.30 |
+| DELTA | MI | 26041 | 2.80 |
+| DICKINSON | MI | 26043 | 2.80 |
+| EATON | MI | 26045 | 3.30 |
+| EMMET | MI | 26047 | 3.30 |
+| GENESEE | MI | 26049 | 3.30 |
+| GLADWIN | MI | 26051 | 3.30 |
+| GOGEBIC | MI | 26053 | 2.80 |
+| GRAND TRAVERSE | MI | 26055 | 3.30 |
+| GRATIOT | MI | 26057 | 3.30 |
+| HILLSDALE | MI | 26059 | 3.30 |
+| HOUGHTON | MI | 26061 | 3.00 |
+| HURON | MI | 26063 | 3.30 |
+| INGHAM | MI | 26065 | 3.30 |
+| IONIA | MI | 26067 | 3.30 |
+| IOSCO | MI | 26069 | 3.30 |
+| IRON | MI | 26071 | 2.80 |
+| ISABELLA | MI | 26073 | 3.30 |
+| JACKSON | MI | 26075 | 3.30 |
+| KALAMAZOO | MI | 26077 | 3.30 |
+| KALKASKA | MI | 26079 | 3.30 |
+| KENT | MI | 26081 | 3.30 |
+| KEWEENAW | MI | 26083 | 3.00 |
+| LAKE | MI | 26085 | 3.30 |
+| LAPEER | MI | 26087 | 3.30 |
+| LEELANAU | MI | 26089 | 3.30 |
+| LENAWEE | MI | 26091 | 3.30 |
+| LIVINGSTON | MI | 26093 | 3.30 |
+| LUCE | MI | 26095 | 3.00 |
+| MACKINAC | MI | 26097 | 3.00 |
+| MACOMB | MI | 26099 | 3.30 |
+| MANISTEE | MI | 26101 | 3.30 |
+| MARQUETTE | MI | 26103 | 3.00 |
+| MASON | MI | 26105 | 3.30 |
+| MECOSTA | MI | 26107 | 3.30 |
+| MENOMINEE | MI | 26109 | 2.80 |
+| MIDLAND | MI | 26111 | 3.30 |
+| MISSAUKEE | MI | 26113 | 3.30 |
+| MONROE | MI | 26115 | 3.30 |
+| MONTCALM | MI | 26117 | 3.30 |
+| MONTMORENCY | MI | 26119 | 3.30 |
+| MUSKEGON | MI | 26121 | 3.30 |
+| NEWAYGO | MI | 26123 | 3.30 |
+| OAKLAND | MI | 26125 | 3.30 |
+| OCEANA | MI | 26127 | 3.30 |
+| OGEMAW | MI | 26129 | 3.30 |
+| ONTONAGON | MI | 26131 | 2.80 |
+| OSCEOLA | MI | 26133 | 3.30 |
+| OSCODA | MI | 26135 | 3.30 |
+| OTSEGO | MI | 26137 | 3.30 |
+| OTTAWA | MI | 26139 | 3.30 |
+| PRESQUE ISLE | MI | 26141 | 3.30 |
+| ROSCOMMON | MI | 26143 | 3.30 |
+| SAGINAW | MI | 26145 | 3.30 |
+| ST. CLAIR | MI | 26147 | 3.30 |
+| ST. JOSEPH | MI | 26149 | 3.30 |
+| SANILAC | MI | 26151 | 3.30 |
+| SCHOOLCRAFT | MI | 26153 | 3.00 |
+| SHIAWASSEE | MI | 26155 | 3.30 |
+| TUSCOLA | MI | 26157 | 3.30 |
+| VAN BUREN | MI | 26159 | 3.30 |
+| WASHTENAW | MI | 26161 | 3.30 |
+| WAYNE | MI | 26163 | 3.30 |
+| WEXFORD | MI | 26165 | 3.30 |
+| AITKIN | MN | 27001 | 2.80 |
+| ANOKA | MN | 27003 | 2.80 |
+| BECKER | MN | 27005 | 2.80 |
+| BELTRAMI | MN | 27007 | 2.30 |
+| BENTON | MN | 27009 | 2.80 |
+| BIG STONE | MN | 27011 | 2.70 |
+| BLUE EARTH | MN | 27013 | 2.80 |
+| BROWN | MN | 27015 | 2.80 |
+| CARLTON | MN | 27017 | 2.80 |
+| CARVER | MN | 27019 | 2.80 |
+| CASS | MN | 27021 | 2.80 |
+| CHIPPEWA | MN | 27023 | 2.80 |
+| CHISAGO | MN | 27025 | 2.80 |
+| CLAY | MN | 27027 | 2.80 |
+| CLEARWATER | MN | 27029 | 2.30 |
+| COOK | MN | 27031 | 2.30 |
+| COTTONWOOD | MN | 27033 | 2.80 |
+| CROW WING | MN | 27035 | 2.80 |
+| DAKOTA | MN | 27037 | 2.90 |
+| DODGE | MN | 27039 | 2.80 |
+| DOUGLAS | MN | 27041 | 2.80 |
+| FARIBAULT | MN | 27043 | 2.80 |
+| FILLMORE | MN | 27045 | 2.80 |
+| FREEBORN | MN | 27047 | 2.80 |
+| GOODHUE | MN | 27049 | 2.80 |
+| GRANT | MN | 27051 | 2.80 |
+| HENNEPIN | MN | 27053 | 2.90 |
+| HOUSTON | MN | 27055 | 2.80 |
+| HUBBARD | MN | 27057 | 2.80 |
+| ISANTI | MN | 27059 | 2.80 |
+| ITASCA | MN | 27061 | 2.30 |
+| JACKSON | MN | 27063 | 2.80 |
+| KANABEC | MN | 27065 | 2.80 |
+| KANDIYOHI | MN | 27067 | 2.80 |
+| KITTSON | MN | 27069 | 2.30 |
+| KOOCHICHING | MN | 27071 | 2.30 |
+| LAC QUI PARLE | MN | 27073 | 2.70 |
+| LAKE | MN | 27075 | 2.30 |
+| LAKE OF THE WOODS | MN | 27077 | 2.30 |
+| LE SUEUR | MN | 27079 | 2.80 |
+| LINCOLN | MN | 27081 | 2.60 |
+| LYON | MN | 27083 | 2.70 |
+| MCLEOD | MN | 27085 | 2.80 |
+| MAHNOMEN | MN | 27087 | 2.60 |
+| MARSHALL | MN | 27089 | 2.30 |
+| MARTIN | MN | 27091 | 2.80 |
+| MEEKER | MN | 27093 | 2.80 |
+| MILLE LACS | MN | 27095 | 2.80 |
+| MORRISON | MN | 27097 | 2.80 |
+| MOWER | MN | 27099 | 2.80 |
+| MURRAY | MN | 27101 | 2.70 |
+| NICOLLET | MN | 27103 | 2.80 |
+| NOBLES | MN | 27105 | 2.70 |
+| NORMAN | MN | 27107 | 2.60 |
+| OLMSTED | MN | 27109 | 2.80 |
+| OTTER TAIL | MN | 27111 | 2.80 |
+| PENNINGTON | MN | 27113 | 2.30 |
+| PINE | MN | 27115 | 2.80 |
+| PIPESTONE | MN | 27117 | 2.60 |
+| POLK | MN | 27119 | 2.30 |
+| POPE | MN | 27121 | 2.80 |
+| RAMSEY | MN | 27123 | 2.90 |
+| RED LAKE | MN | 27125 | 2.30 |
+| REDWOOD | MN | 27127 | 2.80 |
+| RENVILLE | MN | 27129 | 2.80 |
+| RICE | MN | 27131 | 2.80 |
+| ROCK | MN | 27133 | 2.60 |
+| ROSEAU | MN | 27135 | 2.30 |
+| ST. LOUIS | MN | 27137 | 2.30 |
+| SCOTT | MN | 27139 | 2.90 |
+| SHERBURNE | MN | 27141 | 2.80 |
+| SIBLEY | MN | 27143 | 2.80 |
+| STEARNS | MN | 27145 | 2.80 |
+| STEELE | MN | 27147 | 2.80 |
+| STEVENS | MN | 27149 | 2.80 |
+| SWIFT | MN | 27151 | 2.80 |
+| TODD | MN | 27153 | 2.80 |
+| TRAVERSE | MN | 27155 | 2.70 |
+| WABASHA | MN | 27157 | 2.80 |
+| WADENA | MN | 27159 | 2.80 |
+| WASECA | MN | 27161 | 2.80 |
+| WASHINGTON | MN | 27163 | 2.90 |
+| WATONWAN | MN | 27165 | 2.80 |
+| WILKIN | MN | 27167 | 2.80 |
+| WINONA | MN | 27169 | 2.80 |
+| WRIGHT | MN | 27171 | 2.80 |
+| YELLOW MEDICINE | MN | 27173 | 2.70 |
+| ADAMS | MS | 28001 | 5.20 |
+| ALCORN | MS | 28003 | 4.90 |
+| AMITE | MS | 28005 | 5.40 |
+| ATTALA | MS | 28007 | 5.20 |
+| BENTON | MS | 28009 | 4.90 |
+| BOLIVAR | MS | 28011 | 4.90 |
+| CALHOUN | MS | 28013 | 5.20 |
+| CARROLL | MS | 28015 | 5.20 |
+| CHICKASAW | MS | 28017 | 5.20 |
+| CHOCTAW | MS | 28019 | 5.20 |
+| CLAIBORNE | MS | 28021 | 5.20 |
+| CLARKE | MS | 28023 | 5.60 |
+| CLAY | MS | 28025 | 5.20 |
+| COAHOMA | MS | 28027 | 4.90 |
+| COPIAH | MS | 28029 | 5.40 |
+| COVINGTON | MS | 28031 | 5.60 |
+| DE SOTO | MS | 28033 | 4.60 |
+| FORREST | MS | 28035 | 5.80 |
+| FRANKLIN | MS | 28037 | 5.20 |
+| GEORGE | MS | 28039 | 5.80 |
+| GREENE | MS | 28041 | 5.80 |
+| GRENADA | MS | 28043 | 5.20 |
+| HANCOCK | MS | 28045 | 5.80 |
+| HARRISON | MS | 28047 | 5.80 |
+| HINDS | MS | 28049 | 5.40 |
+| HOLMES | MS | 28051 | 5.20 |
+| HUMPHREYS | MS | 28053 | 5.20 |
+| ISSAQUENA | MS | 28055 | 5.20 |
+| ITAWAMBA | MS | 28057 | 5.20 |
+| JACKSON | MS | 28059 | 5.80 |
+| JASPER | MS | 28061 | 5.60 |
+| JEFFERSON | MS | 28063 | 5.20 |
+| JEFFERSON DAVIS | MS | 28065 | 5.60 |
+| JONES | MS | 28067 | 5.60 |
+| KEMPER | MS | 28069 | 5.40 |
+| LAFAYETTE | MS | 28071 | 4.90 |
+| LAMAR | MS | 28073 | 5.80 |
+| LAUDERDALE | MS | 28075 | 5.60 |
+| LAWRENCE | MS | 28077 | 5.60 |
+| LEAKE | MS | 28079 | 5.40 |
+| LEE | MS | 28081 | 5.20 |
+| LEFLORE | MS | 28083 | 5.20 |
+| LINCOLN | MS | 28085 | 5.40 |
+| LOWNDES | MS | 28087 | 5.20 |
+| MADISON | MS | 28089 | 5.40 |
+| MARION | MS | 28091 | 5.60 |
+| MARSHALL | MS | 28093 | 4.90 |
+| MONROE | MS | 28095 | 5.20 |
+| MONTGOMERY | MS | 28097 | 5.20 |
+| NESHOBA | MS | 28099 | 5.40 |
+| NEWTON | MS | 28101 | 5.60 |
+| NOXUBEE | MS | 28103 | 5.40 |
+| OKTIBBEHA | MS | 28105 | 5.20 |
+| PANOLA | MS | 28107 | 4.90 |
+| PEARL RIVER | MS | 28109 | 5.80 |
+| PERRY | MS | 28111 | 5.80 |
+| PIKE | MS | 28113 | 5.40 |
+| PONTOTOC | MS | 28115 | 4.90 |
+| PRENTISS | MS | 28117 | 4.90 |
+| QUITMAN | MS | 28119 | 4.90 |
+| RANKIN | MS | 28121 | 5.40 |
+| SCOTT | MS | 28123 | 5.40 |
+| SHARKEY | MS | 28125 | 5.20 |
+| SIMPSON | MS | 28127 | 5.60 |
+| SMITH | MS | 28129 | 5.60 |
+| STONE | MS | 28131 | 5.80 |
+| SUNFLOWER | MS | 28133 | 4.90 |
+| TALLAHATCHIE | MS | 28135 | 4.90 |
+| TATE | MS | 28137 | 4.90 |
+| TIPPAH | MS | 28139 | 4.90 |
+| TISHOMINGO | MS | 28141 | 4.90 |
+| TUNICA | MS | 28143 | 4.60 |
+| UNION | MS | 28145 | 4.90 |
+| WALTHALL | MS | 28147 | 5.60 |
+| WARREN | MS | 28149 | 5.20 |
+| WASHINGTON | MS | 28151 | 4.90 |
+| WAYNE | MS | 28153 | 5.80 |
+| WEBSTER | MS | 28155 | 5.20 |
+| WILKINSON | MS | 28157 | 5.20 |
+| WINSTON | MS | 28159 | 5.40 |
+| YALOBUSHA | MS | 28161 | 4.90 |
+| YAZOO | MS | 28163 | 5.20 |
+| ADAIR | MO | 29001 | 3.20 |
+| ANDREW | MO | 29003 | 2.90 |
+| ATCHISON | MO | 29005 | 2.70 |
+| AUDRAIN | MO | 29007 | 3.40 |
+| BARRY | MO | 29009 | 3.20 |
+| BARTON | MO | 29011 | 3.20 |
+| BATES | MO | 29013 | 3.20 |
+| BENTON | MO | 29015 | 3.20 |
+| BOLLINGER | MO | 29017 | 3.60 |
+| BOONE | MO | 29019 | 3.40 |
+| BUCHANAN | MO | 29021 | 3.20 |
+| BUTLER | MO | 29023 | 4.00 |
+| CALDWELL | MO | 29025 | 3.20 |
+| CALLAWAY | MO | 29027 | 3.40 |
+| CAMDEN | MO | 29029 | 3.40 |
+| CAPE GIRARDEAU | MO | 29031 | 3.60 |
+| CARROLL | MO | 29033 | 3.20 |
+| CARTER | MO | 29035 | 4.00 |
+| CASS | MO | 29037 | 3.20 |
+| CEDAR | MO | 29039 | 3.20 |
+| CHARITON | MO | 29041 | 3.20 |
+| CHRISTIAN | MO | 29043 | 3.30 |
+| CLARK | MO | 29045 | 3.20 |
+| CLAY | MO | 29047 | 3.20 |
+| CLINTON | MO | 29049 | 3.20 |
+| COLE | MO | 29051 | 3.40 |
+| COOPER | MO | 29053 | 3.40 |
+| CRAWFORD | MO | 29055 | 3.60 |
+| DADE | MO | 29057 | 3.20 |
+| DALLAS | MO | 29059 | 3.30 |
+| DAVIESS | MO | 29061 | 3.20 |
+| DE KALB | MO | 29063 | 3.20 |
+| DENT | MO | 29065 | 3.60 |
+| DOUGLAS | MO | 29067 | 3.30 |
+| DUNKLIN | MO | 29069 | 4.30 |
+| FRANKLIN | MO | 29071 | 3.60 |
+| GASCONADE | MO | 29073 | 3.60 |
+| GENTRY | MO | 29075 | 2.90 |
+| GREENE | MO | 29077 | 3.20 |
+| GRUNDY | MO | 29079 | 3.20 |
+| HARRISON | MO | 29081 | 2.90 |
+| HENRY | MO | 29083 | 3.20 |
+| HICKORY | MO | 29085 | 3.20 |
+| HOLT | MO | 29087 | 2.90 |
+| HOWARD | MO | 29089 | 3.40 |
+| HOWELL | MO | 29091 | 3.60 |
+| IRON | MO | 29093 | 3.60 |
+| JACKSON | MO | 29095 | 3.20 |
+| JASPER | MO | 29097 | 3.20 |
+| JEFFERSON | MO | 29099 | 3.60 |
+| JOHNSON | MO | 29101 | 3.20 |
+| KNOX | MO | 29103 | 3.20 |
+| LACLEDE | MO | 29105 | 3.30 |
+| LAFAYETTE | MO | 29107 | 3.20 |
+| LAWRENCE | MO | 29109 | 3.20 |
+| LEWIS | MO | 29111 | 3.20 |
+| LINCOLN | MO | 29113 | 3.60 |
+| LINN | MO | 29115 | 3.20 |
+| LIVINGSTON | MO | 29117 | 3.20 |
+| MCDONALD | MO | 29119 | 3.20 |
+| MACON | MO | 29121 | 3.20 |
+| MADISON | MO | 29123 | 3.60 |
+| MARIES | MO | 29125 | 3.60 |
+| MARION | MO | 29127 | 3.20 |
+| MERCER | MO | 29129 | 2.90 |
+| MILLER | MO | 29131 | 3.40 |
+| MISSISSIPPI | MO | 29133 | 4.00 |
+| MONITEAU | MO | 29135 | 3.40 |
+| MONROE | MO | 29137 | 3.40 |
+| MONTGOMERY | MO | 29139 | 3.40 |
+| MORGAN | MO | 29141 | 3.40 |
+| NEW MADRID | MO | 29143 | 4.00 |
+| NEWTON | MO | 29145 | 3.20 |
+| NODAWAY | MO | 29147 | 2.90 |
+| OREGON | MO | 29149 | 4.00 |
+| OSAGE | MO | 29151 | 3.60 |
+| OZARK | MO | 29153 | 3.60 |
+| PEMISCOT | MO | 29155 | 4.30 |
+| PERRY | MO | 29157 | 3.60 |
+| PETTIS | MO | 29159 | 3.40 |
+| PHELPS | MO | 29161 | 3.60 |
+| PIKE | MO | 29163 | 3.40 |
+| PLATTE | MO | 29165 | 3.20 |
+| POLK | MO | 29167 | 3.20 |
+| PULASKI | MO | 29169 | 3.40 |
+| PUTNAM | MO | 29171 | 2.90 |
+| RALLS | MO | 29173 | 3.40 |
+| RANDOLPH | MO | 29175 | 3.40 |
+| RAY | MO | 29177 | 3.20 |
+| REYNOLDS | MO | 29179 | 3.60 |
+| RIPLEY | MO | 29181 | 4.00 |
+| ST. CHARLES | MO | 29183 | 3.60 |
+| ST. CLAIR | MO | 29185 | 3.20 |
+| STE. GENEVIEVE | MO | 29186 | 3.60 |
+| ST. FRANCOIS | MO | 29187 | 3.60 |
+| ST. LOUIS | MO | 29189 | 3.60 |
+| SALINE | MO | 29195 | 3.40 |
+| SCHUYLER | MO | 29197 | 3.20 |
+| SCOTLAND | MO | 29199 | 3.20 |
+| SCOTT | MO | 29201 | 4.00 |
+| SHANNON | MO | 29203 | 3.60 |
+| SHELBY | MO | 29205 | 3.20 |
+| STODDARD | MO | 29207 | 4.00 |
+| STONE | MO | 29209 | 3.30 |
+| SULLIVAN | MO | 29211 | 3.20 |
+| TANEY | MO | 29213 | 3.30 |
+| TEXAS | MO | 29215 | 3.60 |
+| VERNON | MO | 29217 | 3.20 |
+| WARREN | MO | 29219 | 3.60 |
+| WASHINGTON | MO | 29221 | 3.60 |
+| WAYNE | MO | 29223 | 4.00 |
+| WEBSTER | MO | 29225 | 3.20 |
+| WORTH | MO | 29227 | 2.90 |
+| WRIGHT | MO | 29229 | 3.30 |
+| ST. LOUIS CITY | MO | 29510 | 3.60 |
+| BEAVERHEAD | MT | 30001 | 1.80 |
+| BIG HORN | MT | 30003 | 2.40 |
+| BLAINE | MT | 30005 | 2.00 |
+| BROADWATER | MT | 30007 | 1.80 |
+| CARBON | MT | 30009 | 2.40 |
+| CARTER | MT | 30011 | 2.40 |
+| CASCADE | MT | 30013 | 1.80 |
+| CHOUTEAU | MT | 30015 | 1.80 |
+| CUSTER | MT | 30017 | 2.40 |
+| DANIELS | MT | 30019 | 2.30 |
+| DAWSON | MT | 30021 | 2.40 |
+| DEER LODGE | MT | 30023 | 1.80 |
+| FALLON | MT | 30025 | 2.40 |
+| FERGUS | MT | 30027 | 2.00 |
+| FLATHEAD | MT | 30029 | 2.00 |
+| GALLATIN | MT | 30031 | 2.00 |
+| GARFIELD | MT | 30033 | 2.40 |
+| GLACIER | MT | 30035 | 1.80 |
+| GOLDEN VALLEY | MT | 30037 | 2.00 |
+| GRANITE | MT | 30039 | 1.80 |
+| HILL | MT | 30041 | 1.80 |
+| JEFFERSON | MT | 30043 | 1.80 |
+| JUDITH BASIN | MT | 30045 | 2.00 |
+| LAKE | MT | 30047 | 2.00 |
+| LEWIS AND CLARK | MT | 30049 | 1.70 |
+| LIBERTY | MT | 30051 | 1.80 |
+| LINCOLN | MT | 30053 | 2.00 |
+| MCCONE | MT | 30055 | 2.40 |
+| MADISON | MT | 30057 | 1.80 |
+| MEAGHER | MT | 30059 | 1.80 |
+| MINERAL | MT | 30061 | 2.00 |
+| MISSOULA | MT | 30063 | 1.80 |
+| MUSSELSHELL | MT | 30065 | 2.40 |
+| PARK | MT | 30067 | 2.00 |
+| PETROLEUM | MT | 30069 | 2.40 |
+| PHILLIPS | MT | 30071 | 2.30 |
+| PONDERA | MT | 30073 | 1.70 |
+| POWDER RIVER | MT | 30075 | 2.40 |
+| POWELL | MT | 30077 | 1.80 |
+| PRAIRIE | MT | 30079 | 2.40 |
+| RAVALLI | MT | 30081 | 1.80 |
+| RICHLAND | MT | 30083 | 2.40 |
+| ROOSEVELT | MT | 30085 | 2.30 |
+| ROSEBUD | MT | 30087 | 2.40 |
+| SANDERS | MT | 30089 | 2.00 |
+| SHERIDAN | MT | 30091 | 2.30 |
+| SILVER BOW | MT | 30093 | 1.80 |
+| STILLWATER | MT | 30095 | 2.40 |
+| SWEET GRASS | MT | 30097 | 2.00 |
+| TETON | MT | 30099 | 1.70 |
+| TOOLE | MT | 30101 | 1.80 |
+| TREASURE | MT | 30103 | 2.40 |
+| VALLEY | MT | 30105 | 2.30 |
+| WHEATLAND | MT | 30107 | 2.00 |
+| WIBAUX | MT | 30109 | 2.40 |
+| YELLOWSTONE | MT | 30111 | 2.40 |
+| ADAMS | NE | 31001 | 2.60 |
+| ANTELOPE | NE | 31003 | 2.60 |
+| ARTHUR | NE | 31005 | 2.40 |
+| BANNER | NE | 31007 | 2.40 |
+| BLAINE | NE | 31009 | 2.50 |
+| BOONE | NE | 31011 | 2.60 |
+| BOX BUTTE | NE | 31013 | 2.40 |
+| BOYD | NE | 31015 | 2.50 |
+| BROWN | NE | 31017 | 2.50 |
+| BUFFALO | NE | 31019 | 2.50 |
+| BURT | NE | 31021 | 2.60 |
+| BUTLER | NE | 31023 | 2.60 |
+| CASS | NE | 31025 | 2.70 |
+| CEDAR | NE | 31027 | 2.60 |
+| CHASE | NE | 31029 | 2.50 |
+| CHERRY | NE | 31031 | 2.40 |
+| CHEYENNE | NE | 31033 | 2.40 |
+| CLAY | NE | 31035 | 2.60 |
+| COLFAX | NE | 31037 | 2.60 |
+| CUMING | NE | 31039 | 2.60 |
+| CUSTER | NE | 31041 | 2.50 |
+| DAKOTA | NE | 31043 | 2.60 |
+| DAWES | NE | 31045 | 2.40 |
+| DAWSON | NE | 31047 | 2.50 |
+| DEUEL | NE | 31049 | 2.40 |
+| DIXON | NE | 31051 | 2.60 |
+| DODGE | NE | 31053 | 2.60 |
+| DOUGLAS | NE | 31055 | 2.70 |
+| DUNDY | NE | 31057 | 2.50 |
+| FILLMORE | NE | 31059 | 2.60 |
+| FRANKLIN | NE | 31061 | 2.60 |
+| FRONTIER | NE | 31063 | 2.50 |
+| FURNAS | NE | 31065 | 2.50 |
+| GAGE | NE | 31067 | 2.70 |
+| GARDEN | NE | 31069 | 2.40 |
+| GARFIELD | NE | 31071 | 2.50 |
+| GOSPER | NE | 31073 | 2.50 |
+| GRANT | NE | 31075 | 2.40 |
+| GREELEY | NE | 31077 | 2.60 |
+| HALL | NE | 31079 | 2.60 |
+| HAMILTON | NE | 31081 | 2.60 |
+| HARLAN | NE | 31083 | 2.50 |
+| HAYES | NE | 31085 | 2.50 |
+| HITCHCOCK | NE | 31087 | 2.50 |
+| HOLT | NE | 31089 | 2.50 |
+| HOOKER | NE | 31091 | 2.40 |
+| HOWARD | NE | 31093 | 2.60 |
+| JEFFERSON | NE | 31095 | 2.60 |
+| JOHNSON | NE | 31097 | 2.70 |
+| KEARNEY | NE | 31099 | 2.60 |
+| KEITH | NE | 31101 | 2.50 |
+| KEYA PAHA | NE | 31103 | 2.50 |
+| KIMBALL | NE | 31105 | 2.40 |
+| KNOX | NE | 31107 | 2.60 |
+| LANCASTER | NE | 31109 | 2.60 |
+| LINCOLN | NE | 31111 | 2.50 |
+| LOGAN | NE | 31113 | 2.40 |
+| LOUP | NE | 31115 | 2.50 |
+| MCPHERSON | NE | 31117 | 2.40 |
+| MADISON | NE | 31119 | 2.60 |
+| MERRICK | NE | 31121 | 2.60 |
+| MORRILL | NE | 31123 | 2.40 |
+| NANCE | NE | 31125 | 2.60 |
+| NEMAHA | NE | 31127 | 2.70 |
+| NUCKOLLS | NE | 31129 | 2.60 |
+| OTOE | NE | 31131 | 2.70 |
+| PAWNEE | NE | 31133 | 2.70 |
+| PERKINS | NE | 31135 | 2.50 |
+| PHELPS | NE | 31137 | 2.50 |
+| PIERCE | NE | 31139 | 2.60 |
+| PLATTE | NE | 31141 | 2.60 |
+| POLK | NE | 31143 | 2.60 |
+| RED WILLOW | NE | 31145 | 2.50 |
+| RICHARDSON | NE | 31147 | 2.70 |
+| ROCK | NE | 31149 | 2.50 |
+| SALINE | NE | 31151 | 2.60 |
+| SARPY | NE | 31153 | 2.70 |
+| SAUNDERS | NE | 31155 | 2.60 |
+| SCOTTS BLUFF | NE | 31157 | 2.40 |
+| SEWARD | NE | 31159 | 2.60 |
+| SHERIDAN | NE | 31161 | 2.40 |
+| SHERMAN | NE | 31163 | 2.50 |
+| SIOUX | NE | 31165 | 2.40 |
+| STANTON | NE | 31167 | 2.60 |
+| THAYER | NE | 31169 | 2.60 |
+| THOMAS | NE | 31171 | 2.40 |
+| THURSTON | NE | 31173 | 2.60 |
+| VALLEY | NE | 31175 | 2.50 |
+| WASHINGTON | NE | 31177 | 2.60 |
+| WAYNE | NE | 31179 | 2.60 |
+| WEBSTER | NE | 31181 | 2.60 |
+| WHEELER | NE | 31183 | 2.50 |
+| YORK | NE | 31185 | 2.60 |
+| CHURCHILL | NV | 32001 | 1.90 |
+| CLARK | NV | 32003 | 2.60 |
+| DOUGLAS | NV | 32005 | 1.80 |
+| ELKO | NV | 32007 | 2.00 |
+| ESMERALDA | NV | 32009 | 2.20 |
+| EUREKA | NV | 32011 | 2.20 |
+| HUMBOLDT | NV | 32013 | 1.90 |
+| LANDER | NV | 32015 | 2.00 |
+| LINCOLN | NV | 32017 | 2.50 |
+| LYON | NV | 32019 | 1.90 |
+| MINERAL | NV | 32021 | 2.00 |
+| NYE | NV | 32023 | 2.20 |
+| PERSHING | NV | 32027 | 1.90 |
+| STOREY | NV | 32029 | 1.90 |
+| WASHOE | NV | 32031 | 2.00 |
+| WHITE PINE | NV | 32033 | 2.20 |
+| CARSON CITY | NV | 32510 | 1.90 |
+| BELKNAP | NH | 33001 | 4.50 |
+| CARROLL | NH | 33003 | 4.50 |
+| CHESHIRE | NH | 33005 | 4.50 |
+| COOS | NH | 33007 | 4.20 |
+| GRAFTON | NH | 33009 | 4.40 |
+| HILLSBOROUGH | NH | 33011 | 4.50 |
+| MERRIMACK | NH | 33013 | 4.50 |
+| ROCKINGHAM | NH | 33015 | 4.50 |
+| STRAFFORD | NH | 33017 | 4.50 |
+| SULLIVAN | NH | 33019 | 4.50 |
+| ATLANTIC | NJ | 34001 | 4.70 |
+| BERGEN | NJ | 34003 | 5.00 |
+| BURLINGTON | NJ | 34005 | 4.70 |
+| CAMDEN | NJ | 34007 | 4.70 |
+| CAPE MAY | NJ | 34009 | 4.70 |
+| CUMBERLAND | NJ | 34011 | 4.70 |
+| ESSEX | NJ | 34013 | 5.00 |
+| GLOUCESTER | NJ | 34015 | 4.70 |
+| HUDSON | NJ | 34017 | 5.00 |
+| HUNTERDON | NJ | 34019 | 4.70 |
+| MERCER | NJ | 34021 | 4.70 |
+| MIDDLESEX | NJ | 34023 | 4.90 |
+| MONMOUTH | NJ | 34025 | 4.90 |
+| MORRIS | NJ | 34027 | 4.90 |
+| OCEAN | NJ | 34029 | 4.90 |
+| PASSAIC | NJ | 34031 | 5.00 |
+| SALEM | NJ | 34033 | 4.70 |
+| SOMERSET | NJ | 34035 | 4.90 |
+| SUSSEX | NJ | 34037 | 4.70 |
+| UNION | NJ | 34039 | 5.00 |
+| WARREN | NJ | 34041 | 4.70 |
+| BERNALILLO | NM | 35001 | 2.50 |
+| CATRON | NM | 35003 | 2.30 |
+| CHAVES | NM | 35005 | 2.50 |
+| CIBOLA | NM | 35006 | 2.30 |
+| COLFAX | NM | 35007 | 2.50 |
+| CURRY | NM | 35009 | 2.50 |
+| DE BACA | NM | 35011 | 2.50 |
+| DONA ANA | NM | 35013 | 2.50 |
+| EDDY | NM | 35015 | 2.50 |
+| GRANT | NM | 35017 | 2.50 |
+| GUADALUPE | NM | 35019 | 2.50 |
+| HARDING | NM | 35021 | 2.50 |
+| HIDALGO | NM | 35023 | 2.50 |
+| LEA | NM | 35025 | 2.50 |
+| LINCOLN | NM | 35027 | 2.50 |
+| LOS ALAMOS | NM | 35028 | 2.50 |
+| LUNA | NM | 35029 | 2.50 |
+| MCKINLEY | NM | 35031 | 2.30 |
+| MORA | NM | 35033 | 2.50 |
+| OTERO | NM | 35035 | 2.50 |
+| QUAY | NM | 35037 | 2.50 |
+| RIO ARRIBA | NM | 35039 | 2.30 |
+| ROOSEVELT | NM | 35041 | 2.50 |
+| SANDOVAL | NM | 35043 | 2.50 |
+| SAN JUAN | NM | 35045 | 2.30 |
+| SAN MIGUEL | NM | 35047 | 2.50 |
+| SANTA FE | NM | 35049 | 2.50 |
+| SIERRA | NM | 35051 | 2.50 |
+| SOCORRO | NM | 35053 | 2.50 |
+| TAOS | NM | 35055 | 2.50 |
+| TORRANCE | NM | 35057 | 2.50 |
+| UNION | NM | 35059 | 2.50 |
+| VALENCIA | NM | 35061 | 2.50 |
+| ALBANY | NY | 36001 | 4.40 |
+| ALLEGANY | NY | 36003 | 3.90 |
+| BRONX | NY | 36005 | 5.10 |
+| BROOME | NY | 36007 | 4.00 |
+| CATTARAUGUS | NY | 36009 | 3.90 |
+| CAYUGA | NY | 36011 | 3.90 |
+| CHAUTAUQUA | NY | 36013 | 3.90 |
+| CHEMUNG | NY | 36015 | 4.00 |
+| CHENANGO | NY | 36017 | 4.00 |
+| CLINTON | NY | 36019 | 4.20 |
+| COLUMBIA | NY | 36021 | 4.40 |
+| CORTLAND | NY | 36023 | 3.90 |
+| DELAWARE | NY | 36025 | 4.20 |
+| DUTCHESS | NY | 36027 | 4.70 |
+| ERIE | NY | 36029 | 3.90 |
+| ESSEX | NY | 36031 | 4.20 |
+| FRANKLIN | NY | 36033 | 4.10 |
+| FULTON | NY | 36035 | 4.10 |
+| GENESEE | NY | 36037 | 3.90 |
+| GREENE | NY | 36039 | 4.40 |
+| HAMILTON | NY | 36041 | 4.10 |
+| HERKIMER | NY | 36043 | 4.00 |
+| JEFFERSON | NY | 36045 | 3.90 |
+| KINGS | NY | 36047 | 5.10 |
+| LEWIS | NY | 36049 | 3.90 |
+| LIVINGSTON | NY | 36051 | 3.90 |
+| MADISON | NY | 36053 | 3.90 |
+| MONROE | NY | 36055 | 3.90 |
+| MONTGOMERY | NY | 36057 | 4.10 |
+| NASSAU | NY | 36059 | 5.10 |
+| NEW YORK | NY | 36061 | 5.10 |
+| NIAGARA | NY | 36063 | 3.90 |
+| ONEIDA | NY | 36065 | 3.90 |
+| ONONDAGA | NY | 36067 | 3.90 |
+| ONTARIO | NY | 36069 | 3.90 |
+| ORANGE | NY | 36071 | 4.70 |
+| ORLEANS | NY | 36073 | 3.90 |
+| OSWEGO | NY | 36075 | 3.90 |
+| OTSEGO | NY | 36077 | 4.10 |
+| PUTNAM | NY | 36079 | 4.70 |
+| QUEENS | NY | 36081 | 5.10 |
+| RENSSELAER | NY | 36083 | 4.40 |
+| RICHMOND | NY | 36085 | 5.10 |
+| ROCKLAND | NY | 36087 | 5.00 |
+| ST. LAWRENCE | NY | 36089 | 3.90 |
+| SARATOGA | NY | 36091 | 4.20 |
+| SCHENECTADY | NY | 36093 | 4.20 |
+| SCHOHARIE | NY | 36095 | 4.20 |
+| SCHUYLER | NY | 36097 | 3.90 |
+| SENECA | NY | 36099 | 3.90 |
+| STEUBEN | NY | 36101 | 3.90 |
+| SUFFOLK | NY | 36103 | 5.10 |
+| SULLIVAN | NY | 36105 | 4.40 |
+| TIOGA | NY | 36107 | 4.00 |
+| TOMPKINS | NY | 36109 | 3.90 |
+| ULSTER | NY | 36111 | 4.40 |
+| WARREN | NY | 36113 | 4.20 |
+| WASHINGTON | NY | 36115 | 4.20 |
+| WAYNE | NY | 36117 | 3.90 |
+| WESTCHESTER | NY | 36119 | 5.00 |
+| WYOMING | NY | 36121 | 3.90 |
+| YATES | NY | 36123 | 3.90 |
+| ALAMANCE | NC | 37001 | 5.40 |
+| ALEXANDER | NC | 37003 | 5.60 |
+| ALLEGHANY | NC | 37005 | 5.40 |
+| ANSON | NC | 37007 | 5.80 |
+| ASHE | NC | 37009 | 5.40 |
+| AVERY | NC | 37011 | 5.40 |
+| BEAUFORT | NC | 37013 | 5.80 |
+| BERTIE | NC | 37015 | 5.60 |
+| BLADEN | NC | 37017 | 5.80 |
+| BRUNSWICK | NC | 37019 | 6.00 |
+| BUNCOMBE | NC | 37021 | 5.40 |
+| BURKE | NC | 37023 | 5.60 |
+| CABARRUS | NC | 37025 | 5.60 |
+| CALDWELL | NC | 37027 | 5.60 |
+| CAMDEN | NC | 37029 | 5.60 |
+| CARTERET | NC | 37031 | 6.00 |
+| CASWELL | NC | 37033 | 5.40 |
+| CATAWBA | NC | 37035 | 5.60 |
+| CHATHAM | NC | 37037 | 5.60 |
+| CHEROKEE | NC | 37039 | 5.40 |
+| CHOWAN | NC | 37041 | 5.60 |
+| CLAY | NC | 37043 | 5.60 |
+| CLEVELAND | NC | 37045 | 5.60 |
+| COLUMBUS | NC | 37047 | 6.00 |
+| CRAVEN | NC | 37049 | 6.00 |
+| CUMBERLAND | NC | 37051 | 5.80 |
+| CURRITUCK | NC | 37053 | 5.60 |
+| DARE | NC | 37055 | 5.80 |
+| DAVIDSON | NC | 37057 | 5.60 |
+| DAVIE | NC | 37059 | 5.60 |
+| DUPLIN | NC | 37061 | 5.80 |
+| DURHAM | NC | 37063 | 5.40 |
+| EDGECOMBE | NC | 37065 | 5.60 |
+| FORSYTH | NC | 37067 | 5.40 |
+| FRANKLIN | NC | 37069 | 5.60 |
+| GASTON | NC | 37071 | 5.60 |
+| GATES | NC | 37073 | 5.60 |
+| GRAHAM | NC | 37075 | 5.40 |
+| GRANVILLE | NC | 37077 | 5.40 |
+| GREENE | NC | 37079 | 5.80 |
+| GUILFORD | NC | 37081 | 5.40 |
+| HALIFAX | NC | 37083 | 5.60 |
+| HARNETT | NC | 37085 | 5.80 |
+| HAYWOOD | NC | 37087 | 5.40 |
+| HENDERSON | NC | 37089 | 5.60 |
+| HERTFORD | NC | 37091 | 5.60 |
+| HOKE | NC | 37093 | 5.80 |
+| HYDE | NC | 37095 | 5.80 |
+| IREDELL | NC | 37097 | 5.60 |
+| JACKSON | NC | 37099 | 5.60 |
+| JOHNSTON | NC | 37101 | 5.80 |
+| JONES | NC | 37103 | 6.00 |
+| LEE | NC | 37105 | 5.60 |
+| LENOIR | NC | 37107 | 5.80 |
+| LINCOLN | NC | 37109 | 5.60 |
+| MCDOWELL | NC | 37111 | 5.60 |
+| MACON | NC | 37113 | 5.60 |
+| MADISON | NC | 37115 | 5.40 |
+| MARTIN | NC | 37117 | 5.80 |
+| MECKLENBURG | NC | 37119 | 5.60 |
+| MITCHELL | NC | 37121 | 5.40 |
+| MONTGOMERY | NC | 37123 | 5.60 |
+| MOORE | NC | 37125 | 5.60 |
+| NASH | NC | 37127 | 5.60 |
+| NEW HANOVER | NC | 37129 | 6.00 |
+| NORTHAMPTON | NC | 37131 | 5.60 |
+| ONSLOW | NC | 37133 | 6.00 |
+| ORANGE | NC | 37135 | 5.40 |
+| PAMLICO | NC | 37137 | 6.00 |
+| PASQUOTANK | NC | 37139 | 5.60 |
+| PENDER | NC | 37141 | 6.00 |
+| PERQUIMANS | NC | 37143 | 5.60 |
+| PERSON | NC | 37145 | 5.40 |
+| PITT | NC | 37147 | 5.80 |
+| POLK | NC | 37149 | 5.60 |
+| RANDOLPH | NC | 37151 | 5.60 |
+| RICHMOND | NC | 37153 | 5.80 |
+| ROBESON | NC | 37155 | 5.80 |
+| ROCKINGHAM | NC | 37157 | 5.40 |
+| ROWAN | NC | 37159 | 5.60 |
+| RUTHERFORD | NC | 37161 | 5.60 |
+| SAMPSON | NC | 37163 | 5.80 |
+| SCOTLAND | NC | 37165 | 5.80 |
+| STANLY | NC | 37167 | 5.60 |
+| STOKES | NC | 37169 | 5.40 |
+| SURRY | NC | 37171 | 5.40 |
+| SWAIN | NC | 37173 | 5.40 |
+| TRANSYLVANIA | NC | 37175 | 5.60 |
+| TYRRELL | NC | 37177 | 5.80 |
+| UNION | NC | 37179 | 5.80 |
+| VANCE | NC | 37181 | 5.40 |
+| WAKE | NC | 37183 | 5.60 |
+| WARREN | NC | 37185 | 5.40 |
+| WASHINGTON | NC | 37187 | 5.80 |
+| WATAUGA | NC | 37189 | 5.40 |
+| WAYNE | NC | 37191 | 5.80 |
+| WILKES | NC | 37193 | 5.40 |
+| WILSON | NC | 37195 | 5.80 |
+| YADKIN | NC | 37197 | 5.40 |
+| YANCEY | NC | 37199 | 5.40 |
+| ADAMS | ND | 38001 | 2.40 |
+| BARNES | ND | 38003 | 2.60 |
+| BENSON | ND | 38005 | 2.30 |
+| BILLINGS | ND | 38007 | 2.40 |
+| BOTTINEAU | ND | 38009 | 2.30 |
+| BOWMAN | ND | 38011 | 2.40 |
+| BURKE | ND | 38013 | 2.30 |
+| BURLEIGH | ND | 38015 | 2.40 |
+| CASS | ND | 38017 | 2.80 |
+| CAVALIER | ND | 38019 | 2.30 |
+| DICKEY | ND | 38021 | 2.60 |
+| DIVIDE | ND | 38023 | 2.30 |
+| DUNN | ND | 38025 | 2.40 |
+| EDDY | ND | 38027 | 2.40 |
+| EMMONS | ND | 38029 | 2.40 |
+| FOSTER | ND | 38031 | 2.40 |
+| GOLDEN VALLEY | ND | 38033 | 2.40 |
+| GRAND FORKS | ND | 38035 | 2.30 |
+| GRANT | ND | 38037 | 2.40 |
+| GRIGGS | ND | 38039 | 2.60 |
+| HETTINGER | ND | 38041 | 2.40 |
+| KIDDER | ND | 38043 | 2.40 |
+| LA MOURE | ND | 38045 | 2.60 |
+| LOGAN | ND | 38047 | 2.40 |
+| MCHENRY | ND | 38049 | 2.30 |
+| MCINTOSH | ND | 38051 | 2.40 |
+| MCKENZIE | ND | 38053 | 2.40 |
+| MCLEAN | ND | 38055 | 2.40 |
+| MERCER | ND | 38057 | 2.40 |
+| MORTON | ND | 38059 | 2.40 |
+| MOUNTRAIL | ND | 38061 | 2.30 |
+| NELSON | ND | 38063 | 2.30 |
+| OLIVER | ND | 38065 | 2.40 |
+| PEMBINA | ND | 38067 | 2.30 |
+| PIERCE | ND | 38069 | 2.30 |
+| RAMSEY | ND | 38071 | 2.30 |
+| RANSOM | ND | 38073 | 2.60 |
+| RENVILLE | ND | 38075 | 2.30 |
+| RICHLAND | ND | 38077 | 2.60 |
+| ROLETTE | ND | 38079 | 2.30 |
+| SARGENT | ND | 38081 | 2.60 |
+| SHERIDAN | ND | 38083 | 2.40 |
+| SIOUX | ND | 38085 | 2.40 |
+| SLOPE | ND | 38087 | 2.40 |
+| STARK | ND | 38089 | 2.40 |
+| STEELE | ND | 38091 | 2.60 |
+| STUTSMAN | ND | 38093 | 2.40 |
+| TOWNER | ND | 38095 | 2.30 |
+| TRAILL | ND | 38097 | 2.60 |
+| WALSH | ND | 38099 | 2.30 |
+| WARD | ND | 38101 | 2.30 |
+| WELLS | ND | 38103 | 2.40 |
+| WILLIAMS | ND | 38105 | 2.30 |
+| ADAMS | OH | 39001 | 4.00 |
+| ALLEN | OH | 39003 | 3.30 |
+| ASHLAND | OH | 39005 | 3.80 |
+| ASHTABULA | OH | 39007 | 3.80 |
+| ATHENS | OH | 39009 | 4.00 |
+| AUGLAIZE | OH | 39011 | 3.60 |
+| BELMONT | OH | 39013 | 3.80 |
+| BROWN | OH | 39015 | 4.00 |
+| BUTLER | OH | 39017 | 3.80 |
+| CARROLL | OH | 39019 | 3.80 |
+| CHAMPAIGN | OH | 39021 | 3.60 |
+| CLARK | OH | 39023 | 3.60 |
+| CLERMONT | OH | 39025 | 4.00 |
+| CLINTON | OH | 39027 | 3.80 |
+| COLUMBIANA | OH | 39029 | 4.00 |
+| COSHOCTON | OH | 39031 | 3.80 |
+| CRAWFORD | OH | 39033 | 3.60 |
+| CUYAHOGA | OH | 39035 | 3.80 |
+| DARKE | OH | 39037 | 3.60 |
+| DEFIANCE | OH | 39039 | 3.30 |
+| DELAWARE | OH | 39041 | 3.60 |
+| ERIE | OH | 39043 | 3.60 |
+| FAIRFIELD | OH | 39045 | 3.80 |
+| FAYETTE | OH | 39047 | 3.80 |
+| FRANKLIN | OH | 39049 | 3.60 |
+| FULTON | OH | 39051 | 3.30 |
+| GALLIA | OH | 39053 | 4.30 |
+| GEAUGA | OH | 39055 | 3.80 |
+| GREENE | OH | 39057 | 3.60 |
+| GUERNSEY | OH | 39059 | 3.80 |
+| HAMILTON | OH | 39061 | 3.80 |
+| HANCOCK | OH | 39063 | 3.60 |
+| HARDIN | OH | 39065 | 3.60 |
+| HARRISON | OH | 39067 | 3.80 |
+| HENRY | OH | 39069 | 3.30 |
+| HIGHLAND | OH | 39071 | 4.00 |
+| HOCKING | OH | 39073 | 4.00 |
+| HOLMES | OH | 39075 | 3.80 |
+| HURON | OH | 39077 | 3.60 |
+| JACKSON | OH | 39079 | 4.00 |
+| JEFFERSON | OH | 39081 | 3.80 |
+| KNOX | OH | 39083 | 3.80 |
+| LAKE | OH | 39085 | 3.80 |
+| LAWRENCE | OH | 39087 | 4.30 |
+| LICKING | OH | 39089 | 3.80 |
+| LOGAN | OH | 39091 | 3.60 |
+| LORAIN | OH | 39093 | 3.80 |
+| LUCAS | OH | 39095 | 3.30 |
+| MADISON | OH | 39097 | 3.60 |
+| MAHONING | OH | 39099 | 4.00 |
+| MARION | OH | 39101 | 3.60 |
+| MEDINA | OH | 39103 | 3.80 |
+| MEIGS | OH | 39105 | 4.30 |
+| MERCER | OH | 39107 | 3.30 |
+| MIAMI | OH | 39109 | 3.60 |
+| MONROE | OH | 39111 | 4.00 |
+| MONTGOMERY | OH | 39113 | 3.60 |
+| MORGAN | OH | 39115 | 3.80 |
+| MORROW | OH | 39117 | 3.60 |
+| MUSKINGUM | OH | 39119 | 3.80 |
+| NOBLE | OH | 39121 | 3.80 |
+| OTTAWA | OH | 39123 | 3.60 |
+| PAULDING | OH | 39125 | 3.30 |
+| PERRY | OH | 39127 | 3.80 |
+| PICKAWAY | OH | 39129 | 3.80 |
+| PIKE | OH | 39131 | 4.00 |
+| PORTAGE | OH | 39133 | 3.80 |
+| PREBLE | OH | 39135 | 3.60 |
+| PUTNAM | OH | 39137 | 3.30 |
+| RICHLAND | OH | 39139 | 3.60 |
+| ROSS | OH | 39141 | 4.00 |
+| SANDUSKY | OH | 39143 | 3.60 |
+| SCIOTO | OH | 39145 | 4.00 |
+| SENECA | OH | 39147 | 3.60 |
+| SHELBY | OH | 39149 | 3.60 |
+| STARK | OH | 39151 | 3.80 |
+| SUMMIT | OH | 39153 | 3.80 |
+| TRUMBULL | OH | 39155 | 4.00 |
+| TUSCARAWAS | OH | 39157 | 3.80 |
+| UNION | OH | 39159 | 3.60 |
+| VAN WERT | OH | 39161 | 3.30 |
+| VINTON | OH | 39163 | 4.00 |
+| WARREN | OH | 39165 | 3.80 |
+| WASHINGTON | OH | 39167 | 4.00 |
+| WAYNE | OH | 39169 | 3.80 |
+| WILLIAMS | OH | 39171 | 3.30 |
+| WOOD | OH | 39173 | 3.60 |
+| WYANDOT | OH | 39175 | 3.60 |
+| ADAIR | OK | 40001 | 3.30 |
+| ALFALFA | OK | 40003 | 2.60 |
+| ATOKA | OK | 40005 | 3.60 |
+| BEAVER | OK | 40007 | 2.50 |
+| BECKHAM | OK | 40009 | 2.60 |
+| BLAINE | OK | 40011 | 2.90 |
+| BRYAN | OK | 40013 | 3.60 |
+| CADDO | OK | 40015 | 2.90 |
+| CANADIAN | OK | 40017 | 2.90 |
+| CARTER | OK | 40019 | 3.30 |
+| CHEROKEE | OK | 40021 | 3.30 |
+| CHOCTAW | OK | 40023 | 3.60 |
+| CIMARRON | OK | 40025 | 2.50 |
+| CLEVELAND | OK | 40027 | 3.30 |
+| COAL | OK | 40029 | 3.60 |
+| COMANCHE | OK | 40031 | 2.90 |
+| COTTON | OK | 40033 | 3.30 |
+| CRAIG | OK | 40035 | 3.20 |
+| CREEK | OK | 40037 | 3.30 |
+| CUSTER | OK | 40039 | 2.60 |
+| DELAWARE | OK | 40041 | 3.20 |
+| DEWEY | OK | 40043 | 2.60 |
+| ELLIS | OK | 40045 | 2.60 |
+| GARFIELD | OK | 40047 | 2.90 |
+| GARVIN | OK | 40049 | 3.30 |
+| GRADY | OK | 40051 | 3.30 |
+| GRANT | OK | 40053 | 2.90 |
+| GREER | OK | 40055 | 2.60 |
+| HARMON | OK | 40057 | 2.60 |
+| HARPER | OK | 40059 | 2.60 |
+| HASKELL | OK | 40061 | 3.60 |
+| HUGHES | OK | 40063 | 3.30 |
+| JACKSON | OK | 40065 | 2.90 |
+| JEFFERSON | OK | 40067 | 3.30 |
+| JOHNSTON | OK | 40069 | 3.60 |
+| KAY | OK | 40071 | 2.90 |
+| KINGFISHER | OK | 40073 | 2.90 |
+| KIOWA | OK | 40075 | 2.90 |
+| LATIMER | OK | 40077 | 3.60 |
+| LE FLORE | OK | 40079 | 3.60 |
+| LINCOLN | OK | 40081 | 3.30 |
+| LOGAN | OK | 40083 | 3.30 |
+| LOVE | OK | 40085 | 3.30 |
+| MCCLAIN | OK | 40087 | 3.30 |
+| MCCURTAIN | OK | 40089 | 3.60 |
+| MCINTOSH | OK | 40091 | 3.30 |
+| MAJOR | OK | 40093 | 2.60 |
+| MARSHALL | OK | 40095 | 3.60 |
+| MAYES | OK | 40097 | 3.20 |
+| MURRAY | OK | 40099 | 3.30 |
+| MUSKOGEE | OK | 40101 | 3.30 |
+| NOBLE | OK | 40103 | 3.20 |
+| NOWATA | OK | 40105 | 3.20 |
+| OKFUSKEE | OK | 40107 | 3.30 |
+| OKLAHOMA | OK | 40109 | 3.30 |
+| OKMULGEE | OK | 40111 | 3.30 |
+| OSAGE | OK | 40113 | 3.20 |
+| OTTAWA | OK | 40115 | 3.20 |
+| PAWNEE | OK | 40117 | 3.20 |
+| PAYNE | OK | 40119 | 3.30 |
+| PITTSBURG | OK | 40121 | 3.60 |
+| PONTOTOC | OK | 40123 | 3.30 |
+| POTTAWATOMIE | OK | 40125 | 3.30 |
+| PUSHMATAHA | OK | 40127 | 3.60 |
+| ROGER MILLS | OK | 40129 | 2.60 |
+| ROGERS | OK | 40131 | 3.20 |
+| SEMINOLE | OK | 40133 | 3.30 |
+| SEQUOYAH | OK | 40135 | 3.30 |
+| STEPHENS | OK | 40137 | 3.30 |
+| TEXAS | OK | 40139 | 2.50 |
+| TILLMAN | OK | 40141 | 2.90 |
+| TULSA | OK | 40143 | 3.30 |
+| WAGONER | OK | 40145 | 3.30 |
+| WASHINGTON | OK | 40147 | 3.20 |
+| WASHITA | OK | 40149 | 2.60 |
+| WOODS | OK | 40151 | 2.60 |
+| WOODWARD | OK | 40153 | 2.60 |
+| BAKER | OR | 41001 | 2.20 |
+| BENTON | OR | 41003 | 2.20 |
+| CLACKAMAS | OR | 41005 | 2.70 |
+| CLATSOP | OR | 41007 | 2.20 |
+| COLUMBIA | OR | 41009 | 2.20 |
+| COOS | OR | 41011 | 2.20 |
+| CROOK | OR | 41013 | 2.20 |
+| CURRY | OR | 41015 | 2.20 |
+| DESCHUTES | OR | 41017 | 2.20 |
+| DOUGLAS | OR | 41019 | 2.20 |
+| GILLIAM | OR | 41021 | 2.20 |
+| GRANT | OR | 41023 | 2.20 |
+| HARNEY | OR | 41025 | 2.20 |
+| HOOD RIVER | OR | 41027 | 2.20 |
+| JACKSON | OR | 41029 | 2.20 |
+| JEFFERSON | OR | 41031 | 2.20 |
+| JOSEPHINE | OR | 41033 | 2.20 |
+| KLAMATH | OR | 41035 | 2.20 |
+| LAKE | OR | 41037 | 2.20 |
+| LANE | OR | 41039 | 2.20 |
+| LINCOLN | OR | 41041 | 2.20 |
+| LINN | OR | 41043 | 2.20 |
+| MALHEUR | OR | 41045 | 1.80 |
+| MARION | OR | 41047 | 2.20 |
+| MORROW | OR | 41049 | 2.20 |
+| MULTNOMAH | OR | 41051 | 2.70 |
+| POLK | OR | 41053 | 2.20 |
+| SHERMAN | OR | 41055 | 2.20 |
+| TILLAMOOK | OR | 41057 | 2.20 |
+| UMATILLA | OR | 41059 | 2.20 |
+| UNION | OR | 41061 | 2.20 |
+| WALLOWA | OR | 41063 | 2.20 |
+| WASCO | OR | 41065 | 2.20 |
+| WASHINGTON | OR | 41067 | 2.20 |
+| WHEELER | OR | 41069 | 2.20 |
+| YAMHILL | OR | 41071 | 2.20 |
+| ADAMS | PA | 42001 | 4.30 |
+| ALLEGHENY | PA | 42003 | 4.00 |
+| ARMSTRONG | PA | 42005 | 4.00 |
+| BEAVER | PA | 42007 | 4.00 |
+| BEDFORD | PA | 42009 | 4.10 |
+| BERKS | PA | 42011 | 4.30 |
+| BLAIR | PA | 42013 | 4.00 |
+| BRADFORD | PA | 42015 | 4.00 |
+| BUCKS | PA | 42017 | 4.50 |
+| BUTLER | PA | 42019 | 4.00 |
+| CAMBRIA | PA | 42021 | 4.00 |
+| CAMERON | PA | 42023 | 4.00 |
+| CARBON | PA | 42025 | 4.30 |
+| CENTRE | PA | 42027 | 4.00 |
+| CHESTER | PA | 42029 | 4.30 |
+| CLARION | PA | 42031 | 4.00 |
+| CLEARFIELD | PA | 42033 | 4.00 |
+| CLINTON | PA | 42035 | 4.00 |
+| COLUMBIA | PA | 42037 | 4.10 |
+| CRAWFORD | PA | 42039 | 4.00 |
+| CUMBERLAND | PA | 42041 | 4.20 |
+| DAUPHIN | PA | 42043 | 4.20 |
+| DELAWARE | PA | 42045 | 4.40 |
+| ELK | PA | 42047 | 4.00 |
+| ERIE | PA | 42049 | 3.90 |
+| FAYETTE | PA | 42051 | 4.00 |
+| FOREST | PA | 42053 | 4.00 |
+| FRANKLIN | PA | 42055 | 4.20 |
+| FULTON | PA | 42057 | 4.10 |
+| GREENE | PA | 42059 | 4.00 |
+| HUNTINGDON | PA | 42061 | 4.10 |
+| INDIANA | PA | 42063 | 4.00 |
+| JEFFERSON | PA | 42065 | 4.00 |
+| JUNIATA | PA | 42067 | 4.10 |
+| LACKAWANNA | PA | 42069 | 4.30 |
+| LANCASTER | PA | 42071 | 4.30 |
+| LAWRENCE | PA | 42073 | 4.00 |
+| LEBANON | PA | 42075 | 4.20 |
+| LEHIGH | PA | 42077 | 4.30 |
+| LUZERNE | PA | 42079 | 4.20 |
+| LYCOMING | PA | 42081 | 4.10 |
+| MCKEAN | PA | 42083 | 3.90 |
+| MERCER | PA | 42085 | 4.00 |
+| MIFFLIN | PA | 42087 | 4.10 |
+| MONROE | PA | 42089 | 4.40 |
+| MONTGOMERY | PA | 42091 | 4.40 |
+| MONTOUR | PA | 42093 | 4.10 |
+| NORTHAMPTON | PA | 42095 | 4.40 |
+| NORTHUMBERLAND | PA | 42097 | 4.10 |
+| PERRY | PA | 42099 | 4.20 |
+| PHILADELPHIA | PA | 42101 | 4.60 |
+| PIKE | PA | 42103 | 4.40 |
+| POTTER | PA | 42105 | 3.90 |
+| SCHUYLKILL | PA | 42107 | 4.20 |
+| SNYDER | PA | 42109 | 4.10 |
+| SOMERSET | PA | 42111 | 4.10 |
+| SULLIVAN | PA | 42113 | 4.10 |
+| SUSQUEHANNA | PA | 42115 | 4.20 |
+| TIOGA | PA | 42117 | 4.00 |
+| UNION | PA | 42119 | 4.10 |
+| VENANGO | PA | 42121 | 4.00 |
+| WARREN | PA | 42123 | 3.90 |
+| WASHINGTON | PA | 42125 | 4.00 |
+| WAYNE | PA | 42127 | 4.30 |
+| WESTMORELAND | PA | 42129 | 4.00 |
+| WYOMING | PA | 42131 | 4.20 |
+| YORK | PA | 42133 | 4.30 |
+| BRISTOL | RI | 44001 | 5.10 |
+| KENT | RI | 44003 | 5.10 |
+| NEWPORT | RI | 44005 | 5.10 |
+| PROVIDENCE | RI | 44007 | 5.10 |
+| WASHINGTON | RI | 44009 | 5.10 |
+| ABBEVILLE | SC | 45001 | 5.80 |
+| AIKEN | SC | 45003 | 6.00 |
+| ALLENDALE | SC | 45005 | 6.00 |
+| ANDERSON | SC | 45007 | 5.60 |
+| BAMBERG | SC | 45009 | 6.00 |
+| BARNWELL | SC | 45011 | 6.00 |
+| BEAUFORT | SC | 45013 | 6.00 |
+| BERKELEY | SC | 45015 | 6.00 |
+| CALHOUN | SC | 45017 | 6.00 |
+| CHARLESTON | SC | 45019 | 6.00 |
+| CHEROKEE | SC | 45021 | 5.60 |
+| CHESTER | SC | 45023 | 5.80 |
+| CHESTERFIELD | SC | 45025 | 5.80 |
+| CLARENDON | SC | 45027 | 6.00 |
+| COLLETON | SC | 45029 | 6.00 |
+| DARLINGTON | SC | 45031 | 6.00 |
+| DILLON | SC | 45033 | 6.00 |
+| DORCHESTER | SC | 45035 | 6.00 |
+| EDGEFIELD | SC | 45037 | 5.80 |
+| FAIRFIELD | SC | 45039 | 5.80 |
+| FLORENCE | SC | 45041 | 6.00 |
+| GEORGETOWN | SC | 45043 | 6.00 |
+| GREENVILLE | SC | 45045 | 5.60 |
+| GREENWOOD | SC | 45047 | 5.80 |
+| HAMPTON | SC | 45049 | 6.00 |
+| HORRY | SC | 45051 | 6.00 |
+| JASPER | SC | 45053 | 6.00 |
+| KERSHAW | SC | 45055 | 6.00 |
+| LANCASTER | SC | 45057 | 5.80 |
+| LAURENS | SC | 45059 | 5.80 |
+| LEE | SC | 45061 | 6.00 |
+| LEXINGTON | SC | 45063 | 6.00 |
+| MCCORMICK | SC | 45065 | 5.80 |
+| MARION | SC | 45067 | 6.00 |
+| MARLBORO | SC | 45069 | 5.80 |
+| NEWBERRY | SC | 45071 | 5.80 |
+| OCONEE | SC | 45073 | 5.60 |
+| ORANGEBURG | SC | 45075 | 6.00 |
+| PICKENS | SC | 45077 | 5.60 |
+| RICHLAND | SC | 45079 | 6.00 |
+| SALUDA | SC | 45081 | 5.80 |
+| SPARTANBURG | SC | 45083 | 5.60 |
+| SUMTER | SC | 45085 | 6.00 |
+| UNION | SC | 45087 | 5.80 |
+| WILLIAMSBURG | SC | 45089 | 6.00 |
+| YORK | SC | 45091 | 5.60 |
+| AURORA | SD | 46003 | 2.60 |
+| BEADLE | SD | 46005 | 2.60 |
+| BENNETT | SD | 46007 | 2.40 |
+| BON HOMME | SD | 46009 | 2.60 |
+| BROOKINGS | SD | 46011 | 2.60 |
+| BROWN | SD | 46013 | 2.60 |
+| BRULE | SD | 46015 | 2.50 |
+| BUFFALO | SD | 46017 | 2.50 |
+| BUTTE | SD | 46019 | 2.40 |
+| CAMPBELL | SD | 46021 | 2.50 |
+| CHARLES MIX | SD | 46023 | 2.50 |
+| CLARK | SD | 46025 | 2.60 |
+| CLAY | SD | 46027 | 2.60 |
+| CODINGTON | SD | 46029 | 2.60 |
+| CORSON | SD | 46031 | 2.40 |
+| CUSTER | SD | 46033 | 2.40 |
+| DAVISON | SD | 46035 | 2.60 |
+| DAY | SD | 46037 | 2.60 |
+| DEUEL | SD | 46039 | 2.60 |
+| DEWEY | SD | 46041 | 2.40 |
+| DOUGLAS | SD | 46043 | 2.60 |
+| EDMUNDS | SD | 46045 | 2.50 |
+| FALL RIVER | SD | 46047 | 2.40 |
+| FAULK | SD | 46049 | 2.50 |
+| GRANT | SD | 46051 | 2.60 |
+| GREGORY | SD | 46053 | 2.50 |
+| HAAKON | SD | 46055 | 2.40 |
+| HAMLIN | SD | 46057 | 2.60 |
+| HAND | SD | 46059 | 2.50 |
+| HANSON | SD | 46061 | 2.60 |
+| HARDING | SD | 46063 | 2.40 |
+| HUGHES | SD | 46065 | 2.50 |
+| HUTCHINSON | SD | 46067 | 2.60 |
+| HYDE | SD | 46069 | 2.50 |
+| JACKSON | SD | 46071 | 2.40 |
+| JERAULD | SD | 46073 | 2.60 |
+| JONES | SD | 46075 | 2.40 |
+| KINGSBURY | SD | 46077 | 2.60 |
+| LAKE | SD | 46079 | 2.60 |
+| LAWRENCE | SD | 46081 | 2.40 |
+| LINCOLN | SD | 46083 | 2.60 |
+| LYMAN | SD | 46085 | 2.50 |
+| MCCOOK | SD | 46087 | 2.60 |
+| MCPHERSON | SD | 46089 | 2.50 |
+| MARSHALL | SD | 46091 | 2.60 |
+| MEADE | SD | 46093 | 2.40 |
+| MELLETTE | SD | 46095 | 2.40 |
+| MINER | SD | 46097 | 2.60 |
+| MINNEHAHA | SD | 46099 | 2.60 |
+| MOODY | SD | 46101 | 2.60 |
+| OGLALA LAKOTA | SD | 46102 | 2.40 |
+| PENNINGTON | SD | 46103 | 2.40 |
+| PERKINS | SD | 46105 | 2.40 |
+| POTTER | SD | 46107 | 2.50 |
+| ROBERTS | SD | 46109 | 2.60 |
+| SANBORN | SD | 46111 | 2.60 |
+| SPINK | SD | 46115 | 2.60 |
+| STANLEY | SD | 46117 | 2.40 |
+| SULLY | SD | 46119 | 2.50 |
+| TODD | SD | 46121 | 2.40 |
+| TRIPP | SD | 46123 | 2.50 |
+| TURNER | SD | 46125 | 2.60 |
+| UNION | SD | 46127 | 2.60 |
+| WALWORTH | SD | 46129 | 2.50 |
+| YANKTON | SD | 46135 | 2.60 |
+| ZIEBACH | SD | 46137 | 2.40 |
+| ANDERSON | TN | 47001 | 4.90 |
+| BEDFORD | TN | 47003 | 4.90 |
+| BENTON | TN | 47005 | 4.60 |
+| BLEDSOE | TN | 47007 | 4.90 |
+| BLOUNT | TN | 47009 | 5.20 |
+| BRADLEY | TN | 47011 | 5.20 |
+| CAMPBELL | TN | 47013 | 4.90 |
+| CANNON | TN | 47015 | 4.90 |
+| CARROLL | TN | 47017 | 4.60 |
+| CARTER | TN | 47019 | 5.20 |
+| CHEATHAM | TN | 47021 | 4.60 |
+| CHESTER | TN | 47023 | 4.60 |
+| CLAIBORNE | TN | 47025 | 4.90 |
+| CLAY | TN | 47027 | 4.60 |
+| COCKE | TN | 47029 | 5.20 |
+| COFFEE | TN | 47031 | 4.90 |
+| CROCKETT | TN | 47033 | 4.30 |
+| CUMBERLAND | TN | 47035 | 4.90 |
+| DAVIDSON | TN | 47037 | 4.60 |
+| DECATUR | TN | 47039 | 4.60 |
+| DE KALB | TN | 47041 | 4.90 |
+| DICKSON | TN | 47043 | 4.60 |
+| DYER | TN | 47045 | 4.30 |
+| FAYETTE | TN | 47047 | 4.60 |
+| FENTRESS | TN | 47049 | 4.60 |
+| FRANKLIN | TN | 47051 | 5.20 |
+| GIBSON | TN | 47053 | 4.30 |
+| GILES | TN | 47055 | 4.90 |
+| GRAINGER | TN | 47057 | 4.90 |
+| GREENE | TN | 47059 | 5.20 |
+| GRUNDY | TN | 47061 | 4.90 |
+| HAMBLEN | TN | 47063 | 5.20 |
+| HAMILTON | TN | 47065 | 5.20 |
+| HANCOCK | TN | 47067 | 4.90 |
+| HARDEMAN | TN | 47069 | 4.60 |
+| HARDIN | TN | 47071 | 4.90 |
+| HAWKINS | TN | 47073 | 5.20 |
+| HAYWOOD | TN | 47075 | 4.60 |
+| HENDERSON | TN | 47077 | 4.60 |
+| HENRY | TN | 47079 | 4.30 |
+| HICKMAN | TN | 47081 | 4.60 |
+| HOUSTON | TN | 47083 | 4.60 |
+| HUMPHREYS | TN | 47085 | 4.60 |
+| JACKSON | TN | 47087 | 4.60 |
+| JEFFERSON | TN | 47089 | 5.20 |
+| JOHNSON | TN | 47091 | 5.20 |
+| KNOX | TN | 47093 | 4.90 |
+| LAKE | TN | 47095 | 4.30 |
+| LAUDERDALE | TN | 47097 | 4.30 |
+| LAWRENCE | TN | 47099 | 4.90 |
+| LEWIS | TN | 47101 | 4.90 |
+| LINCOLN | TN | 47103 | 5.20 |
+| LOUDON | TN | 47105 | 5.20 |
+| MCMINN | TN | 47107 | 5.20 |
+| MCNAIRY | TN | 47109 | 4.90 |
+| MACON | TN | 47111 | 4.60 |
+| MADISON | TN | 47113 | 4.60 |
+| MARION | TN | 47115 | 5.20 |
+| MARSHALL | TN | 47117 | 4.90 |
+| MAURY | TN | 47119 | 4.90 |
+| MEIGS | TN | 47121 | 5.20 |
+| MONROE | TN | 47123 | 5.20 |
+| MONTGOMERY | TN | 47125 | 4.30 |
+| MOORE | TN | 47127 | 4.90 |
+| MORGAN | TN | 47129 | 4.90 |
+| OBION | TN | 47131 | 4.30 |
+| OVERTON | TN | 47133 | 4.60 |
+| PERRY | TN | 47135 | 4.60 |
+| PICKETT | TN | 47137 | 4.60 |
+| POLK | TN | 47139 | 5.40 |
+| PUTNAM | TN | 47141 | 4.60 |
+| RHEA | TN | 47143 | 4.90 |
+| ROANE | TN | 47145 | 4.90 |
+| ROBERTSON | TN | 47147 | 4.60 |
+| RUTHERFORD | TN | 47149 | 4.60 |
+| SCOTT | TN | 47151 | 4.90 |
+| SEQUATCHIE | TN | 47153 | 5.20 |
+| SEVIER | TN | 47155 | 5.20 |
+| SHELBY | TN | 47157 | 4.60 |
+| SMITH | TN | 47159 | 4.60 |
+| STEWART | TN | 47161 | 4.30 |
+| SULLIVAN | TN | 47163 | 5.20 |
+| SUMNER | TN | 47165 | 4.60 |
+| TIPTON | TN | 47167 | 4.60 |
+| TROUSDALE | TN | 47169 | 4.60 |
+| UNICOI | TN | 47171 | 5.40 |
+| UNION | TN | 47173 | 4.90 |
+| VAN BUREN | TN | 47175 | 4.90 |
+| WARREN | TN | 47177 | 4.90 |
+| WASHINGTON | TN | 47179 | 5.20 |
+| WAYNE | TN | 47181 | 4.90 |
+| WEAKLEY | TN | 47183 | 4.30 |
+| WHITE | TN | 47185 | 4.90 |
+| WILLIAMSON | TN | 47187 | 4.60 |
+| WILSON | TN | 47189 | 4.60 |
+| ANDERSON | TX | 48001 | 4.00 |
+| ANDREWS | TX | 48003 | 2.90 |
+| ANGELINA | TX | 48005 | 4.60 |
+| ARANSAS | TX | 48007 | 4.60 |
+| ARCHER | TX | 48009 | 3.30 |
+| ARMSTRONG | TX | 48011 | 2.50 |
+| ATASCOSA | TX | 48013 | 4.30 |
+| AUSTIN | TX | 48015 | 4.30 |
+| BAILEY | TX | 48017 | 2.50 |
+| BANDERA | TX | 48019 | 4.00 |
+| BASTROP | TX | 48021 | 4.30 |
+| BAYLOR | TX | 48023 | 2.90 |
+| BEE | TX | 48025 | 4.60 |
+| BELL | TX | 48027 | 4.00 |
+| BEXAR | TX | 48029 | 4.30 |
+| BLANCO | TX | 48031 | 4.00 |
+| BORDEN | TX | 48033 | 2.90 |
+| BOSQUE | TX | 48035 | 3.60 |
+| BOWIE | TX | 48037 | 4.00 |
+| BRAZORIA | TX | 48039 | 4.80 |
+| BRAZOS | TX | 48041 | 4.30 |
+| BREWSTER | TX | 48043 | 3.30 |
+| BRISCOE | TX | 48045 | 2.50 |
+| BROOKS | TX | 48047 | 4.60 |
+| BROWN | TX | 48049 | 3.60 |
+| BURLESON | TX | 48051 | 4.30 |
+| BURNET | TX | 48053 | 4.00 |
+| CALDWELL | TX | 48055 | 4.30 |
+| CALHOUN | TX | 48057 | 4.60 |
+| CALLAHAN | TX | 48059 | 3.30 |
+| CAMERON | TX | 48061 | 4.60 |
+| CAMP | TX | 48063 | 3.70 |
+| CARSON | TX | 48065 | 2.50 |
+| CASS | TX | 48067 | 4.00 |
+| CASTRO | TX | 48069 | 2.50 |
+| CHAMBERS | TX | 48071 | 4.80 |
+| CHEROKEE | TX | 48073 | 4.00 |
+| CHILDRESS | TX | 48075 | 2.60 |
+| CLAY | TX | 48077 | 3.30 |
+| COCHRAN | TX | 48079 | 2.50 |
+| COKE | TX | 48081 | 3.30 |
+| COLEMAN | TX | 48083 | 3.60 |
+| COLLIN | TX | 48085 | 3.70 |
+| COLLINGSWORTH | TX | 48087 | 2.60 |
+| COLORADO | TX | 48089 | 4.30 |
+| COMAL | TX | 48091 | 4.00 |
+| COMANCHE | TX | 48093 | 3.60 |
+| CONCHO | TX | 48095 | 3.60 |
+| COOKE | TX | 48097 | 3.30 |
+| CORYELL | TX | 48099 | 4.00 |
+| COTTLE | TX | 48101 | 2.60 |
+| CRANE | TX | 48103 | 2.90 |
+| CROCKETT | TX | 48105 | 3.30 |
+| CROSBY | TX | 48107 | 2.60 |
+| CULBERSON | TX | 48109 | 2.90 |
+| DALLAM | TX | 48111 | 2.50 |
+| DALLAS | TX | 48113 | 3.70 |
+| DAWSON | TX | 48115 | 2.90 |
+| DEAF SMITH | TX | 48117 | 2.50 |
+| DELTA | TX | 48119 | 3.70 |
+| DENTON | TX | 48121 | 3.70 |
+| DE WITT | TX | 48123 | 4.30 |
+| DICKENS | TX | 48125 | 2.60 |
+| DIMMIT | TX | 48127 | 4.00 |
+| DONLEY | TX | 48129 | 2.50 |
+| DUVAL | TX | 48131 | 4.60 |
+| EASTLAND | TX | 48133 | 3.60 |
+| ECTOR | TX | 48135 | 2.90 |
+| EDWARDS | TX | 48137 | 3.60 |
+| ELLIS | TX | 48139 | 3.70 |
+| EL PASO | TX | 48141 | 2.70 |
+| ERATH | TX | 48143 | 3.60 |
+| FALLS | TX | 48145 | 4.00 |
+| FANNIN | TX | 48147 | 3.70 |
+| FAYETTE | TX | 48149 | 4.30 |
+| FISHER | TX | 48151 | 2.90 |
+| FLOYD | TX | 48153 | 2.60 |
+| FOARD | TX | 48155 | 2.90 |
+| FORT BEND | TX | 48157 | 4.60 |
+| FRANKLIN | TX | 48159 | 3.70 |
+| FREESTONE | TX | 48161 | 4.00 |
+| FRIO | TX | 48163 | 4.30 |
+| GAINES | TX | 48165 | 2.60 |
+| GALVESTON | TX | 48167 | 4.80 |
+| GARZA | TX | 48169 | 2.90 |
+| GILLESPIE | TX | 48171 | 4.00 |
+| GLASSCOCK | TX | 48173 | 3.30 |
+| GOLIAD | TX | 48175 | 4.60 |
+| GONZALES | TX | 48177 | 4.30 |
+| GRAY | TX | 48179 | 2.50 |
+| GRAYSON | TX | 48181 | 3.70 |
+| GREGG | TX | 48183 | 4.00 |
+| GRIMES | TX | 48185 | 4.60 |
+| GUADALUPE | TX | 48187 | 4.30 |
+| HALE | TX | 48189 | 2.50 |
+| HALL | TX | 48191 | 2.50 |
+| HAMILTON | TX | 48193 | 3.60 |
+| HANSFORD | TX | 48195 | 2.50 |
+| HARDEMAN | TX | 48197 | 2.90 |
+| HARDIN | TX | 48199 | 4.80 |
+| HARRIS | TX | 48201 | 4.80 |
+| HARRISON | TX | 48203 | 4.00 |
+| HARTLEY | TX | 48205 | 2.50 |
+| HASKELL | TX | 48207 | 2.90 |
+| HAYS | TX | 48209 | 4.00 |
+| HEMPHILL | TX | 48211 | 2.60 |
+| HENDERSON | TX | 48213 | 3.70 |
+| HIDALGO | TX | 48215 | 4.60 |
+| HILL | TX | 48217 | 3.70 |
+| HOCKLEY | TX | 48219 | 2.60 |
+| HOOD | TX | 48221 | 3.70 |
+| HOPKINS | TX | 48223 | 3.70 |
+| HOUSTON | TX | 48225 | 4.00 |
+| HOWARD | TX | 48227 | 2.90 |
+| HUDSPETH | TX | 48229 | 2.70 |
+| HUNT | TX | 48231 | 3.70 |
+| HUTCHINSON | TX | 48233 | 2.50 |
+| IRION | TX | 48235 | 3.30 |
+| JACK | TX | 48237 | 3.30 |
+| JACKSON | TX | 48239 | 4.60 |
+| JASPER | TX | 48241 | 4.80 |
+| JEFF DAVIS | TX | 48243 | 2.90 |
+| JEFFERSON | TX | 48245 | 4.80 |
+| JIM HOGG | TX | 48247 | 4.60 |
+| JIM WELLS | TX | 48249 | 4.60 |
+| JOHNSON | TX | 48251 | 3.70 |
+| JONES | TX | 48253 | 3.30 |
+| KARNES | TX | 48255 | 4.30 |
+| KAUFMAN | TX | 48257 | 3.70 |
+| KENDALL | TX | 48259 | 4.00 |
+| KENEDY | TX | 48261 | 4.60 |
+| KENT | TX | 48263 | 2.90 |
+| KERR | TX | 48265 | 4.00 |
+| KIMBLE | TX | 48267 | 3.60 |
+| KING | TX | 48269 | 2.90 |
+| KINNEY | TX | 48271 | 4.00 |
+| KLEBERG | TX | 48273 | 4.60 |
+| KNOX | TX | 48275 | 2.90 |
+| LAMAR | TX | 48277 | 3.70 |
+| LAMB | TX | 48279 | 2.50 |
+| LAMPASAS | TX | 48281 | 4.00 |
+| LA SALLE | TX | 48283 | 4.30 |
+| LAVACA | TX | 48285 | 4.30 |
+| LEE | TX | 48287 | 4.30 |
+| LEON | TX | 48289 | 4.00 |
+| LIBERTY | TX | 48291 | 4.80 |
+| LIMESTONE | TX | 48293 | 4.00 |
+| LIPSCOMB | TX | 48295 | 2.60 |
+| LIVE OAK | TX | 48297 | 4.30 |
+| LLANO | TX | 48299 | 4.00 |
+| LOVING | TX | 48301 | 2.90 |
+| LUBBOCK | TX | 48303 | 2.60 |
+| LYNN | TX | 48305 | 2.90 |
+| MCCULLOCH | TX | 48307 | 3.60 |
+| MCLENNAN | TX | 48309 | 4.00 |
+| MCMULLEN | TX | 48311 | 4.30 |
+| MADISON | TX | 48313 | 4.00 |
+| MARION | TX | 48315 | 4.00 |
+| MARTIN | TX | 48317 | 2.90 |
+| MASON | TX | 48319 | 3.60 |
+| MATAGORDA | TX | 48321 | 4.80 |
+| MAVERICK | TX | 48323 | 4.00 |
+| MEDINA | TX | 48325 | 4.00 |
+| MENARD | TX | 48327 | 3.60 |
+| MIDLAND | TX | 48329 | 2.90 |
+| MILAM | TX | 48331 | 4.00 |
+| MILLS | TX | 48333 | 3.60 |
+| MITCHELL | TX | 48335 | 3.30 |
+| MONTAGUE | TX | 48337 | 3.30 |
+| MONTGOMERY | TX | 48339 | 4.80 |
+| MOORE | TX | 48341 | 2.50 |
+| MORRIS | TX | 48343 | 3.70 |
+| MOTLEY | TX | 48345 | 2.60 |
+| NACOGDOCHES | TX | 48347 | 4.00 |
+| NAVARRO | TX | 48349 | 3.70 |
+| NEWTON | TX | 48351 | 4.80 |
+| NOLAN | TX | 48353 | 3.30 |
+| NUECES | TX | 48355 | 4.60 |
+| OCHILTREE | TX | 48357 | 2.50 |
+| OLDHAM | TX | 48359 | 2.50 |
+| ORANGE | TX | 48361 | 4.80 |
+| PALO PINTO | TX | 48363 | 3.30 |
+| PANOLA | TX | 48365 | 4.00 |
+| PARKER | TX | 48367 | 3.70 |
+| PARMER | TX | 48369 | 2.50 |
+| PECOS | TX | 48371 | 3.30 |
+| POLK | TX | 48373 | 4.60 |
+| POTTER | TX | 48375 | 2.50 |
+| PRESIDIO | TX | 48377 | 2.90 |
+| RAINS | TX | 48379 | 3.70 |
+| RANDALL | TX | 48381 | 2.50 |
+| REAGAN | TX | 48383 | 3.30 |
+| REAL | TX | 48385 | 4.00 |
+| RED RIVER | TX | 48387 | 3.70 |
+| REEVES | TX | 48389 | 2.90 |
+| REFUGIO | TX | 48391 | 4.60 |
+| ROBERTS | TX | 48393 | 2.50 |
+| ROBERTSON | TX | 48395 | 4.00 |
+| ROCKWALL | TX | 48397 | 3.70 |
+| RUNNELS | TX | 48399 | 3.30 |
+| RUSK | TX | 48401 | 4.00 |
+| SABINE | TX | 48403 | 4.60 |
+| SAN AUGUSTINE | TX | 48405 | 4.60 |
+| SAN JACINTO | TX | 48407 | 4.60 |
+| SAN PATRICIO | TX | 48409 | 4.60 |
+| SAN SABA | TX | 48411 | 3.60 |
+| SCHLEICHER | TX | 48413 | 3.60 |
+| SCURRY | TX | 48415 | 2.90 |
+| SHACKELFORD | TX | 48417 | 3.30 |
+| SHELBY | TX | 48419 | 4.60 |
+| SHERMAN | TX | 48421 | 2.50 |
+| SMITH | TX | 48423 | 3.70 |
+| SOMERVELL | TX | 48425 | 3.70 |
+| STARR | TX | 48427 | 4.60 |
+| STEPHENS | TX | 48429 | 3.30 |
+| STERLING | TX | 48431 | 3.30 |
+| STONEWALL | TX | 48433 | 2.90 |
+| SUTTON | TX | 48435 | 3.60 |
+| SWISHER | TX | 48437 | 2.50 |
+| TARRANT | TX | 48439 | 3.70 |
+| TAYLOR | TX | 48441 | 3.30 |
+| TERRELL | TX | 48443 | 3.30 |
+| TERRY | TX | 48445 | 2.60 |
+| THROCKMORTON | TX | 48447 | 3.30 |
+| TITUS | TX | 48449 | 3.70 |
+| TOM GREEN | TX | 48451 | 3.30 |
+| TRAVIS | TX | 48453 | 4.00 |
+| TRINITY | TX | 48455 | 4.60 |
+| TYLER | TX | 48457 | 4.80 |
+| UPSHUR | TX | 48459 | 3.70 |
+| UPTON | TX | 48461 | 3.30 |
+| UVALDE | TX | 48463 | 4.00 |
+| VAL VERDE | TX | 48465 | 3.60 |
+| VAN ZANDT | TX | 48467 | 3.70 |
+| VICTORIA | TX | 48469 | 4.60 |
+| WALKER | TX | 48471 | 4.60 |
+| WALLER | TX | 48473 | 4.60 |
+| WARD | TX | 48475 | 2.90 |
+| WASHINGTON | TX | 48477 | 4.30 |
+| WEBB | TX | 48479 | 4.30 |
+| WHARTON | TX | 48481 | 4.60 |
+| WHEELER | TX | 48483 | 2.60 |
+| WICHITA | TX | 48485 | 2.90 |
+| WILBARGER | TX | 48487 | 2.90 |
+| WILLACY | TX | 48489 | 4.60 |
+| WILLIAMSON | TX | 48491 | 4.00 |
+| WILSON | TX | 48493 | 4.30 |
+| WINKLER | TX | 48495 | 2.90 |
+| WISE | TX | 48497 | 3.30 |
+| WOOD | TX | 48499 | 3.70 |
+| YOAKUM | TX | 48501 | 2.60 |
+| YOUNG | TX | 48503 | 3.30 |
+| ZAPATA | TX | 48505 | 4.30 |
+| ZAVALA | TX | 48507 | 4.00 |
+| BEAVER | UT | 49001 | 2.40 |
+| BOX ELDER | UT | 49003 | 2.00 |
+| CACHE | UT | 49005 | 2.20 |
+| CARBON | UT | 49007 | 2.20 |
+| DAGGETT | UT | 49009 | 2.30 |
+| DAVIS | UT | 49011 | 2.20 |
+| DUCHESNE | UT | 49013 | 2.20 |
+| EMERY | UT | 49015 | 2.30 |
+| GARFIELD | UT | 49017 | 2.30 |
+| GRAND | UT | 49019 | 2.30 |
+| IRON | UT | 49021 | 2.40 |
+| JUAB | UT | 49023 | 2.20 |
+| KANE | UT | 49025 | 2.40 |
+| MILLARD | UT | 49027 | 2.30 |
+| MORGAN | UT | 49029 | 2.20 |
+| PIUTE | UT | 49031 | 2.30 |
+| RICH | UT | 49033 | 2.20 |
+| SALT LAKE | UT | 49035 | 2.20 |
+| SAN JUAN | UT | 49037 | 2.30 |
+| SANPETE | UT | 49039 | 2.20 |
+| SEVIER | UT | 49041 | 2.30 |
+| SUMMIT | UT | 49043 | 2.20 |
+| TOOELE | UT | 49045 | 2.20 |
+| UINTAH | UT | 49047 | 2.30 |
+| UTAH | UT | 49049 | 2.20 |
+| WASATCH | UT | 49051 | 2.20 |
+| WASHINGTON | UT | 49053 | 2.50 |
+| WAYNE | UT | 49055 | 2.30 |
+| WEBER | UT | 49057 | 2.20 |
+| ADDISON | VT | 50001 | 4.30 |
+| BENNINGTON | VT | 50003 | 4.50 |
+| CALEDONIA | VT | 50005 | 4.30 |
+| CHITTENDEN | VT | 50007 | 4.30 |
+| ESSEX | VT | 50009 | 4.20 |
+| FRANKLIN | VT | 50011 | 4.20 |
+| GRAND ISLE | VT | 50013 | 4.20 |
+| LAMOILLE | VT | 50015 | 4.30 |
+| ORANGE | VT | 50017 | 4.30 |
+| ORLEANS | VT | 50019 | 4.20 |
+| RUTLAND | VT | 50021 | 4.30 |
+| WASHINGTON | VT | 50023 | 4.30 |
+| WINDHAM | VT | 50025 | 4.50 |
+| WINDSOR | VT | 50027 | 4.50 |
+| ACCOMACK | VA | 51001 | 4.80 |
+| ALBEMARLE | VA | 51003 | 4.50 |
+| ALLEGHANY | VA | 51005 | 4.50 |
+| AMELIA | VA | 51007 | 4.80 |
+| AMHERST | VA | 51009 | 4.50 |
+| APPOMATTOX | VA | 51011 | 4.80 |
+| ARLINGTON | VA | 51013 | 4.60 |
+| AUGUSTA | VA | 51015 | 4.30 |
+| BATH | VA | 51017 | 4.50 |
+| BEDFORD | VA | 51019 | 4.80 |
+| BLAND | VA | 51021 | 4.80 |
+| BOTETOURT | VA | 51023 | 4.80 |
+| BRUNSWICK | VA | 51025 | 5.20 |
+| BUCHANAN | VA | 51027 | 4.80 |
+| BUCKINGHAM | VA | 51029 | 4.80 |
+| CAMPBELL | VA | 51031 | 4.80 |
+| CAROLINE | VA | 51033 | 4.80 |
+| CARROLL | VA | 51035 | 5.20 |
+| CHARLES CITY | VA | 51036 | 5.20 |
+| CHARLOTTE | VA | 51037 | 4.80 |
+| CHESTERFIELD | VA | 51041 | 4.80 |
+| CLARKE | VA | 51043 | 4.30 |
+| CRAIG | VA | 51045 | 4.80 |
+| CULPEPER | VA | 51047 | 4.50 |
+| CUMBERLAND | VA | 51049 | 4.80 |
+| DICKENSON | VA | 51051 | 4.80 |
+| DINWIDDIE | VA | 51053 | 5.20 |
+| ESSEX | VA | 51057 | 4.80 |
+| FAIRFAX | VA | 51059 | 4.60 |
+| FAUQUIER | VA | 51061 | 4.50 |
+| FLOYD | VA | 51063 | 5.20 |
+| FLUVANNA | VA | 51065 | 4.50 |
+| FRANKLIN COUNTY | VA | 51067 | 4.80 |
+| FREDERICK | VA | 51069 | 4.30 |
+| GILES | VA | 51071 | 4.80 |
+| GLOUCESTER | VA | 51073 | 5.20 |
+| GOOCHLAND | VA | 51075 | 4.80 |
+| GRAYSON | VA | 51077 | 5.20 |
+| GREENE | VA | 51079 | 4.50 |
+| GREENSVILLE | VA | 51081 | 5.20 |
+| HALIFAX | VA | 51083 | 5.20 |
+| HANOVER | VA | 51085 | 4.80 |
+| HENRICO | VA | 51087 | 4.80 |
+| HENRY | VA | 51089 | 5.20 |
+| HIGHLAND | VA | 51091 | 4.30 |
+| ISLE OF WIGHT | VA | 51093 | 5.20 |
+| JAMES CITY | VA | 51095 | 5.20 |
+| KING AND QUEEN | VA | 51097 | 4.80 |
+| KING GEORGE | VA | 51099 | 4.80 |
+| KING WILLIAM | VA | 51101 | 4.80 |
+| LANCASTER | VA | 51103 | 5.20 |
+| LEE | VA | 51105 | 4.80 |
+| LOUDOUN | VA | 51107 | 4.40 |
+| LOUISA | VA | 51109 | 4.50 |
+| LUNENBURG | VA | 51111 | 5.20 |
+| MADISON | VA | 51113 | 4.50 |
+| MATHEWS | VA | 51115 | 5.20 |
+| MECKLENBURG | VA | 51117 | 5.20 |
+| MIDDLESEX | VA | 51119 | 5.20 |
+| MONTGOMERY | VA | 51121 | 4.80 |
+| NELSON | VA | 51125 | 4.50 |
+| NEW KENT | VA | 51127 | 5.20 |
+| NORTHAMPTON | VA | 51131 | 4.80 |
+| NORTHUMBERLAND | VA | 51133 | 4.80 |
+| NOTTOWAY | VA | 51135 | 4.80 |
+| ORANGE | VA | 51137 | 4.50 |
+| PAGE | VA | 51139 | 4.30 |
+| PATRICK | VA | 51141 | 5.20 |
+| PITTSYLVANIA | VA | 51143 | 5.20 |
+| POWHATAN | VA | 51145 | 4.80 |
+| PRINCE EDWARD | VA | 51147 | 4.80 |
+| PRINCE GEORGE | VA | 51149 | 5.20 |
+| PRINCE WILLIAM | VA | 51153 | 4.50 |
+| PULASKI | VA | 51155 | 4.80 |
+| RAPPAHANNOCK | VA | 51157 | 4.50 |
+| RICHMOND | VA | 51159 | 4.80 |
+| ROANOKE | VA | 51161 | 4.80 |
+| ROCKBRIDGE | VA | 51163 | 4.50 |
+| ROCKINGHAM | VA | 51165 | 4.30 |
+| RUSSELL | VA | 51167 | 4.80 |
+| SCOTT | VA | 51169 | 4.80 |
+| SHENANDOAH | VA | 51171 | 4.30 |
+| SMYTH | VA | 51173 | 5.20 |
+| SOUTHAMPTON | VA | 51175 | 5.20 |
+| SPOTSYLVANIA | VA | 51177 | 4.50 |
+| STAFFORD | VA | 51179 | 4.50 |
+| SURRY | VA | 51181 | 5.20 |
+| SUSSEX | VA | 51183 | 5.20 |
+| TAZEWELL | VA | 51185 | 4.80 |
+| WARREN | VA | 51187 | 4.30 |
+| WASHINGTON | VA | 51191 | 5.20 |
+| WESTMORELAND | VA | 51193 | 4.80 |
+| WISE | VA | 51195 | 4.80 |
+| WYTHE | VA | 51197 | 5.20 |
+| YORK | VA | 51199 | 5.20 |
+| ALEXANDRIA CITY | VA | 51510 | 4.50 |
+| BRISTOL CITY | VA | 51520 | 5.20 |
+| BUENA VISTA CITY | VA | 51530 | 4.50 |
+| CHARLOTTESVILLE CITY | VA | 51540 | 4.50 |
+| CHESAPEAKE CITY | VA | 51550 | 5.20 |
+| COLONIAL HEIGHTS CITY | VA | 51570 | 4.80 |
+| COVINGTON CITY | VA | 51580 | 4.50 |
+| DANVILLE CITY | VA | 51590 | 5.20 |
+| EMPORIA CITY | VA | 51595 | 5.20 |
+| FAIRFAX CITY | VA | 51600 | 4.50 |
+| FALLS CHURCH CITY | VA | 51610 | 4.50 |
+| FRANKLIN CITY | VA | 51620 | 5.20 |
+| FREDERICKSBURG CITY | VA | 51630 | 4.50 |
+| GALAX CITY | VA | 51640 | 5.20 |
+| HAMPTON CITY | VA | 51650 | 5.20 |
+| HARRISONBURG CITY | VA | 51660 | 4.30 |
+| HOPEWELL CITY | VA | 51670 | 5.20 |
+| LEXINGTON CITY | VA | 51678 | 4.50 |
+| LYNCHBURG CITY | VA | 51680 | 4.80 |
+| MANASSAS CITY | VA | 51683 | 4.50 |
+| MANASSAS PARK CITY | VA | 51685 | 4.50 |
+| MARTINSVILLE CITY | VA | 51690 | 5.20 |
+| NEWPORT NEWS CITY | VA | 51700 | 5.20 |
+| NORFOLK CITY | VA | 51710 | 5.20 |
+| NORTON CITY | VA | 51720 | 4.80 |
+| PETERSBURG CITY | VA | 51730 | 5.20 |
+| POQUOSON CITY | VA | 51735 | 5.20 |
+| PORTSMOUTH CITY | VA | 51740 | 5.20 |
+| RADFORD CITY | VA | 51750 | 4.80 |
+| RICHMOND CITY | VA | 51760 | 4.80 |
+| ROANOKE CITY | VA | 51770 | 4.80 |
+| SALEM CITY | VA | 51775 | 4.80 |
+| STAUNTON CITY | VA | 51790 | 4.30 |
+| SUFFOLK CITY | VA | 51800 | 5.20 |
+| VIRGINIA BEACH CITY | VA | 51810 | 5.20 |
+| WAYNESBORO CITY | VA | 51820 | 4.30 |
+| WILLIAMSBURG CITY | VA | 51830 | 5.20 |
+| WINCHESTER CITY | VA | 51840 | 4.30 |
+| ADAMS | WA | 53001 | 2.20 |
+| ASOTIN | WA | 53003 | 2.20 |
+| BENTON | WA | 53005 | 2.20 |
+| CHELAN | WA | 53007 | 2.40 |
+| CLALLAM | WA | 53009 | 2.40 |
+| CLARK | WA | 53011 | 2.70 |
+| COLUMBIA | WA | 53013 | 2.20 |
+| COWLITZ | WA | 53015 | 2.40 |
+| DOUGLAS | WA | 53017 | 2.40 |
+| FERRY | WA | 53019 | 2.40 |
+| FRANKLIN | WA | 53021 | 2.20 |
+| GARFIELD | WA | 53023 | 2.20 |
+| GRANT | WA | 53025 | 2.20 |
+| GRAYS HARBOR | WA | 53027 | 2.40 |
+| ISLAND | WA | 53029 | 2.40 |
+| JEFFERSON | WA | 53031 | 2.40 |
+| KING | WA | 53033 | 2.70 |
+| KITSAP | WA | 53035 | 2.40 |
+| KITTITAS | WA | 53037 | 2.40 |
+| KLICKITAT | WA | 53039 | 2.20 |
+| LEWIS | WA | 53041 | 2.40 |
+| LINCOLN | WA | 53043 | 2.40 |
+| MASON | WA | 53045 | 2.40 |
+| OKANOGAN | WA | 53047 | 2.40 |
+| PACIFIC | WA | 53049 | 2.40 |
+| PEND OREILLE | WA | 53051 | 2.40 |
+| PIERCE | WA | 53053 | 2.40 |
+| SAN JUAN | WA | 53055 | 2.40 |
+| SKAGIT | WA | 53057 | 2.40 |
+| SKAMANIA | WA | 53059 | 2.40 |
+| SNOHOMISH | WA | 53061 | 2.40 |
+| SPOKANE | WA | 53063 | 2.40 |
+| STEVENS | WA | 53065 | 2.40 |
+| THURSTON | WA | 53067 | 2.40 |
+| WAHKIAKUM | WA | 53069 | 2.40 |
+| WALLA WALLA | WA | 53071 | 2.20 |
+| WHATCOM | WA | 53073 | 2.40 |
+| WHITMAN | WA | 53075 | 2.20 |
+| YAKIMA | WA | 53077 | 2.20 |
+| BARBOUR | WV | 54001 | 4.30 |
+| BERKELEY | WV | 54003 | 4.30 |
+| BOONE | WV | 54005 | 4.50 |
+| BRAXTON | WV | 54007 | 4.30 |
+| BROOKE | WV | 54009 | 4.00 |
+| CABELL | WV | 54011 | 4.30 |
+| CALHOUN | WV | 54013 | 4.30 |
+| CLAY | WV | 54015 | 4.30 |
+| DODDRIDGE | WV | 54017 | 4.30 |
+| FAYETTE | WV | 54019 | 4.50 |
+| GILMER | WV | 54021 | 4.30 |
+| GRANT | WV | 54023 | 4.30 |
+| GREENBRIER | WV | 54025 | 4.50 |
+| HAMPSHIRE | WV | 54027 | 4.30 |
+| HANCOCK | WV | 54029 | 4.00 |
+| HARDY | WV | 54031 | 4.30 |
+| HARRISON | WV | 54033 | 4.30 |
+| JACKSON | WV | 54035 | 4.30 |
+| JEFFERSON | WV | 54037 | 4.30 |
+| KANAWHA | WV | 54039 | 4.30 |
+| LEWIS | WV | 54041 | 4.30 |
+| LINCOLN | WV | 54043 | 4.50 |
+| LOGAN | WV | 54045 | 4.50 |
+| MCDOWELL | WV | 54047 | 4.80 |
+| MARION | WV | 54049 | 4.00 |
+| MARSHALL | WV | 54051 | 4.00 |
+| MASON | WV | 54053 | 4.30 |
+| MERCER | WV | 54055 | 4.80 |
+| MINERAL | WV | 54057 | 4.10 |
+| MINGO | WV | 54059 | 4.50 |
+| MONONGALIA | WV | 54061 | 4.10 |
+| MONROE | WV | 54063 | 4.80 |
+| MORGAN | WV | 54065 | 4.30 |
+| NICHOLAS | WV | 54067 | 4.50 |
+| OHIO | WV | 54069 | 4.00 |
+| PENDLETON | WV | 54071 | 4.30 |
+| PLEASANTS | WV | 54073 | 4.00 |
+| POCAHONTAS | WV | 54075 | 4.50 |
+| PRESTON | WV | 54077 | 4.10 |
+| PUTNAM | WV | 54079 | 4.30 |
+| RALEIGH | WV | 54081 | 4.50 |
+| RANDOLPH | WV | 54083 | 4.30 |
+| RITCHIE | WV | 54085 | 4.30 |
+| ROANE | WV | 54087 | 4.30 |
+| SUMMERS | WV | 54089 | 4.80 |
+| TAYLOR | WV | 54091 | 4.30 |
+| TUCKER | WV | 54093 | 4.30 |
+| TYLER | WV | 54095 | 4.00 |
+| UPSHUR | WV | 54097 | 4.30 |
+| WAYNE | WV | 54099 | 4.50 |
+| WEBSTER | WV | 54101 | 4.50 |
+| WETZEL | WV | 54103 | 4.00 |
+| WIRT | WV | 54105 | 4.30 |
+| WOOD | WV | 54107 | 4.00 |
+| WYOMING | WV | 54109 | 4.80 |
+| ADAMS | WI | 55001 | 2.90 |
+| ASHLAND | WI | 55003 | 2.80 |
+| BARRON | WI | 55005 | 2.80 |
+| BAYFIELD | WI | 55007 | 2.80 |
+| BROWN | WI | 55009 | 2.90 |
+| BUFFALO | WI | 55011 | 2.80 |
+| BURNETT | WI | 55013 | 2.80 |
+| CALUMET | WI | 55015 | 2.90 |
+| CHIPPEWA | WI | 55017 | 2.80 |
+| CLARK | WI | 55019 | 2.80 |
+| COLUMBIA | WI | 55021 | 2.90 |
+| CRAWFORD | WI | 55023 | 2.90 |
+| DANE | WI | 55025 | 2.90 |
+| DODGE | WI | 55027 | 2.90 |
+| DOOR | WI | 55029 | 2.90 |
+| DOUGLAS | WI | 55031 | 2.80 |
+| DUNN | WI | 55033 | 2.80 |
+| EAU CLAIRE | WI | 55035 | 2.80 |
+| FLORENCE | WI | 55037 | 2.80 |
+| FOND DU LAC | WI | 55039 | 2.90 |
+| FOREST | WI | 55041 | 2.80 |
+| GRANT | WI | 55043 | 2.90 |
+| GREEN | WI | 55045 | 2.90 |
+| GREEN LAKE | WI | 55047 | 2.90 |
+| IOWA | WI | 55049 | 2.90 |
+| IRON | WI | 55051 | 2.80 |
+| JACKSON | WI | 55053 | 2.80 |
+| JEFFERSON | WI | 55055 | 2.90 |
+| JUNEAU | WI | 55057 | 2.90 |
+| KENOSHA | WI | 55059 | 3.10 |
+| KEWAUNEE | WI | 55061 | 2.90 |
+| LA CROSSE | WI | 55063 | 2.90 |
+| LAFAYETTE | WI | 55065 | 2.90 |
+| LANGLADE | WI | 55067 | 2.90 |
+| LINCOLN | WI | 55069 | 2.80 |
+| MANITOWOC | WI | 55071 | 2.90 |
+| MARATHON | WI | 55073 | 2.90 |
+| MARINETTE | WI | 55075 | 2.90 |
+| MARQUETTE | WI | 55077 | 2.90 |
+| MENOMINEE | WI | 55078 | 2.90 |
+| MILWAUKEE | WI | 55079 | 3.10 |
+| MONROE | WI | 55081 | 2.90 |
+| OCONTO | WI | 55083 | 2.90 |
+| ONEIDA | WI | 55085 | 2.80 |
+| OUTAGAMIE | WI | 55087 | 2.90 |
+| OZAUKEE | WI | 55089 | 3.10 |
+| PEPIN | WI | 55091 | 2.80 |
+| PIERCE | WI | 55093 | 2.80 |
+| POLK | WI | 55095 | 2.80 |
+| PORTAGE | WI | 55097 | 2.90 |
+| PRICE | WI | 55099 | 2.80 |
+| RACINE | WI | 55101 | 3.10 |
+| RICHLAND | WI | 55103 | 2.90 |
+| ROCK | WI | 55105 | 2.90 |
+| RUSK | WI | 55107 | 2.80 |
+| ST. CROIX | WI | 55109 | 2.80 |
+| SAUK | WI | 55111 | 2.90 |
+| SAWYER | WI | 55113 | 2.80 |
+| SHAWANO | WI | 55115 | 2.90 |
+| SHEBOYGAN | WI | 55117 | 2.90 |
+| TAYLOR | WI | 55119 | 2.80 |
+| TREMPEALEAU | WI | 55121 | 2.80 |
+| VERNON | WI | 55123 | 2.90 |
+| VILAS | WI | 55125 | 2.80 |
+| WALWORTH | WI | 55127 | 3.10 |
+| WASHBURN | WI | 55129 | 2.80 |
+| WASHINGTON | WI | 55131 | 2.90 |
+| WAUKESHA | WI | 55133 | 2.90 |
+| WAUPACA | WI | 55135 | 2.90 |
+| WAUSHARA | WI | 55137 | 2.90 |
+| WINNEBAGO | WI | 55139 | 2.90 |
+| WOOD | WI | 55141 | 2.90 |
+| ALBANY | WY | 56001 | 2.40 |
+| BIG HORN | WY | 56003 | 2.40 |
+| CAMPBELL | WY | 56005 | 2.40 |
+| CARBON | WY | 56007 | 2.40 |
+| CONVERSE | WY | 56009 | 2.40 |
+| CROOK | WY | 56011 | 2.40 |
+| FREMONT | WY | 56013 | 2.40 |
+| GOSHEN | WY | 56015 | 2.40 |
+| HOT SPRINGS | WY | 56017 | 2.40 |
+| JOHNSON | WY | 56019 | 2.40 |
+| LARAMIE | WY | 56021 | 2.50 |
+| LINCOLN | WY | 56023 | 2.20 |
+| NATRONA | WY | 56025 | 2.40 |
+| NIOBRARA | WY | 56027 | 2.40 |
+| PARK | WY | 56029 | 2.20 |
+| PLATTE | WY | 56031 | 2.40 |
+| SHERIDAN | WY | 56033 | 2.40 |
+| SUBLETTE | WY | 56035 | 2.20 |
+| SWEETWATER | WY | 56037 | 2.40 |
+| TETON | WY | 56039 | 2.20 |
+| UINTA | WY | 56041 | 2.20 |
+| WASHAKIE | WY | 56043 | 2.40 |
+| WESTON | WY | 56045 | 2.40 |
+
+[64 FR 70869, Dec. 17, 1999; 64 FR 73386, Dec. 30, 1999, as amended at 68 FR 48771, Aug. 15, 2003; 90 FR 6605, Jan. 17, 2025; 91 FR 59047, Sept. 18, 2026]
+
+### § 1000.53 Announcement of class prices, component prices, and advanced pricing factors.
+
+(a) On or before the 5th day of the month, the market administrator for each Federal milk marketing order shall announce the following prices (as applicable to that order) for the preceding month:
+
+(1) The Class II price;
+
+(2) The Class II butterfat price;
+
+(3) The Class III price;
+
+(4) The Class III skim milk price;
+
+(5) The Class IV price;
+
+(6) The Class IV skim milk price;
+
+(7) The butterfat price;
+
+(8) The nonfat solids price;
+
+(9) The protein price;
+
+(10) The other solids price; and
+
+(11) The somatic cell adjustment rate.
+
+(b) On or before the 23rd day of the month, the market administrator for each Federal milk marketing order shall announce the following prices and pricing factors for the following month:
+
+(1) The Class I price;
+
+(2) The Class I skim milk price;
+
+(3) The Class I butterfat price;
+
+(4) The Class II skim milk price;
+
+(5) The Class II nonfat solids price; and
+
+(6) The advanced pricing factors described in § 1000.50(q).
+
+### § 1000.54 Equivalent price.
+
+If for any reason a price or pricing constituent required for computing the prices described in § 1000.50 is not available, the market administrator shall use a price or pricing constituent determined by the Deputy Administrator, Dairy Programs, Agricultural Marketing Service, to be equivalent to the price or pricing constituent that is required.
+
+## Subpart H—Payments for Milk
+
+### § 1000.70 Producer-settlement fund.
+
+The market administrator shall establish and maintain a separate fund known as the producer-settlement fund into which the market administrator shall deposit all payments made by handlers pursuant to §§ \_\_\_\_.71, \_\_\_\_.76, and \_\_\_\_.77 of each Federal milk order and out of which the market administrator shall make all payments pursuant to §§ \_\_\_\_.72 and \_\_\_\_.77 of each Federal milk order. Payments due any handler shall be offset by any payments due from that handler.
+
+### § 1000.76 Payments by a handler operating a partially regulated distributing plant.
+
+On or before the 25th day after the end of the month (except as provided in § 1000.90), the operator of a partially regulated distributing plant, other than a plant that is subject to marketwide pooling of producer returns under a State government's milk classification and pricing program, shall pay to the market administrator for the producer-settlement fund the amount computed pursuant to paragraph (a) of this section or, if the handler submits the information specified in §§ \_\_\_\_.30(b) and \_\_\_\_.31(b) of the order, the handler may elect to pay the amount computed pursuant to paragraph (b) of this section. A partially regulated distributing plant that is subject to marketwide pooling of producer returns under a State government's milk classification and pricing program shall pay the amount computed pursuant to paragraph (c) of this section.
+
+(a) The payment under this paragraph shall be an amount resulting from the following computations:
+
+(1) From the plant's route disposition in the marketing area:
+
+(i) Subtract receipts of fluid milk products classified as Class I milk from pool plants, plants fully regulated under other Federal orders, and handlers described in § 1000.9(c), except those receipts subtracted under a similar provision of another Federal milk order;
+
+(ii) Subtract receipts of fluid milk products from another nonpool plant that is not a plant fully regulated under another Federal order to the extent that an equivalent amount of fluid milk products disposed of to the nonpool plant by handlers fully regulated under any Federal order is classified and priced as Class I milk and is not used as an offset for any payment obligation under any order; and
+
+(iii) Subtract the pounds of reconstituted milk made from nonfluid milk products which are disposed of as route disposition in the marketing area;
+
+(2) For orders with multiple component pricing, compute a Class I differential price by subtracting Class III price from the current month's applicable Class I price. Multiply the pounds remaining after the computation in paragraph (a)(1)(iii) of this section by the amount by which the Class I differential price exceeds the producer price differential, both prices to be applicable at the location of the partially regulated distributing plant except that neither the adjusted Class I differential price nor the adjusted producer price differential shall be less than zero;
+
+(3) For orders with skim milk and butterfat pricing, multiply the remaining pounds by the amount by which the applicable Class I price exceeds the uniform price, both prices to be applicable at the location of the partially regulated distributing plant except that neither the adjusted Class I price nor the adjusted uniform price differential shall be less than the lowest announced class price; and
+
+(4) Unless the payment option described in paragraph (d) of this section is selected, add the amount obtained from multiplying the pounds of labeled reconstituted milk included in paragraph (a)(1)(iii) of this section by any positive difference between the applicable Class I price at the location of the partially regulated distributing plant (less $1.00 if the reconstituted milk is labeled as such) and the Class IV price.
+
+(b) The payment under this paragraph shall be the amount resulting from the following computations:
+
+(1) Determine the value that would have been computed pursuant to § \_\_\_\_.60 of the order for the partially regulated distributing plant if the plant had been a pool plant, subject to the following modifications:
+
+(i) Fluid milk products and bulk fluid cream products received at the plant from a pool plant, a plant fully regulated under another Federal order, and handlers described in § 1000.9(c) shall be allocated at the partially regulated distributing plant to the same class in which such products were classified at the fully regulated plant;
+
+(ii) Fluid milk products and bulk fluid cream products transferred from the partially regulated distributing plant to a pool plant or a plant fully regulated under another Federal order shall be classified at the partially regulated distributing plant in the class to which allocated at the fully regulated plant. Such transfers shall be allocated to the extent possible to those receipts at the partially regulated distributing plant from the pool plant and plants fully regulated under other Federal orders that are classified in the corresponding class pursuant to paragraph (b)(1)(i) of this section. Any such transfers remaining after the above allocation which are in Class I and for which a value is computed pursuant to § \_\_\_\_.60 of the order for the partially regulated distributing plant shall be priced at the statistical uniform price or uniform price, whichever is applicable, of the respective order regulating the handling of milk at the receiving plant, with such statistical uniform price or uniform price adjusted to the location of the nonpool plant (but not to be less than the lowest announced class price of the respective order); and
+
+(iii) If the operator of the partially regulated distributing plant so requests, the handler's value of milk determined pursuant to § \_\_\_\_.60 of the order shall include a value of milk determined for each nonpool plant that is not a plant fully regulated under another Federal order which serves as a supply plant for the partially regulated distributing plant by making shipments to the partially regulated distributing plant during the month equivalent to the requirements of § \_\_\_\_. 7(c) of the order subject to the following conditions:
+
+(A) The operator of the partially regulated distributing plant submits with its reports filed pursuant to §§ \_\_\_\_.30(b) and \_\_\_\_.31(b) of the order similar reports for each such nonpool supply plant;
+
+(B) The operator of the nonpool plant maintains books and records showing the utilization of all skim milk and butterfat received at the plant which are made available if requested by the market administrator for verification purposes; and
+
+(C) The value of milk determined pursuant to § \_\_\_\_.60 for the unregulated supply plant shall be determined in the same manner prescribed for computing the obligation of the partially regulated distributing plant; and
+
+(2) From the partially regulated distributing plant's value of milk computed pursuant to paragraph (b)(1) of this section, subtract:
+
+(i) The gross payments that were made for milk that would have been producer milk had the plant been fully regulated;
+
+(ii) If paragraph (b)(1)(iii) of this section applies, the gross payments by the operator of the nonpool supply plant for milk received at the plant during the month that would have been producer milk if the plant had been fully regulated; and
+
+(iii) The payments by the operator of the partially regulated distributing plant to the producer-settlement fund of another Federal order under which the plant is also a partially regulated distributing plant and, if paragraph (b)(1)(iii) of this section applies, payments made by the operator of the nonpool supply plant to the producer-settlement fund of any order.
+
+(c) The operator of a partially regulated distributing plant that is subject to marketwide pooling of returns under a milk classification and pricing program that is imposed under the authority of a State government shall pay on or before the 25th day after the end of the month (except as provided in § 1000.90) to the market administrator for the producer-settlement fund an amount computed as follows: after completing the computations described in paragraphs (a)(1)(i) and (ii) of this section, determine the value of the remaining pounds of fluid milk products disposed of as route disposition in the marketing area by multiplying the hundredweight of such pounds by the amount, if greater than zero, that remains after subtracting the State program's class prices applicable to such products at the plant's location from the applicable Federal order Class I price at the location of the plant.
+
+(d) Any handler may elect partially regulated distributing plant status for any plant with respect to receipts of nonfluid milk ingredients that are reconstituted for fluid use. Payments may be made to the producer-settlement fund of the order regulating the producer milk used to produce the nonfluid milk ingredients at the positive difference between the Class I price applicable under the other order at the location of the plant where the nonfluid milk ingredients were processed and the Class IV price. This payment option shall apply only if a majority of the total milk received at the plant that processed the nonfluid milk ingredients is regulated under one or more Federal orders and payment may only be made to the producer-settlement fund of the order pricing a plurality of the milk used to produce the nonfluid milk ingredients. This payment option shall not apply if the source of the nonfluid ingredients used in reconstituted fluid milk products cannot be determined by the market administrator.
+
+[64 FR 47899, Sept. 1, 1999, as amended at 90 FR 6649, Jan. 17, 2025]
+
+### § 1000.77 Adjustment of accounts.
+
+Whenever audit by the market administrator of any handler's reports, books, records, or accounts, or other verification discloses errors resulting in money due the market administrator from a handler, or due a handler from the market administrator, or due a producer or cooperative association from a handler, the market administrator shall promptly notify such handler of any amount so due and payment thereof shall be made on or before the next date for making payments as set forth in the provisions under which the error(s) occurred.
+
+### § 1000.78 Charges on overdue accounts.
+
+Any unpaid obligation due the market administrator, producers, or cooperative associations from a handler pursuant to the provisions of the order shall be increased 1.0 percent each month beginning with the day following the date such obligation was due under the order. Any remaining amount due shall be increased at the same rate on the corresponding day of each succeeding month until paid. The amounts payable pursuant to this section shall be computed monthly on each unpaid obligation and shall include any unpaid charges previously computed pursuant to this section. The late charges shall accrue to the administrative assessment fund. For the purpose of this section, any obligation that was determined at a date later than prescribed by the order because of a handler's failure to submit a report to the market administrator when due shall be considered to have been payable by the date it would have been due if the report had been filed when due.
+
+## Subpart I—Administrative Assessment and Marketing Service Deduction
+
+### § 1000.85 Assessment for order administration.
+
+On or before the payment receipt date specified under § \_\_\_\_.71 of each Federal milk order each handler shall pay to the market administrator its pro rata share of the expense of administration of the order at a rate specified by the market administrator that is no more than 5 cents per hundredweight with respect to:
+
+(a) Receipts of producer milk (including the handler's own production) other than such receipts by a handler described in § 1000.9(c) that were delivered to pool plants of other handlers;
+
+(b) Receipts from a handler described in § 1000.9(c);
+
+(c) Receipts of concentrated fluid milk products from unregulated supply plants and receipts of nonfluid milk products assigned to Class I use pursuant to § 1000.43(d) and other source milk allocated to Class I pursuant to § 1000.44(a) (3) and (8) and the corresponding steps of § 1000.44(b), except other source milk that is excluded from the computations pursuant to § \_\_\_\_.60 (d) and (e) of parts 1005, 1006, and 1007 of this chapter or § \_\_\_\_.60 (h) and (i) of parts 1001, 1030, 1032, 1033, 1124, 1126, 1131, and 1135 of this chapter; and
+
+(d) Route disposition in the marketing area from a partially regulated distributing plant that exceeds the skim milk and butterfat subtracted pursuant to § 1000.76(a)(1) (i) and (ii).
+
+### § 1000.86 Deduction for marketing services.
+
+(a) Except as provided in paragraph (b) of this section, each handler in making payments to producers for milk (other than milk of such handler's own production) pursuant to § \_\_\_\_.73 of each Federal milk order shall deduct an amount specified by the market administrator that is no more than 7 cents per hundredweight and shall pay the amount deducted to the market administrator not later than the payment receipt date specified under § \_\_\_\_.71 of each Federal milk order. The money shall be used by the market administrator to verify or establish weights, samples and tests of producer milk and provide market information for producers who are not receiving such services from a cooperative association. The services shall be performed in whole or in part by the market administrator or an agent engaged by and responsible to the market administrator.
+
+(b) In the case of producers for whom the market administrator has determined that a cooperative association is actually performing the services set forth in paragraph (a) of this section, each handler shall make deductions from the payments to be made to producers as may be authorized by the membership agreement or marketing contract between the cooperative association and the producers. On or before the 15th day after the end of the month (except as provided in § 1000.90), such deductions shall be paid to the cooperative association rendering the services accompanied by a statement showing the amount of any deductions and the amount of milk for which the deduction was computed for each producer. These deductions shall be made in lieu of the deduction specified in paragraph (a) of this section.
+
+## Subpart J—Miscellaneous Provisions
+
+### § 1000.90 Dates.
+
+If a date required for a payment contained in a Federal milk order falls on a Saturday, Sunday, or national holiday, such payment will be due on the next day that the market administrator's office is open for public business.
+
+### §§ 1000.91-1000.92 [Reserved]
+
+### § 1000.93 OMB control number assigned pursuant to the Paperwork Reduction Act.
+
+The information collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under the provisions of Title 44 U.S.C. chapter 35 and have been assigned OMB control number 0581-0032.

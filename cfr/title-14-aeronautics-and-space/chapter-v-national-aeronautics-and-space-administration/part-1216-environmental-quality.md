@@ -1,0 +1,758 @@
+---
+title: "14 CFR Part 1216 — ENVIRONMENTAL QUALITY"
+identifier: "14 CFR Part 1216"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-09-29  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-14/part-1216"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "30-Sep-2026 22:27"
+---
+
+*Title 14—Aeronautics and Space › CHAPTER V—NATIONAL AERONAUTICS AND SPACE ADMINISTRATION*
+
+# PART 1216—ENVIRONMENTAL QUALITY
+
+**Authority:** 51 U.S.C. 20101 *et seq.;* 42 U.S.C. 4321 *et seq.;* 42 U.S.C. 7609 *et seq.*
+
+**Source:** 91 FR 39883, July 1, 2026, unless otherwise noted.
+
+## Subpart 1216.1—Purpose and Policy
+
+### § 1216.100 Purpose and policy.
+
+(a) *Purpose.* The purpose of the procedures in this part is to integrate the National Environmental Policy Act (NEPA) into the National Aeronautics and Space Administration's (NASA) decision-making processes. The procedures in this part describe the process by which NASA determines what actions are subject to NEPA's procedural requirements and the applicable level of NEPA review; ensure that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enable NASA to conduct coordinated, consistent, predictable and timely environmental reviews; reduce unnecessary burdens and delays; and implement NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental documents.
+
+(b) *Procedural and interpretive rule.* This part sets forth NASA's procedures for implementing NEPA and NASA's interpretation of certain key terms in NEPA. It does not, nor does it intend to, govern the rights and obligations of any party outside the Federal Government. It does, however, establish the procedures under which NASA will fulfill its requirements under NEPA.
+
+(c) *Consultation with the Council on Environmental Quality* (*CEQ).* In accord with NEPA sec. 102(2)(B), 42 U.S.C. 4332(B), NASA will consult with CEQ while developing or revising proposed NEPA implementing procedures under this part, including establishment of new, or revision of existing, categorical exclusions as set forth in subpart 1216.3 of this part.
+
+### § 1216.101 Applicability.
+
+(a) *Applicability.* This part is applicable to all organizational elements of NASA.
+
+(b) *Authority.* Nothing contained in this part is intended to or should be construed to limit NASA's existing authorities or legal responsibilities.
+
+## Subpart 1216.2—NEPA and Agency Planning
+
+### § 1216.200 Determine when NEPA applies.
+
+(a) NEPA applies to major Federal actions as defined in section 111(10) of NEPA, 42 U.S.C. 4336e (10). The terms “major” and “Federal action,” each have independent force. NEPA applies only when both criteria are met. Such a determination is inherently bound up in the facts and circumstances of each individual situation and is thus reserved to the discretion of NASA in each instance.
+
+(b) NASA will determine that NEPA does not apply to a proposed agency action when:
+
+(1) The activities or decision do not result in final agency action under the Administrative Procedure Act, see 5 U.S.C. 704, or other relevant statute that also includes a finality requirement.
+
+(2) The proposed activity or decision is exempted from NEPA by law.
+
+(3) Compliance with NEPA would clearly and fundamentally conflict with the requirements of another provision of law.
+
+(4) In circumstances where Congress by statute has prescribed decisional criteria with sufficient completeness and precision such that NASA retains no residual discretion to alter its action based on the consideration of environmental factors, thus that function of NASA is nondiscretionary within the meaning of NEPA sec. 106(a)(4) and/or sec. 111(10)(B)(vii) (42 U.S.C. 4336(a)(4) and 4336e(10)(B)(vii), respectively), and NEPA does not apply to the action in question.
+
+(5) The proposed action is an action for which another statute's requirements serve the function of agency compliance with the Act.
+
+(6) NEPA does not apply to response actions taken under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) (42 U.S.C. 9601 *et seq.*).
+
+### § 1216.201 Determine the appropriate level of NEPA review.
+
+(a) If NASA determines that NEPA applies to a proposed activity or decision, NASA will then determine the appropriate level of NEPA review in the following sequence and manner. At all steps in the following process, NASA will consider the proposed action or project at hand and its effects.
+
+(1) If NASA has established, or adopted pursuant to NEPA sec. 109, 42 U.S.C. 4336c, a categorical exclusion that covers the proposed action, NASA will analyze whether to apply the categorical exclusion to the proposed action and apply the categorical exclusion, if appropriate, pursuant to subpart 1216.3 of this part.
+
+(2) If another agency has already established a categorical exclusion that covers the proposed action, NASA will commence the process to adopt that exclusion pursuant to § 1216.300(c) so that it can be applied to the proposed action at issue, and to future activities or decisions of that type.
+
+(3) If the proposed action warrants the establishment of a new categorical exclusion, or the revision of an existing categorical exclusion, NASA will consider whether to establish or revise and then apply the categorical exclusion to the proposed action and to future activities or decisions of that type.
+
+(4) If NASA or another Federal agency has already analyzed the proposed action in an existing environmental assessment or environmental impact statement, NASA will consider the options outlined in § 1216.602 and rely on the existing NEPA analysis.
+
+(5) If NASA cannot apply a categorical exclusion to or rely on an existing NEPA analysis for the proposed action, NASA will consider the proposed action's reasonably foreseeable effects consistent with paragraph (b) of this section, and then will:
+
+(i) If the proposed action is not likely to have reasonably foreseeable significant effects or the significance of the effects is unknown, develop an environmental assessment, as described in subpart 1216.4 of this part; or
+
+(ii) If the proposed action is likely to have reasonably foreseeable significant effects, develop an environmental impact statement, as described in subpart 1216.5 of this part.
+
+(b) When considering whether the reasonably foreseeable effects of the proposed action are significant, NASA will analyze the potentially affected environment and degree of the effects of the action. NASA may use any reliable data source and will not undertake new research unless it is essential to evaluating alternatives and the cost and time of obtaining it are not unreasonable.
+
+(1) In considering the potentially affected environment, NASA may consider, as appropriate to the specific action, the scope of affected area (national, regional, or local) and its resources (*e.g.,* natural, cultural, and socioeconomic resources; and environmental media).
+
+(2) In considering the degree of the effects, NASA may consider the following, as appropriate to the specific action:
+
+(i) Both short- and long-term effects.
+
+(ii) Both beneficial and adverse effects.
+
+(iii) Effects on public health and safety.
+
+(iv) Economic effects.
+
+(v) Effects on the quality of life of the American people.
+
+### § 1216.202 NEPA and agency decision making.
+
+(a) *Planning.* NEPA is a procedural statute intended to ensure Federal agencies consider the environmental impacts of their proposed actions in the decision-making process. Full and early integration of the NEPA process with NASA project and program planning improves agency decisions.
+
+(b) *Limitations on actions during the NEPA process.* Except as provided in paragraph (c) of this section, until NASA issues a record of decision or finding of no significant impact, or makes a categorical exclusion determination, as applicable, NASA will take no action concerning a proposed action that would have an adverse environmental effect; or limit the choice of reasonable alternatives.
+
+(c) *Actions developed by non-Federal project sponsor.* If NASA is considering a proposed action from a non-Federal entity and becomes aware that the non-Federal project sponsor is about to take an action within NASA's jurisdiction that would meet either of the criteria in paragraph (b) of this section, NASA will promptly notify the non-Federal project sponsor that NASA will take appropriate action to ensure that the objectives and procedures of NEPA are achieved. This section does not preclude development by non-Federal project sponsors of plans or designs or performance of other activities necessary to support an application for Federal, State, Tribal, or local permits or assistance. When considering a proposed action for Federal funding, NASA may authorize such activities, including but not limited to, acquisition of interests in land (*e.g.,* fee simple, rights-of-way, and conservation easements), purchase of long lead-time equipment, and purchase options made by non-Federal project sponsors.
+
+(d) *Non-Federal project sponsor preparation of environmental documents.* A non-Federal project sponsor may prepare an environmental assessment or environmental impact statement under NASA's supervision. NASA's requirements for third-party- prepared environmental assessments and environmental impact statements are included in subpart 1216.8 of this part. For proposed actions that are initially developed by non-Federal entities, NASA will:
+
+(1) Coordinate with the non-Federal project sponsor at the earliest reasonable time in the planning process to inform the project sponsor what information NASA will need to comply with NEPA and establish a schedule for completing steps in the NEPA review process, consistent with NEPA's statutory deadlines and any internal agency NEPA schedule requirements.
+
+(2) Begin the NEPA process by determining whether NEPA applies, as described in § 1216.200, and if it does, determine the appropriate level of NEPA review, as described in § 1216.201.
+
+(e) *Real Estate Actions.* NASA must comply with this subpart when considering issuance of a permit, license, enhanced use lease (EUL), easement, right of way, or grant, to a Federal or a non-Federal party, as may be applicable, and seek such Federal or non-Federal party's assistance in obtaining necessary information and completing the NEPA process.
+
+## Subpart 1216.3—Categorical Exclusions
+
+### § 1216.300 Preparation of categorical exclusions.
+
+(a) *Generally.* This section describes the process NASA uses for establishing and revising categorical exclusions, for adopting other agencies' categorical exclusions, and for applying categorical exclusions to a proposed agency action. NASA's categorical exclusions are listed in paragraph (g) of this section.
+
+(b) *Establishing and revising categorical exclusions.* To establish or revise a categorical exclusion, NASA will determine that the category of actions normally does not significantly affect the quality of the human environment. In making this determination, NASA will:
+
+(1) Develop a substantiation record containing information to support its determination.
+
+(2) Consult with CEQ on its proposed categorical exclusion, including the substantiation record, for a period not to exceed 30 days prior to providing public notice.
+
+(3) Provide public notice in the *Federal Register* of NASA's establishment or revisions of the categorical exclusion, including the location (*e.g.,* website) of availability of the substantiation record.
+
+(c) *Adopting categorical exclusions from other Federal agencies.* Consistent with NEPA sec. 109, 42 U.S.C. 4336c, NASA may adopt a categorical exclusion listed in another agency's NEPA procedures. When adopting a categorical exclusion, NASA will:
+
+(1) Identify the categorical exclusion listed in another agency's NEPA procedures that covers its category of proposed or related actions.
+
+(2) Consult with the agency that established the categorical exclusion to ensure that the proposed adoption of the categorical exclusion is appropriate.
+
+(3) Provide public notification of the categorical exclusion that NASA is adopting, including a brief description of the proposed action or category of proposed actions to which NASA intends to apply the adopted categorical exclusion.
+
+(4) Document the adoption of the categorical exclusion on a public-facing website and include in future updates to this part.
+
+(d) *Removal of categorical exclusions.* To remove a categorical exclusion from paragraph (g) of this section, NASA will:
+
+(1) Develop a written explanation for the removal;
+
+(2) Consult with CEQ on its proposed removal of the categorical exclusion, including the written explanation (typically for a period of 30 days) prior to providing public notice; and
+
+(3) Provide public notice of NASA's removal of the categorical exclusion and the written explanation in the *Federal Register.* NASA may provide notice of the availability of the explanation in the *Federal Register* (*i.e.,* as a link to an agency website) if NASA prepares the explanation as a separate document.
+
+(e) *Applying categorical exclusions.* A proposed action may be categorically excluded if the action fits within the categories listed in paragraph (g) of this section, and does not involve any extraordinary circumstances in which a normally excluded action may have a reasonably foreseeable significant effect. If NASA determines that it cannot apply a categorical exclusion to the proposed action, NASA will prepare an environmental assessment or environmental impact statement, as appropriate.
+
+(1) If an extraordinary circumstance is not present, NASA will determine that the categorical exclusion applies to the proposed agency action and conclude review.
+
+(2) If an extraordinary circumstance is present, NASA may nevertheless apply the categorical exclusion and conclude review if NASA either:
+
+(i) Determines that, notwithstanding the extraordinary circumstance, the proposed agency action is not likely to result in reasonably foreseeable adverse significant effects; or
+
+(ii) Modifies the proposed agency action to avoid those effects.
+
+(3) Extraordinary circumstances include situations where the proposed action:
+
+(i) Has a reasonable likelihood of having a significant effect on public health and safety.
+
+(ii) Imposes uncertain or unique environmental risks.
+
+(iii) Is of significantly greater scope or size than is normal for the category of action.
+
+(iv) Has a reasonable likelihood of having effects that would violate Federal, State, Tribal, or local laws, or other enforceable requirements applicable to environmental protection.
+
+(v) May significantly affect sensitive resources, such as, but not limited to, federally listed threatened or endangered species, their designated critical habitat, wilderness areas, floodplains, wetlands, aquifer recharge areas, coastal zones, wild and scenic rivers, and significant fish or wildlife habitat, unless the impact has been resolved through another environmental review process (*e.g.,* the Clean Water Act (CWA) or the Coastal Zone Management Act (CZMA)).
+
+(vi) May significantly affect national natural landmarks or cultural or historic resources, including, but not limited to, property listed on or eligible for listing on the National Register of Historic Places, unless the impact has been resolved through another review process (*e.g.,* the National Historic Preservation Act (NHPA)).
+
+(4) NASA may apply multiple categorical exclusions to the constituent parts of a single action but must consider whether the aggregate impacts of the constituent parts could give rise to an extraordinary circumstance or result in reasonably foreseeable significant effects.
+
+(f) *Documentation of categorical exclusion determinations.* In cases where NASA has determined that a Record of Environmental Consideration (REC) is required, NASA will document its evaluation, which includes the extraordinary circumstance review.
+
+(g) *List of categorical exclusions.* NASA has established or adopted the following categorical exclusions:
+
+(1) Administrative Activities including:
+
+(i) Personnel actions, organizational changes, and procurement of routine goods and services.
+
+(ii) Program budget proposals, disbursements, and transfer or reprogramming of funds.
+
+(iii) Preparing documents, including design and feasibility studies, analytical supply and demand studies, reports and recommendations, master and strategic plans, and other advisory documents.
+
+(iv) Preparing and disseminating information, including document mailings, publications, classroom materials, conferences, speaking engagements, websites, and other educational/informational activities.
+
+(v) Software development, data analysis, and/or testing, including computer modeling.
+
+(vi) Interpretations, amendments, and modifications to contracts, grants, or other awards.
+
+(vii) Field studies, including water sampling, monitoring wells, cultural resources surveys, biological surveys, geologic surveys, modeling or simulations, routine data collection and analysis, and/or temporary equipment.
+
+(2) Operations and Management Activities including:
+
+(i) Routine maintenance, minor construction or rehabilitation, minor demolition, minor modification, minor repair, and continuing or altered operations at, or of, existing NASA or NASA-funded or approved facilities and equipment, such as buildings, roads, grounds, utilities, communication systems, and ground support systems (*e.g.,* space tracking and data systems). This includes routine operations such as security, public health and safety, and environmental services.
+
+(ii) Installing or removing equipment, including component parts, at existing government or private facilities.
+
+(iii) Contributing equipment, software, technical advice, exchanging data, and consulting with other agencies and public and private entities.
+
+(iv) NASA ceremonies, commemorative events, and memorial services.
+
+(v) Routine packaging, labeling, storage, transportation, and disposal of materials and wastes, in accordance with applicable Federal, State, Tribal, or local laws or requirements. Examples include but are not limited to hazardous, non-hazardous, and other regulated materials and wastes.
+
+(vi) Habitat and species management activities conducted within the boundaries of NASA-controlled properties in accordance with applicable Federal, State, or local requirements. Examples include but are not limited to restoration of unique or critical habitat; thinning or brush control to improve growth of natural habitat, reduce invasive species, or reduce fire hazard; prescribed burning to reduce natural fuel build-up, reduce invasive species, or improve native plant vigor; planting appropriate vegetation that does not include noxious weeds or invasive plants; or wildlife management activities (REC required).
+
+(vii) Small-scale, short-term cleanup actions under the Resource Conservation and Recovery Act or other authorities to reduce risk to human health or the environment from the release or imminent and substantial threat of release of a hazardous substance other than high-level radioactive waste and spent nuclear fuel, including treatment (such as incineration, encapsulation, physical or chemical separation, and compaction), recovery, storage, or disposal of wastes at existing facilities currently handling the type of waste involved in the action.
+
+(viii) Replacement of existing energy sources with alternative or renewable energy sources that comply with existing permit conditions.
+
+(ix) Routine maintenance, repair, and operation of vessels (including unmanned autonomous surface vessels), aircraft (including unmanned aircraft systems), overland/surface transportation vehicles, and other transportation systems as applicable. Examples include but are not limited to transportation or relocation of NASA equipment and hardware by barge, aircraft, or surface transportation system (*e.g.,* tractor trailer or railroad); retrieval of spent solid rocket boosters by vessel; repair or overhaul of vessel, aircraft, or surface transportation systems that do not result in a change in the environmental impacts of their normal operation.
+
+(x) Construction of electric powerlines approximately 10 miles in length or less, or approximately 20 miles in length or less within previously disturbed or developed powerline or pipeline rights-of-way.
+
+(xi) Construction and subsequent operation of short (generally less than 20 miles in length) pipeline segments conveying materials (such as air, brine, carbon dioxide, geothermal system fluids, hydrogen gas, natural gas, nitrogen gas, oil, produced water, steam, and water) between existing source facilities and existing receiving facilities (such as facilities for use, reuse, transportation, storage, and refining), provided that the pipeline segments are within previously disturbed or developed rights-of-way.
+
+(xii) The installation, modification, operation, or decommissioning of commercially available solar photovoltaic systems:
+
+(A) Located on a building or other structure (such as rooftop, parking lot or facility, or mounted to signage, lighting, gates, or fences); or
+
+(B) Located within a previously disturbed or developed area. Covered actions would be in accordance with applicable requirements (such as land use and zoning requirements) in the proposed project area and would be consistent with applicable plans for the management of wildlife and habitat, including plans to maintain habitat connectivity, and incorporate appropriate control technologies and best management practices.
+
+(xiii) Decisions to decommission or temporarily discontinue use of equipment:
+
+(A) Decisions to decommission or temporarily discontinue use of vessels and aircraft. This does not preclude the need to review decommissioning under section 106 of the National Historic Preservation Act.
+
+(B) Decisions to decommission or temporarily discontinue use of equipment, not including vessels or aircraft. This does not preclude the need to review decommissioning under section 106 of the National Historic Preservation Act (REC required).
+
+(xiv) Environmental restoration, remediation, pollution prevention, and mitigation activities conducted in conformance with applicable laws, regulations and permit requirements, including activities such as noise mitigation, landscaping, natural resource management activities, replacement or improvement to storm water oil/water separators, installation of pollution containment systems, slope stabilization, and contaminated soil removal or remediation activities.
+
+(xv) Assembly or construction of facilities or stations that are consistent with existing land use and zoning requirements, do not result in a major change in traffic density on existing rail or highway facilities, and result in approximately less than ten acres of surface disturbance, such as storage and maintenance facilities, freight or passenger loading and unloading facilities or stations, parking facilities, passenger platforms, canopies, shelters, pedestrian overpasses or underpasses, paving, or landscaping.
+
+(xvi) Restoring wetlands, streams, riparian areas or other water bodies by removing, replacing, or modifying water control structures such as, but not limited to, dams, levees, dikes, ditches, culverts, pipes, drainage tiles, valves, gates, and fencing, to allow waters to flow into natural channels and floodplains and restore natural flow regimes to the extent practicable where valid existing rights or special use authorizations are not unilaterally altered or canceled. Examples include but are not limited to:
+
+(A) Repairing an existing water control structure that is no longer functioning properly with minimal dredging, excavation, or placement of fill, and does not involve releasing hazardous substances;
+
+(B) Installing a newly-designed structure that replaces an existing culvert to improve aquatic organism passage and prevent resource and property damage where the road or trail maintenance level does not change;
+
+(C) Removing a culvert and installing a bridge to improve aquatic and/or terrestrial organism passage or prevent resource or property damage where the road or trail maintenance level does not change; and
+
+(D) Removing a small earthen and rock fill dam with a low hazard potential classification that is no longer needed.
+
+(xvii) Acquisition, installation, modification, routine repair and replacement, and operation of utility (*e.g.,* water, sewer, and electrical) and communication systems, mobile antennas, data processing cable and similar electronic equipment that use existing rights-of-way, easements, distribution systems, facilities, or previously disturbed land (REC required).
+
+(xviii) New construction or equipment installation or alterations (interior and exterior) to or construction of an addition to an existing structure that is like existing land use if the area to be disturbed has no more than five cumulative acres of new surface disturbance. The following conditions must be met:
+
+(A) The structure and proposed use are compatible with applicable Federal, Tribal, State, and local planning and zoning standards.
+
+(B) The site and scale of construction or improvement is consistent with those of existing, adjacent, or nearby buildings.
+
+(C) The construction or improvement will not result in uses that exceed existing support infrastructure capacities (roads, sewer, water, parking, etc.).
+
+(xix) Demolition of non-historic buildings, structures, or other improvements and repairs that result in disposal of debris therefrom, or removal of a part thereof for disposal, in accordance with applicable regulations, including those regulations applying to removal of asbestos containing materials, Polychlorinated biphenyls (PCBs) and lead based paint, and other special hazard items (REC required).
+
+(xx) Routine installation and use of radars, telemetry systems, communications equipment, and other essentially similar facilities and equipment within a launch facility, mobile platform, military installation, training area, or previously disturbed area that conform to current American National Standards Institute/Institute of Electrical and Electronics Engineers (ANSI/IEEE) guidelines for maximum permissible exposure to electromagnetic fields.
+
+(xxi) Performing interior and exterior construction within the five -foot line of a building without changing the land use of the existing building.
+
+(xxii) Installing, operating, modifying, and routinely repairing and replacing utility and communications systems, data processing cable, and similar electronic equipment that use existing rights of way, easements, distribution systems, or facilities.
+
+(xxiii) Hosting or participating in public events (*e.g.,* air shows, open houses, Earth Day events, and athletic events) where no permanent changes to existing infrastructure (*e.g.,* road systems, parking, and sanitation systems) are required to accommodate all aspects of the event.
+
+(xxiv) Abatement of hazardous materials from existing facilities, including asbestos and lead-based paint, conducted in compliance with all applicable laws, regulations, and requirements established for the protection of human health and the environment. Examples include containment, removal, and disposal of lead-based paint or asbestos tiles and asbestos-containing materials from existing facilities, and remediation of hazardous materials in accordance with all applicable laws, regulations, and requirements as part of facility and space management activities.
+
+(xxv) Renovation, addition, repair, alteration, and demolition projects affecting buildings, roads, airfields, grounds, equipment, and other facilities, including subsequent disposal of debris, which may be contaminated with hazardous materials such as PCBs, lead, or asbestos. Hazardous materials shall be disposed of at approved sites in accordance with Federal, State, and local regulations.
+
+(3) Research, Development, and Science Activities including:
+
+(i) Research, development, testing, and evaluation in compliance with all applicable Federal, State, Tribal, or local laws or requirements and E.O.s. This includes the research, development, testing, and evaluation of scientific instruments proposed for use on spacecraft, aircraft (including unmanned aircraft systems), sounding rockets, balloons, laboratories, watercraft, or other outdoor activities.
+
+(ii) Use of small quantities of radioactive materials used for instrument detectors, calibration, and other purposes. Materials may be associated with the proposed use on spacecraft, aircraft (including unmanned aircraft systems), sounding rockets, balloons, laboratories, watercraft, or other outdoor activities.
+
+(iii) Use of lasers for research and development, scientific instruments and measurements, and distance and ranging, where such use meets all applicable Federal, State, Tribal, or local laws or requirements and E.O.s. This includes lasers associated with spacecraft, aircraft (including unmanned aircraft systems), sounding rockets, balloons, laboratories, watercraft, or other outdoor activities.
+
+(iv) Use of non-space nuclear system payloads on various platforms (*e.g.,* launch vehicle, sounding rocket, scientific balloon, and aircraft) (REC required).
+
+(v) Return of samples from solar system bodies (*e.g.,* asteroids, comets, planets, dwarf planets, and planetary moons) to Earth when categorized as an Unrestricted Earth Return. NASA defines this activity as collecting extraterrestrial materials from solar system bodies, deemed by scientific opinion to have no indigenous life forms, and returning those samples to Earth (REC required).
+
+(vi) Outdoor tests and experiments for the development, quality assurance, or reliability of materials and equipment under controlled conditions. Covered actions include, but are not limited to, burn tests (such as tests of electric cable fire resistance or the combustion characteristics of fuels), impact tests (such as pneumatic ejector tests using earthen embankments or concrete slabs designated and routinely used for that purpose), or drop, puncture, water-immersion, or thermal tests. Covered actions would not involve source, special nuclear, or byproduct materials, except encapsulated sources manufactured to applicable standards that contain source, special nuclear, or byproduct materials may be used for nondestructive actions such as detector/sensor development and testing and first responder field training.
+
+(4) Real and Personal Property Activities including:
+
+(i) Acquisition, transfer, or disposal of any personal property, or personal property rights or interests.
+
+(ii) Granting or accepting easements, leases, licenses, rights-of-entry, and permits to use NASA property, or any non-NASA property, for activities that would be categorically excluded in accordance with this section (REC required).
+
+(iii) Transfer or disposal of real property, property rights, or interests if a resulting change in use is a use that would be categorically excluded under this section (REC required).
+
+(iv) Transferring real property administrative control to another Federal agency, including the return of public domain lands to the Department of the Interior (DoI) or other Federal agencies, and reporting of property as excess and surplus to the General Services Administration (GSA) for disposal, when the agency receiving administrative control (or GSA, following receipt of a report of excess) shall complete any necessary NEPA review prior to any change in land use (REC required).
+
+(v) Acquisition of real property (including facilities) where the land use will not change substantially (REC required).
+
+(vi) Change in the facility status of real property assets (*e.g.,* active or inactive).
+
+(vii) Reductions, realignments, or relocation of personnel into existing federally owned or commercially leased space that does not involve a substantial change affecting the supporting infrastructure (*e.g.,* no increase in vehicular traffic beyond the capacity of the supporting road network to accommodate such an increase).
+
+(viii) Determination by NASA that NASA controlled personal property, including vessels and aircraft, is “excess property”, as that term is defined in the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 102(3)), and any subsequent transfer of such property to another Federal agency's administrative control or conveyance of the United States' title in such property to a non-Federal entity.
+
+(5) Aircraft and Airfield Activities including:
+
+(i) Periodic aircraft (including unmanned aircraft systems) flight activities, including training and research and development, which are routine and comply with applicable Federal, State, Tribal, or local laws or requirements, and E.O.s.
+
+(ii) Relocation of similar aircraft (including unmanned aircraft systems) not resulting in a substantial increase in total flying hours, number of aircraft operations, operational parameters (*e.g.,* noise), or permanent personnel or logistics support requirements at the receiving installation (REC required).
+
+(iii) Supersonic flying aircraft operations over land and above 30,000 feet Mean Sea Level, or over water and above 10,000 feet Mean Sea Level and more than 15 nautical miles from land (REC required).
+
+(h) *Reliance.* Reliance on categorical exclusion determination of other agencies. NASA may also rely on another agency's determination that a categorical exclusion applies to a particular proposed agency action if the agency action covered by that determination and NASA's proposed action are substantially the same, or if NASA's proposed action is a subset of the agency action covered by that determination. NASA will document its reliance on another agency's categorical exclusion determination in a REC.
+
+## Subpart 1216.4—Environmental Assessments
+
+### § 1216.400 Preparation of environmental assessments.
+
+(a) *Generally.* If an action is subject to NEPA, and, unless NASA finds that the proposed action is excluded from having to prepare an environmental assessment or environmental impact statement pursuant to a categorical exclusion, or by another provision of law, NASA will prepare an environmental assessment with respect to a proposed agency action that does not have a reasonably foreseeable significant effect on the quality of the human environment, or if the significance of such effect is unknown.
+
+(b) *Elements.* For providing evidence and analysis for determining whether to prepare an environmental impact statement or a finding of no significant impact, environmental assessments will briefly discuss the:
+
+(1) Purpose and need for the proposed agency action.
+
+(2) Alternatives to the extent required by NEPA sec. 102(2)(H), 42 U.S.C. 4332(2)(H).
+
+(3) The reasonably foreseeable effects of the proposed agency action for each of the alternatives considered.
+
+(c) *Agency actions normally requiring an environmental assessment.* The following classes of actions normally require environmental assessments, but likely do not require an environmental impact statement:
+
+(1) Altering the ongoing operations at a NASA Center where the significance of the environmental effect(s) is unknown.
+
+(2) Construction or modifications of facilities that represent a major change to an existing master plan and could result in a change in the environmental effect(s).
+
+(3) Actions that are expected to result in major changes to established land use that could potentially result in impacts to the environment.
+
+(4) Launching a spacecraft containing a space nuclear system. Space nuclear systems include radioisotope power systems, such as radioisotope thermoelectric generators and radioisotope heater units, and fission systems used for surface power and spacecraft propulsion.
+
+(d) *Page limits.* (1) The text of an environmental assessment will not exceed 75 pages, not including citations, appendices, explanatory maps, diagrams, graphs, tables, and other means of graphically displaying quantitative or geospatial information.
+
+(2) Appendices are to be used for voluminous materials, such as scientific tables, collections of data, statistical calculations, and the like, which substantiate the analysis provided in the environmental assessment. Appendices are not to be used to provide additional substantive analysis because that would circumvent congressionally mandated page limits.
+
+(3) Environmental assessments will be formatted for an 8.5”x11” page with one-inch margins using a word processor with 12-point proportionally spaced font, single spaced. Footnotes may be in 10-point font. Such size restrictions do not apply to explanatory maps, diagrams, graphs, tables, and other means of graphically displaying quantitative or geospatial information, although pages containing such material do count towards the page limit when an item of graphical material is larger than 8.5”x11”, each such item will count as one page.
+
+(4) The breadth and depth of analysis in an environmental assessment will be tailored to ensure that the environmental analysis does not exceed this page limit. In this regard, as part of the finalization of the environmental assessment, a re-certification will be incorporated into the environmental assessment certifying that NASA has considered the factors mandated by NEPA; that the environmental assessment represents NASA's good-faith effort to prioritize documentation of the most important considerations required by the statute within the congressionally mandated page limits; that this prioritization reflects NASA's expert judgment; and that any considerations addressed briefly or left unaddressed were, in NASA's judgment, comparatively not of a substantive nature that meaningfully informed the consideration of environmental effects and the resulting decision on how to proceed.
+
+(e) *Deadlines.* NASA will complete the final environmental assessment not later than the date that is one year after the date on which NASA provides notice on a public-facing website that an environmental assessment will be prepared. The environmental assessment will be published, unless the deadline is extended, at the latest, on the day the deadline elapses in as substantially complete form as is possible.
+
+(f) *Deadline extensions.* If NASA determines it cannot meet the deadline prescribed by NEPA sec. 107(g)(1)(B), 42 U.S.C. 4336a(g)(1)(B), it must consult with the non-Federal entity, if any, pursuant to NEPA sec. 107(g)(2), 42 U.S.C. 4336a(g)(2). After such consultation, if needed, it may establish a new deadline. Cause for establishing a new deadline is only established if the environmental assessment is so incomplete, at the time at which NASA determines it cannot meet the statutory deadline, that issuance would, in NASA's view, result in inadequate analysis. Such new deadline must provide only so much additional time as is necessary to complete such environmental assessment. The announcement of the new deadline will specify the reason why the environmental assessment was not able to be completed under the statutory deadline and whether the non-Federal entity, if any, consented to the new deadline.
+
+(g) *Certification related to deadline.* When the environmental assessment is published, a certification will be incorporated into the environmental assessment certifying that the resulting environmental assessment represents NASA's good-faith effort to fulfill NEPA's requirements within the congressional timeline; that such effort is substantially complete; that, in NASA's expert opinion, it has thoroughly considered the factors mandated by NEPA; and that, in NASA's judgement, the analysis contained therein is adequate to inform and reasonably explain NASA's final decision regarding the proposed Federal action.
+
+(h) *Scope of analysis.* (1) In preparing the environmental assessment, NASA will focus its analysis on whether the environmental effects of the action or project at hand are significant.
+
+(2) Similarly, NASA will document in the environmental assessment where and how it drew a reasonable and manageable line relating to its consideration of any environmental effects from the action or project at hand that extend outside the geographical territory of the project or might materialize later in time.
+
+### § 1216.401 Findings of no significant impact.
+
+(a) NASA will prepare a finding of no significant impact if NASA determines, based on the environmental assessment, not to prepare an environmental impact statement because the proposed action or project at hand will not have significant effects. The finding of no significant impact will:
+
+(1) Include the environmental assessment or incorporate it by reference.
+
+(2) Document the reasons why NASA has determined that the selected alternative will not have a significant adverse effect on the quality of the human environment.
+
+(3) State the authority for any mitigation that NASA has assumed and any applicable monitoring or enforcement provisions. If NASA finds no significant effects based on mitigation, the mitigated finding of no significant impact will state any mitigation requirements enforceable by the agency or voluntary mitigation commitments that will be undertaken to avoid significant effects.
+
+(4) Identify any other environmental documents related to the finding of no significant impact.
+
+(5) State that an environmental impact statement will not be prepared, concluding the NEPA process for that action.
+
+(b) The agency will make the environmental assessment and finding of no significant impact available on a public-facing website.
+
+## Subpart 1216.5—Environmental Impact Statements
+
+### § 1216.500 Preparation of environmental impact statements.
+
+(a) NASA shall prepare an environmental impact statement for actions that are likely to significantly impact the quality of the human environment, including actions for which an environmental assessment demonstrates that significant environmental impacts will potentially occur which will not be reduced or eliminated by changes to the proposed action or mitigation of its potentially significant environmental impacts. Whether an impact rises to the level of “significant” is a matter of NASA's expert judgment. An environmental impact statement shall be prepared and published in accordance with 42 U.S.C. 4332(C) and § 1216.601.
+
+(b) NASA actions normally requiring an environmental impact statement include:
+
+(1) Development and operation of new NASA-developed launch vehicles or space transportation systems.
+
+(2) Management, including recovery, transport, and curation, of sample returns to Earth from solar system bodies (such as asteroids, comets, planets, dwarf planets, and planetary moons) that would receive a Restricted Earth Return categorization. NASA requires such a mission to include additional measures to ensure any potential indigenous life form would be contained so it could not adversely impact humans or Earth's environment.
+
+(3) Substantial construction projects expected to result in significant adverse effect(s) on the quality of the human and natural environment when such construction and its effects are not within the scope of an existing master plan.
+
+(c) During the process of preparing an environmental impact statement, NASA:
+
+(1) Will obtain the comments of:
+
+(i) Any Federal agency that has jurisdiction by law or special expertise with respect to any environmental impact of the action or project at hand or is authorized to develop and enforce environmental standards that govern the action or project at hand.
+
+(ii) Appropriate State, Tribal, and local agencies that are authorized to develop and enforce environmental standards.
+
+(2) May request the comments of:
+
+(i) State, Tribal, or local governments that may be affected by the proposed action.
+
+(ii) Any agency that has requested it receive statements on actions of the kind proposed.
+
+(iii) The non-Federal project sponsor, if any.
+
+(iv) The public, including by affirmatively soliciting comments in a manner designed to inform those persons or organizations who may be interested in or affected by the proposed action.
+
+(d) The process of obtaining and requesting comments in paragraph (c) of this section may be undertaken at any time that is reasonable in the process of preparing the environmental impact statement. NASA will ensure that the process of obtaining and requesting comments, and NASA's analysis of and response to those comments, does not cause NASA to violate the congressionally mandated deadline for completion of an environmental impact statement.
+
+(e) NASA will address any substantive comments received consistent with paragraph (c) of this section in the environmental impact statement. Based on substantive comments and/or recommendations, NASA may consider such responses by:
+
+(1) Modifying alternatives, including the proposed action.
+
+(2) Developing and evaluating alternatives not previously considered.
+
+(3) Supplementing, improving, or modifying analyses, to include consideration of science or literature not previously considered.
+
+(4) Making factual corrections.
+
+(5) The agency may provide brief rationale for taking no action, such as:
+
+(i) The comment is outside the scope of what is being proposed.
+
+(ii) There is no cause-effect relationship between the actions the agency is proposing and the issue raised and/or recommendation made.
+
+(iii) The commenter misinterpreted the information provided.
+
+(iv) The recommendation made does not comply with applicable laws or regulations and/or is not technically or economically feasible to implement.
+
+(v) The comment was received outside the timeframe provided for such comments.
+
+### § 1216.501 Purpose and need.
+
+The environmental impact statement will include the purpose and need for the proposed agency action based on NASA's statutory authority. When the proposed agency action concerns a non-Federal project sponsor, the purpose and need for the proposed agency action will also be informed by the goals of the non-Federal project sponsor.
+
+### § 1216.502 Analysis within the environmental impact statement.
+
+(a) The environmental impact statement will include a detailed statement on:
+
+(1) A reasonable range of alternatives to the proposed agency action, including an analysis of any adverse environmental impacts of not implementing the proposed agency action in the case of a no action alternative, that are, in NASA's expert judgment, technically and economically feasible and meet the purpose and need of the proposal.
+
+(2) Reasonably foreseeable environmental effects of the proposed agency action and alternatives including the no action alternative.
+
+(3) Any reasonably foreseeable adverse environmental effects which cannot be avoided should the proposal be implemented.
+
+(4) The relationship between local short-term uses of the human environment and the maintenance and enhancement of long-term productivity.
+
+(5) Any irreversible and irretrievable commitments of Federal resources which would be involved in the proposed agency action should it be implemented.
+
+(6) Any means identified to mitigate adverse environmental effects of the proposed action. NASA is mindful in this respect that NEPA itself does not require or authorize NASA to impose any mitigation measures in environmental impact statements.
+
+(b) The environmental impact statement will define a scope of analysis.
+
+(1) In preparing the environmental impact statement, NASA will focus its analysis on whether the environmental effects of the action or project at hand are significant.
+
+(2) Similarly, NASA will document in the environmental impact statement where and how it drew a reasonable and manageable line relating to its consideration of any environmental effects from the action or project at hand that extend outside the geographical territory of the project or might materialize later in time.
+
+(c) Environmental impact statements will discuss effects in proportion to their significance. With respect to issues that are not of a substantive nature, lack a close causal connection, and do not meaningfully inform the consideration of environmental effects and the resulting decision on how to proceed, there will be no more than the brief possible discussion to explain why those issues are not substantive and therefore not worthy of any further analysis. Environmental impact statements will be analytic, concise, and no longer than necessary to comply with NEPA considering the congressionally mandated page limits and deadlines.
+
+### § 1216.503 Page limits.
+
+(a) Except as provided in paragraph (b) of this section, the text of an environmental impact statement will not exceed 150 pages, not including citations, appendices, explanatory maps, diagrams, graphs, tables, and other means of graphically displaying quantitative or geospatial information.
+
+(b) An environmental impact statement for a proposed agency action of extraordinary complexity is strictly prohibited from exceeding 300 pages, not including any citations, appendices, explanatory maps, diagrams, graphs, tables, and other means of graphically displaying quantitative or geospatial information. NASA will determine at the earliest possible stage of preparation of an environmental impact statement whether the conditions for exceeding the page limit in paragraph (a) of this section are present.
+
+(c) Appendices are to be used for voluminous materials, such as scientific tables, collections of data, statistical calculations, and the like, which substantiate the analysis provided in the environmental impact statement. Appendices are not to be used to provide additional substantive analysis, because that would circumvent the congressionally mandated page limits.
+
+(d) Environmental impact statements will be prepared on 8.5″ x 11″ paper with one-inch margins using a word processor with 12-point proportionally spaced font, single spaced. Footnotes may be in 10-point font. Such size restrictions do not apply to explanatory maps, diagrams, graphs, tables, and other means of graphically displaying quantitative or geospatial information, although pages containing such material do count towards the page limit when an item of graphical material is larger than 8.5″ x 11″, each such item will count as one page.
+
+(e) The breadth and depth of analysis in an environmental impact statement will be tailored to ensure that the environmental impact statement does not exceed these page limits. In this regard, as part of the finalization of the environmental impact statement, a certification will be incorporated into the environmental impact statement certifying that NASA has considered the factors mandated by NEPA; that the environmental impact statement represents NASA's good-faith effort to prioritize documentation of the most important considerations required by the statute within the congressionally mandated page limits; that this prioritization reflects NASA's expert judgment; and that any considerations addressed briefly or left unaddressed were, in NASA's judgment, comparatively unimportant or frivolous.
+
+### § 1216.504 Deadlines.
+
+(a) NASA will complete the final environmental impact statement not later than the date that is two years after the date on which NASA provides notice of intent on a public-facing website that an environmental impact statement will be prepared.
+
+(b) The environmental impact statement will be published (unless the deadline is extended) on the day the deadline elapses, in as substantially complete form as is possible.
+
+(c) If NASA determines it cannot meet the deadline prescribed by NEPA sec. 107(g)(1)(A), 42 U.S.C. 4336a(g)(1)(A), it must consult with the non-Federal project sponsor, if any, pursuant to NEPA sec. 107(g)(2), 42 U.S.C. 4336a(g)(2). After such consultation, if needed, it may establish a new deadline. Cause for establishing a new deadline is only established if the environmental impact statement is so incomplete, at the time at which NASA determines it cannot meet the statutory deadline, that issuance would, in NASA's view, result in an inadequate analysis. Such new deadline must provide only so much additional time as is necessary to complete such environmental impact statement. The announcement of the new deadline will specify the reason why the environmental impact statement was not able to be completed under the statutory deadline and whether the non-Federal project sponsor, if any, consented to the new deadline.
+
+(d) When the environmental impact statement is published, a certification will be incorporated into the environmental impact statement certifying that the resulting environmental impact statement represents NASA's good-faith effort to fulfill NEPA's requirements within the congressional timeline; that such effort is substantially complete; and that, in NASA's expert opinion, it has thoroughly considered the factors mandated by NEPA; and that, in NASA's judgment, the analysis contained therein is adequate to inform and reasonably explain NASA's final decision regarding the proposed Federal action.
+
+### § 1216.505 Publication of the environmental documents.
+
+NASA will publish the entire environmental impact statement and record of decision on a public-facing NASA website. During the process of preparing the environmental impact statement, NASA may publish such draft, pre-decisional materials as in its judgment may assist in fulfilling its responsibilities under NEPA and this subpart. NASA will also file with EPA as required under § 1216.701.
+
+## Subpart 1216.6—Efficient Environmental Reviews
+
+### § 1216.600 Lead, cooperating, and participating agencies.
+
+(a) NASA shall serve as the lead Federal agency for proposed actions which it proposes and over which no other Federal agency has jurisdiction by law to permit, approve, or authorize a required aspect of the proposed action. When serving as the lead agency, NASA is ultimately responsible for completing the NEPA process and will determine and document the scope of the project at hand. When a joint lead relationship is established pursuant to NEPA sec. 107(a)(1)(B), 42 U.S.C. 4336a(a)(1)(B), NASA and the other joint lead agency or agencies are collectively responsible for completing the NEPA process.
+
+(b) If NASA shares responsibility with another Federal agency for NEPA compliance, NASA and the other agency shall, prior to issuing a notice to prepare an environmental assessment or environmental impact statement, determine by letter or memorandum, which agency shall be the lead agency based on consideration of the:
+
+(1) Magnitude of each agency's involvement.
+
+(2) Project approval or disapproval authority.
+
+(3) Expertise concerning the proposed action's environmental effects.
+
+(4) Duration of each agency's involvement.
+
+(5) Sequence of each agency's involvement.
+
+(c) In deciding under paragraph (b) of this section, NASA and other participating Federal agencies may agree to appoint such State, Tribal, or local agencies as joint lead agencies as the involved Federal agencies determine to be necessary.
+
+(d) When serving as the lead agency, NASA may, with respect to a proposed agency action, designate any Federal, State, Tribal, or local agency that has jurisdiction by law or special expertise with respect to any environmental impact involved in a proposal to serve as a cooperating agency. A cooperating agency may, not later than a date specified in the schedule established by NASA, submit comments on the environmental document being prepared for the proposed action.
+
+(e) NASA may request other Federal, State, Tribal, or local agencies to serve as participating agencies in the NEPA process where the Federal, State, Tribal, or local agency has particularized knowledge regarding an aspect of the project that will beneficially inform development of the environmental document and subsequent final agency decision making on the proposed action. A participating agency may, not later than a date specified in the schedule established by NASA, submit comments on the environmental document being prepared for the proposed action.
+
+(f) To the extent practicable, NASA will prepare a single, coordinated environmental document for NEPA actions with joint, cooperating, and participating agencies.
+
+### § 1216.601 Public notice during the NEPA process.
+
+(a) For every environmental impact statement prepared by NASA, the following requirements, at a minimum, shall be implemented:
+
+(1) Publication of a notice of intent to prepare an environmental impact statement on a public-facing website. The notice of intent for an environmental impact statement will include a request for public comments on alternatives or effects and on relevant information, studies, or analyses with respect to the proposed agency action. In addition to a request for comment required for notices of intent for environmental impact statements, the notice of intent may include:
+
+(i) The purpose and need for the proposed action;
+
+(ii) A preliminary description of the proposed action and alternatives the environmental impact statement will consider;
+
+(iii) A brief summary of expected effects;
+
+(iv) Anticipated permits and other authorizations (*i.e.,* anticipated related actions);
+
+(v) A schedule for the decision-making process;
+
+(vi) A description of the public scoping process, including any scoping meeting(s);
+
+(vii) Contact information for a person within NASA who can answer questions about the proposed action and the environmental impact statement; and
+
+(viii) Identification of any cooperating and participating agencies and any information that such agencies require in the notice to facilitate their decisions or authorizations.
+
+(2) Publication of a notice of availability and notice of additional public meetings, and/or additional request for comments (collectively, “NOA”), as applicable, for the environmental impact statement on a public-facing website.
+
+(i) The NOA may solicit public comment on the sufficiency of the environmental analysis set forth in the environmental impact statement, and should announce the date, time, and location of any public meetings, either in-person or virtual, concerning the proposed action.
+
+(ii) [Reserved]
+
+(3) Publication of the record of decision, if applicable, on a public-facing website.
+
+(b) For every environmental assessment prepared by NASA, the following requirements, at a minimum, shall be implemented:
+
+(1) NASA will provide notice on a public-facing website that an environmental assessment will be prepared.
+
+(2) NASA will make the environmental assessment and finding of no significant impact available on a public-facing website.
+
+(c) NASA may use an early and open process to determine the scope of issues for analysis in an environmental document, including identifying substantive issues that meaningfully inform the consideration of environmental effects and the resulting decision on how to proceed, eliminating from further study non-substantive issues, and determining whether connected actions should be addressed in the same environmental document. Scoping may begin as soon as practicable after the proposal for action is sufficiently developed for consideration. Scoping may include appropriate pre-application procedures or work conducted prior to publication of the notice of intent.
+
+### § 1216.602 Programmatic environmental documents, tiering, reliance, and including material by reference.
+
+(a) For actions that require environmental assessments or environmental impact statements, NASA will undertake programmatic-level analysis for actions that are similar in nature, broad in scope, or likely to have similar environmental effects, as applicable. Programmatic NEPA analyses may take place in the form of an environmental assessment or environmental impact statement.
+
+(b) Tiering from previously prepared environmental impact statements or environmental assessments is appropriate when it would eliminate repetitive discussions of the same issues and exclude from consideration issues already decided. Tiering from a programmatic-level NEPA document is appropriate for site- or project-specific actions that are included within the scope of the programmatic-level analysis.
+
+(c) NASA may use programmatic environmental impact statements or environmental assessments without additional review for five years from the publication date unless there are substantial new circumstances or information about the significance of adverse effects that bear on the analysis
+
+(d) After five years, NASA may use programmatic environmental impact statements and environmental assessments after the analysis and assumptions in the environmental impact statement or environmental assessment are reevaluated to ensure reliance of the analysis is still valid. Reevaluation will be documented in a record of environmental consideration or memorandum to the file, including explanation for why the analysis remains valid considering any new and substantial information or circumstances.
+
+(e) NASA may rely on another Federal agency's environmental impact statement or environmental assessment, or portion thereof, if NASA conducts an independent review of the document and concludes that it meets the standards for an adequate environmental impact review, pursuant to this part and 42 U.S.C. 4321 *et seq.* When relying on an environmental impact statement, environmental assessment, or portion thereof, NASA will cite, briefly describe the content and relevance to the environmental document, and may make modifications that are necessary to render the relied-upon document, or portion thereof, fit for fulfilling NEPA's analytic requirements for the action at hand.
+
+(1) If the actions covered by the original environmental impact statement or environmental assessment and the proposed action are substantially the same, NASA will republish the relied-upon statement or assessment.
+
+(2) If the actions are not substantially the same, NASA may modify the statement or assessment as necessary to render the statement fit for fulfilling NEPA's analytic requirements for the action at hand, and publish the relied-upon statement or assessment, as modified. Where appropriate, NASA may solicit comment to the extent that solicitation of comment will assist NASA in expeditiously adapting the relied-upon statement or assessment so that it is fit for NASA's purposes.
+
+(f) NASA shall include by reference material such as planning studies, analyses, or other relevant information, into an environmental impact statement or environmental assessment when the effect will be to cut down on bulk without impeding NASA and public review of the action. NASA shall cite the referenced material in the document and briefly describe its content. NASA shall not include material by reference unless it is reasonably available for inspection by potentially interested persons. NASA shall not include by reference material based on proprietary data that is not available for review and comment. NASA shall not use inclusion by reference to evade the statutory page limits.
+
+### § 1216.603 Combining documents.
+
+NASA will combine, to the fullest extent practicable, any NEPA document with any other Federal agency NEPA document to reduce duplication and paperwork.
+
+### § 1216.604 Supplements to environmental documents.
+
+(a) In cases where a major Federal action remains to occur, supplemental documentation may be required for previously prepared environmental assessments or environmental impact statements under the following circumstances:
+
+(1) If substantial changes are made to the proposed action that are relevant to environmental concerns.
+
+(2) There are significant new circumstances or information relevant to environmental concerns and bearing on the proposed action and its impacts.
+
+(3) NASA determines that the purposes of NEPA will be furthered by doing so.
+
+(b) The preparation of a supplemental environmental assessment or environmental impact statement shall be undertaken using the same procedural requirements as the initial document however, in the event a supplement to an environmental impact statement is required, public scoping shall not be required unless, at NASA's discretion, it is determined to be necessary or would otherwise further the purposes of NEPA.
+
+(c) When it is unclear if an environmental assessment or environmental impact statement supplement is required, NASA may prepare a written reevaluation.
+
+(1) The written reevaluation will discuss the circumstances that are pertinent to deciding whether to prepare a supplemental environmental assessment or environmental impact statement.
+
+(2) The written reevaluation will contain sufficient information for NASA to determine whether:
+
+(i) An existing environmental assessment or environmental impact statement should be supplemented;
+
+(ii) A new environmental assessment or environmental impact statement should be prepared; or
+
+(iii) No further NEPA documentation is required.
+
+(3) NASA shall make the determination and the related written reevaluation available to the public for information.
+
+(d) When applicable, NASA shall incorporate the determination and supporting written reevaluation into the administrative record related to the action that is the subject of the environmental assessment or environmental impact statement supplement or determination.
+
+### § 1216.605 Integrity and completeness of information.
+
+(a) NASA will not undertake new scientific and technical research to inform its analyses unless it is essential to a reasoned choice among alternatives and the overall costs and time frame of such undertaking are not unreasonable. Rather, NASA will make use of reliable existing data and resources.
+
+(b) When NASA is evaluating an action's reasonably foreseeable effects on the human environment, and there is incomplete or unavailable information that cannot be obtained at a reasonable cost or the means to obtain it are unknown, NASA will make clear in the relevant NEPA document that such information is lacking.
+
+### § 1216.606 Integrating NEPA with other environmental requirements.
+
+(a) To the fullest extent possible, NASA will prepare NEPA documents concurrently with and integrated with analyses and related surveys and studies required by other Federal statutes.
+
+(b) NASA will combine a NEPA document with any other agency document to reduce duplication and paperwork. Thus, NASA may combine a NEPA document with related plans, rules, or amendments as a single consolidated document.
+
+(c) If comments on a notice of intent or other aspects of a scoping process identify consultations, permits, or licenses necessary under other environmental laws, the NEPA document may contain a section briefly listing the applicable requirements and how NASA or a non-Federal entity has or will meet them (*e.g.,* permits applied for or received, consultations initiated or concluded).
+
+### § 1216.607 Mitigation and monitoring.
+
+(a) When the analysis proceeds to an environmental assessment or environmental impact statement and mitigation measures are assumed for the purpose of avoiding or reducing the significance of environmental impacts, such mitigation measures will be identified in the finding of no significant impact or the record of decision.
+
+(b) NASA or the non-Federal project sponsor shall implement mitigation measures (including adaptive management strategies, where appropriate) consistent with applicable finding of no significant impact and/or record of decision and as required shall monitor their implementation and effectiveness.
+
+(c) The NASA responsible official or non-Federal project sponsor shall ensure that funding for such mitigation measures is included in the program or project budget.
+
+### § 1216.608 Elimination of duplication with State, Tribal, and local procedures.
+
+(a) NASA will cooperate with State, Tribal, and local agencies that are responsible for preparing environmental documents.
+
+(b) To the fullest extent practicable unless specifically prohibited by law, NASA will cooperate with State, Tribal, and local agencies to reduce duplication between NEPA and State, Tribal, and local requirements, including through use of studies, analysis, and decisions developed by State, Tribal, or local agencies. Such cooperation may include:
+
+(1) Joint planning processes.
+
+(2) Joint environmental research and studies.
+
+(3) Joint public meetings (except where otherwise provided by statute).
+
+(4) Joint environmental documents.
+
+### § 1216.609 Emergencies.
+
+When NASA determines that emergency circumstances exist which make it necessary to take immediate response and/or recovery action(s) before preparing a NEPA analysis, then the following provisions apply:
+
+(a) NASA may undertake immediate emergency response and/or recovery action(s) necessary to protect life, property, or important natural, cultural, or historic resources. When taking such action(s), NASA shall, to the extent practicable, mitigate reasonably foreseeable adverse environmental impacts.
+
+(b) If NASA proposes emergency response and/or recovery actions that will continue beyond those needed to immediately protect life, property, and important natural, cultural, or historic resources, NASA shall determine the appropriate level of NEPA compliance.
+
+(c) If continuation of the emergency actions will reasonably result in significant environmental impacts, NASA shall notify CEQ about alternative arrangements for compliance.
+
+### § 1216.610 Classified actions.
+
+(a) The classified status of a proposed action does not relieve NASA of the requirement to assess, document, and consider the environmental impacts of the proposed action.
+
+(b) When classified information can reasonably be separated from other information and a meaningful environmental analysis can be produced, unclassified documents will be prepared and processed in accordance with this section. Classified portions will be kept separate and provided to properly cleared reviewers and decision makers in the form of a properly classified document that meets the requirements of this section to the extent permitted, given such classification.
+
+## Subpart 1216.7—Agency Decision Making
+
+### § 1216.700 Decision documents.
+
+At the time of its decision on its proposed action, NASA may prepare and timely publish a concise public decision document, notifying the public that the decision maker has certified that NASA has considered all relevant information raised in the NEPA process and that the NEPA process has closed, pursuant to §§ 1216.400(e) and 1216.504.
+
+### § 1216.701 Filing requirements.
+
+NASA will file environmental impact statements together with comments and responses with the Environmental Protection Agency (EPA), for publication in the *Federal Register*.
+
+## Subpart 1216.8—Procedures for Non-Federal Project Sponsor-Prepared NEPA Documents
+
+### § 1216.800 Procedures for non-Federal project sponsor-prepared environmental documents.
+
+(a) A non-Federal project sponsor may request to prepare an environmental assessment or environmental impact statement. If the request is approved, the non-Federal project sponsor shall undertake preparation of the environmental document under the supervision of NASA.
+
+(b) The non-Federal project sponsor shall ensure that the environmental document's analysis is sufficient to meet the requirements of NEPA and this part, including the potential impacts on the natural and human environments and sufficient information that complies with all applicable Federal, Tribal, and State requirements for the protection of the environment.
+
+(c) The non-Federal project sponsor shall coordinate with NASA on communications to other Federal, State, local, and Tribal agencies with respect to permits, licenses, consultations, approvals, and authorizations associated with the proposed action.
+
+(d) A non-Federal project sponsor must include a lifecycle analysis of the proposed action and alternatives (*i.e.,* construction, operation, and decommissioning of the proposed project).
+
+(e) NASA must approve the scope of analysis (*e.g.,* natural, cultural, and socioeconomic resources; and environmental media) required for completion of the appropriate environmental document. NASA will provide appropriate guidance and assist in environmental document preparation, to the extent that NASA's resources and policy priorities admit. NASA will work with the non-Federal project sponsor to define the purpose and need, and, when appropriate, to develop a reasonable range of alternatives to meet that purpose and need.
+
+(f) NASA will decide whether an environmental assessment or environmental impact statement requires public engagement. If required, the non-Federal project sponsor shall coordinate with NASA in all aspects of the public engagement process, including, but not limited to, the publication of notices (intent, public meetings, availability of environmental documents) in publicly available media (*i.e.,* local, regional, national news outlets of broad circulation; social media outlets; public-facing websites); the preparation of a public engagement plan; the preparation of all public meeting materials or media packages; and any other materials that support public engagement in the NEPA process.
+
+(g) The non-Federal project sponsor shall allow the participation of joint, cooperating, or participating agencies, as appropriate.
+
+(h) The non-Federal project sponsor may prepare a “confidential business information” (CBI) or “proprietary information” annex to the environmental document which it prepares. Upon review and approval by NASA, this information may be withheld from public dissemination, but the CBI/proprietary information annex will be incorporated as part of the final administrative record.
+
+(i) The non-Federal project sponsor shall meet all requirements of this part, including the timeframes for completion of the environmental document as set forth in §§ 1216.400(e) and 1216.504(a). Major changes to the schedule or related matters will be documented through written correspondence.
+
+(j) NASA shall assist in the preparation of the non-Federal project sponsor's environmental document, independently evaluate the environmental document, and be responsible for the environmental document's analytical and legal sufficiency. NASA shall be responsible for issuing any record of decision or finding of no significant impact as may be required.
+
+(k) Non-Federal project sponsors intending to pay a fee for an expedited environmental impact statement or environmental assessment deadline pursuant to section 112 of NEPA for which NASA would be the lead agency should consult with NASA before submitting a request to the CEQ. NASA will use such consultation to assist the non-Federal project sponsor in providing an accurate description of the project as it relates to the anticipated environmental impact statement or environmental assessment-associated government costs and understanding the anticipated scope of the environmental review including whether to prepare an environmental assessment or an environmental impact statement.
+
+## Subpart 1216.9—Definitions
+
+### § 1216.900 Definitions.
+
+As used in this part, terms have the meanings provided in NEPA sec. 111, 42 U.S.C. 4336e. In addition:
+
+(a) *Authorization* means any license, permit, approval, finding, determination, or other administrative decision issued by an agency that is required or authorized under Federal law to implement a proposed action.
+
+(b) *Connected action* means a separate Federal action within the authority of NASA that is closely related to the proposed agency action and should be addressed in a single environmental document because the proposed agency action:
+
+(1) Automatically triggers the separate Federal action, which independently would require the preparation of additional environmental documents.
+
+(2) Cannot proceed unless the separate Federal action is taken previously or simultaneously.
+
+(3) Is an interdependent part of a larger Federal action that includes a separate Federal action, which mutually depends on the larger Federal action for their justification.
+
+(c) *Council* or *CEQ* means the Council on Environmental Quality.
+
+(d) *Effects* or *impacts* means changes to the human environment from the proposed action or alternatives that are reasonably foreseeable and have a reasonably close geographic and temporal causal relationship to the proposed action or alternatives.
+
+(1) Effects include ecological (*e.g.,* effects on natural resources and on the components, structures, and functioning of affected ecosystems), aesthetic, historic, cultural, economic (*e.g.,* effects on employment), social, or health effects. Effects appropriate for analysis under NEPA may be either beneficial or adverse, or both, with respect to these values.
+
+(2) A “but for” causal relationship is insufficient to make an agency responsible for a particular effect under NEPA. Effects should generally not be considered if they are remote in time, geographically remote, or the product of a lengthy causal chain. Effects do not include those effects that the agency has no ability to prevent due to the limits of its regulatory authority, or that would occur regardless of the proposed action, or that would need to be initiated by a third party.
+
+(e) *Human environment* means comprehensively the natural and physical environment and the relationship of present and future generations with that environment. (See also the definition of *effects* in paragraph (d) of this section.)
+
+(f) *Jurisdiction by law* means agency authority to approve, veto, or finance all or part of the proposal.
+
+(g) *Major Federal action,* as defined in 42 U.S.C. 4336e (10):
+
+(1) *In general.* The term *major Federal action* means an action that the agency carrying out such action determines is subject to substantial Federal control and responsibility.
+
+(2) *Exclusion.* the term *major Federal action* does not include:
+
+(i) A non-Federal action—
+
+(A) With no or minimal Federal funding; or
+
+(B) With no or minimal Federal involvement where a Federal agency cannot control the outcome of the project;
+
+(ii) Funding assistance solely in the form of general revenue sharing funds which do not provide Federal agency compliance or enforcement responsibility over the subsequent use of such funds;
+
+(iii) Loans, loan guarantees, or other forms of financial assistance where a Federal agency does not exercise sufficient control and responsibility over the subsequent use of such financial assistance or the effect of the action;
+
+(iv) Business loan guarantees provided by the Small Business Administration pursuant to section 7(a) or (b) and of the Small Business Act (U.S.C. 636(a)), or title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 *et seq.*);
+
+(v) Bringing judicial or administrative civil or criminal enforcement actions;
+
+(vi) Extraterritorial activities or decisions, which means agency activities or decisions with effects located entirely outside of the jurisdiction of the United States; or
+
+(vii) Activities or decisions that are non-discretionary and made in accordance with the agency's statutory authority.
+
+(h) *Mitigation* means measures that avoid, minimize, or compensate for effects caused by a proposed action or alternatives as described in an environmental document or record of decision and that have a nexus to those effects. While NEPA requires consideration of mitigation, it does not mandate the form or assumption of any mitigation. Mitigation includes:
+
+(1) Avoiding the impact altogether by not taking a certain action or parts of an action.
+
+(2) Minimizing effects by limiting the degree or magnitude of the action and its implementation.
+
+(3) Rectifying the impact by repairing, rehabilitating, or restoring the affected environment.
+
+(4) Reducing or eliminating the impact over time by preservation and maintenance operations during the life of the action.
+
+(5) Compensating for the impact by replacing or providing substitute resources or environments.
+
+(i) *NASA Responsible Official* is the NASA official who will ensure that planning and decision-making for each proposed Agency action complies with the regulations in this subpart and with Agency NEPA policy and guidance.
+
+(j) *NEPA* means the National Environmental Policy Act, as amended (42 U.S.C. 4321, *et seq.*).
+
+(k) *Notice of intent* means a public notice that an agency will prepare an environmental document and consider public comments.
+
+(l) *Participating agency* means a Federal, State, Tribal, or local agency participating in an environmental review or authorization of an action.
+
+(m) *Reasonable alternatives* mean a reasonable range of alternatives that are technically and economically feasible, meet the purpose and need for the proposed action, and, where applicable, meet the goals of the agency or the non-Federal project sponsor.
+
+(n) *Reasonably foreseeable* means sufficiently likely to occur such that a person of ordinary prudence would take it into account in reaching a decision.
+
+(o) *Record of environmental consideration* is a brief document that is used to describe a proposed action and explain why further environmental analysis is or is not required.
+
+(p) *Scope* consists of the range of actions, alternatives, and effects to be considered in an environmental document. The scope of a NEPA document may depend on its relationships to other NEPA documents.
+
+(q) *Tiering* refers to the coverage of general matters in broader environmental impact statements or environmental assessments (such as national program or policy statements) with subsequent narrower statements or environmental analyses (such as regional or basin-wide program statements or ultimately site-specific statements) incorporating by reference the general discussion and concentrating solely on the issues specific to the statement subsequently prepared.
+
+## Subpart 1216.10—Severability
+
+### § 1216.1000 Severability.
+
+The subparts of this part are separate and severable from one another. If any subpart or portion therein is stayed or determined to be invalid, or the applicability of any subpart or portion therein to any person or entity is held invalid, it is NASA's intention that the validity of the remainder of the subparts will not be affected, with the remaining subparts or portions therein to continue in effect.

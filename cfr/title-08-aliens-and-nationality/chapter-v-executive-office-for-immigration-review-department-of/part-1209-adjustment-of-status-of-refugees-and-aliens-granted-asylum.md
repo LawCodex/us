@@ -1,0 +1,76 @@
+---
+title: "8 CFR Part 1209 — ADJUSTMENT OF STATUS OF REFUGEES AND ALIENS GRANTED ASYLUM"
+identifier: "8 CFR Part 1209"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-01  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-8/part-1209"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "02-Oct-2026 21:59"
+---
+
+*Title 8—Aliens and Nationality › CHAPTER V—EXECUTIVE OFFICE FOR IMMIGRATION REVIEW, DEPARTMENT OF JUSTICE › SUBCHAPTER B—IMMIGRATION REGULATIONS*
+
+# PART 1209—ADJUSTMENT OF STATUS OF REFUGEES AND ALIENS GRANTED ASYLUM
+
+**Authority:** 8 U.S.C. 1101, 1103, 1157, 1158, 1159, 1228, 1252, 1282; Title VII of Pub. L. 110-229; Pub. L. 115-218.
+
+**Source:** Duplicated from part 209 at 68 FR 9835, Feb. 28, 2003
+
+**Editorial Note:**
+
+Nomenclature changes to part 1209 appear at 68 FR 9846, Feb. 28, 2003.
+
+## § 1209.1 Adjustment of status of refugees.
+
+The provisions of this section shall provide the sole and exclusive procedure for adjustment of status by a refugee admitted under section 207 of the Act whose application is based on his or her refugee status.
+
+(a) *Eligibility.* (1) Every alien in the United States who is classified as a refugee under part 207 of this chapter, whose status has not been terminated, is required to apply to the Service 1 year after entry in order for the Service to determine his or her admissibility under section 212 of the Act.
+
+(2) Every alien processed by the Immigration and Naturalization Service abroad and paroled into the United States as a refugee after April 1, 1980, and before May 18, 1980, shall be considered as having entered the United States as a refugee under section 207(a) of the Act.
+
+(b) *Application.* Upon admission to the United States, every refugee entrant shall be notified of the requirement to submit an application for permanent residence 1 year after entry. An application for the benefits of section 209(a) of the Act shall be filed on Form I-485, without fee, with the director of the appropriate Service office identified in the instructions which accompany the Form I-485. A separate application must be filed by each alien. Every applicant who is 14 years of age or older must submit a completed Form G-325A (Biographical Information) with the Form I-485 application. Following submission of the Form I-485 application, a refugee entrant who is 14 years of age or older will be required to execute a Form FD-258 (Applicant Fingerprint Card) at such time and place as the Service will designate.
+
+(c) *Medical examination.* A refugee seeking adjustment of status under section 209(a) of the Act is not required to repeat the medical examination performed under § 207.2(c) of chapter I, unless there were medical grounds of inadmissibility applicable at the time of admission. The refugee is, however, required to establish compliance with the vaccination requirements described under section 212(a)(1)(A)(ii) of the Act, by submitting with the adjustment of status application a vaccination supplement, completed by a designated civil surgeon in the United States.
+
+(d) *Interview.* The Service director having jurisdiction over the application will determine, on a case-by-case basis, whether an interview by an immigration officer is necessary to determine the applicant's admissibility for permanent resident status under this part.
+
+(e) *Decision.* The director will notify the applicant in writing of the decision of his or her application for admission to permanent residence. If the applicant is determined to be inadmissible or no longer a refugee, the director will deny the application and notify the applicant of the reasons for the denial. The director will, in the same denial notice, inform the applicant of his or her right to renew the request for permanent residence in removal proceedings under section 240 of the Act. There is no appeal of the denial of an application by the director, but such denial will be without prejudice to the alien's right to renew the application in removal proceedings under part 240 of this chapter. If the applicant is found to be admissible for permanent residence under section 209(a) of the Act, the director will approve the application and admit the applicant for lawful permanent residence as of the date of the alien's arrival in the United States. An alien admitted for lawful permanent residence will be issued Form I-551, Alien Registration Receipt Card.
+
+[63 FR 30109, June 3, 1998, as amended at 68 FR 10353, Mar. 5, 2003]
+
+## § 1209.2 Adjustment of status of alien granted asylum.
+
+The provisions of this section shall be the sole and exclusive procedure for adjustment of status by an asylee admitted under section 208 of the Act whose application is based on his or her asylee status.
+
+(a) *Eligibility.* (1) Except as provided in paragraph (a)(2) or (a)(3) of this section, the status of any alien who has been granted asylum in the United States may be adjusted to that of an alien lawfully admitted for permanent residence, provided the alien:
+
+(i) Applies for such adjustment;
+
+(ii) Has been physically present in the United States for at least one year after having been granted asylum;
+
+(iii) Continues to be a refugee within the meaning of section 101(a)(42) of the Act, or is the spouse or child of a refugee;
+
+(iv) Has not been firmly resettled in any foreign country; and
+
+(v) Is admissible to the United States as an immigrant under the Act at the time of examination for adjustment without regard to paragraphs (4), (5)(A), (5)(B), and (7)(A)(i) of section 212(a) of the Act, and (vi) has a refugee number available under section 207(a) of the Act.
+
+If the application for adjustment filed under this part exceeds the refugee numbers available under section 207(a) of the Act for the fiscal year, a waiting list will be established on a priority basis by the date the application was properly filed.
+
+(2) An alien, who was granted asylum in the United States prior to November 29, 1990 (regardless of whether or not such asylum has been terminated under section 208(b) of the Act), and is no longer a refugee due to a change in circumstances in the foreign state where he or she feared persecution, may also have his or her status adjusted by the director to that of an alien lawfully admitted for permanent residence even if he or she is no longer able to demonstrate that he or she continues to be a refugee within the meaning of section 10l(a)(42) of the Act, or to be a spouse or child of such a refugee or to have been physically present in the United States for at least one year after being granted asylum, so long as he or she is able to meet the requirements noted in paragraphs (a)(1)(i), (iv), and (v) of this section. Such persons are exempt from the numerical limitations of section 209(b) of the Act. However, the number of aliens who are natives of any foreign state who may adjust status pursuant to this paragraph in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Act and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of the Act. Aliens who applied for adjustment of status under section 209(b) of the Act before June 1, 1990, are also exempt from its numerical limitation without any restrictions.
+
+(3) No alien arriving in or physically present in the Commonwealth of the Northern Mariana Islands may apply to adjust status under section 209(b) of the Act in the Commonwealth of the Northern Mariana Islands prior to January 1, 2030.
+
+(b) *Inadmissible Alien.* An applicant who is inadmissible to the United States under section 212(a) of the Act, may, under section 209(c) of the Act, have the grounds of inadmissibility waived by the director (except for those grounds under paragraphs (27), (29), (33), and so much of (23) as relates to trafficking in narcotics) for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. An application for the waiver may be filed on Form I-602 (Application by Refugee for Waiver of Grounds of Excludability) with the application for adjustment. An applicant for adjustment who has had the status of an exchange alien nonimmigrant under section 101(a)(15)(J) of the Act, and who is subject to the foreign resident requirement of section 212(e) of the Act, shall be eligible for adjustment without regard to the foreign residence requirement.
+
+(c) *Application.* An application for the benefits of section 209(b) of the Act may be filed on Form I-485, with the correct fee, with the director of the appropriate Service office identified in the instructions to the Form I-485. A separate application must be filed by each alien. Every applicant who is 14 years of age or older must submit a completed Form G-325A (Biographic Information) with the Form I-485 application. Following submission of the Form I-485 application, every applicant who is 14 years of age or older will be required to execute a Form FD-258 (Applicant Fingerprint Card) at such time and place as the Service will designate. Except as provided in paragraph (a)(2) of this section, the application must also be supported by evidence that the applicant has been physically present in the United States for at least 1 year. If an alien has been placed in deportation or exclusion proceedings, the application can be filed and considered only in proceedings under section 240 of the Act.
+
+(d) *Medical examination.* An alien seeking adjustment of status under section 209(b) of the Act 1 year following the grant of asylum under section 208 of the Act shall submit the results of a medical examination to determine whether any grounds of inadmissibility described under section 212(a)(1)(A) of the Act apply. Form I-693, Medical Examination of Aliens Seeking Adjustment of Status, and a vaccination supplement to determine compliance with the vaccination requirements described under section 212(a)(1)(A)(ii) of the Act must be completed by a designed civil surgeon in the United States and submitted at the time of application for adjustment of status.
+
+(e) *Interview.* Each applicant for adjustment of status under this part shall be interviewed by an immigration officer. The interview may be waived for a child under 14 years of age. The Service director having jurisdiction over the application will determine, on a case-by-case basis, whether an interview by an immigration officer is necessary to determine the applicant's admissibility for permanent resident status under this part.
+
+(f) *Decision.* The applicant shall be notified of the decision, and if the application is denied, of the reasons for denial. No appeal shall lie from the denial of an application by the director but such denial will be without prejudice to the alien's right to renew the application in proceedings under part 240 of this chapter. If the application is approved, the director shall record the alien's admission for lawful permanent residence as of the date one year before the date of the approval of the application, but not earlier than the date of the approval for asylum in the case of an applicant approved under paragraph (a)(2) of this section.
+
+[46 FR 45119, Sept. 10, 1981, as amended at 56 FR 26898, June 12, 1991; 57 FR 42883, Sept. 17, 1992; 63 FR 30109, June 3, 1998; 74 FR 55742, Oct. 28, 2009; 85 FR 23904, Apr. 30, 2020]

@@ -1,0 +1,40 @@
+---
+title: "12 CFR Part 1001 — FINANCIAL PRODUCTS OR SERVICES"
+identifier: "12 CFR Part 1001"
+type: regulation
+jurisdiction: us
+language: en
+last_amended: 2026-10-02  # latest amendment date of the CFR title
+status: in_force
+source: "https://www.ecfr.gov/current/title-12/part-1001"
+retrieved: 2026-10-11
+ecfr_bulk_modified: "06-Oct-2026 21:51"
+---
+
+*Title 12—Banks and Banking › CHAPTER X—CONSUMER FINANCIAL PROTECTION BUREAU*
+
+# PART 1001—FINANCIAL PRODUCTS OR SERVICES
+
+**Authority:** 12 U.S.C. 5481(15)(A)(xi); and 12 U.S.C. 5512(b)(1).
+
+**Source:** 80 FR 37526, June 30, 2015, unless otherwise noted.
+
+## § 1001.1 Authority and purpose.
+
+Under 12 U.S.C. 5481(15)(A)(xi), the Bureau is authorized to define certain financial products or services for purposes of title X of the Dodd-Frank Act, Public Law 111-203, 124 Stat. 1376 (2010) (Title X) in addition to those defined in 12 U.S.C. 5481(15)(A)(i)-(x). The purpose of this part is to implement that authority.
+
+## § 1001.2 Definitions.
+
+Except as otherwise provided in Title X, in addition to the definitions set forth in 12 U.S.C. 5481(15)(A)(i)-(x), the term “financial product or service” means, for purposes of Title X:
+
+(a) Extending or brokering leases of an automobile, as automobile is defined by 12 CFR 1090.108(a), where the lease:
+
+(1) Qualifies as a full-payout lease and a net lease, as provided by 12 CFR 23.3(a), and has an initial term of not less than 90 days, as provided by 12 CFR 23.11; and
+
+(2) Is not a financial product or service under 12 U.S.C. 5481(15)(A)(ii).
+
+(b) Providing financial data processing products or services by any technological means, including processing, storing, aggregating, or transmitting financial or banking data, alone or in connection with another product or service, where the financial data processing is not offered or provided by a person who, by operation of 12 U.S.C. 5481(15)(A)(vii)(I) or (II), is not a covered person.
+
+(c) [Reserved]
+
+[80 FR 37526, June 30, 2015, as amended at 89 FR 90989, Nov. 18, 2024]
